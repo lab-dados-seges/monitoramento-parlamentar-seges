@@ -4,9 +4,6 @@ import streamlit as st
 from datetime import datetime, timedelta
 import io
 
-# Configuração da página do Streamlit
-st.set_page_config(layout='wide')
-
 # Título da aplicação
 st.title('Monitoramento de Proposições Legislativas - Câmara dos Deputados')
 st.write("""
@@ -33,6 +30,7 @@ params = {
 
 # Lista para armazenar resultados
 proposicoes_filtradas = []
+alertas = []  # Lista para coletar alertas
 
 # Requisição inicial
 st.info("Buscando dados das proposições...")
@@ -89,22 +87,48 @@ else:
         # Construir o link para a ficha de tramitação
         link_tramitacao = f"https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao={proposicao['id']}"
 
-        # Adicionar à tabela
+        # Formatar a situação da tramitação
         situacao_formatada = (
             f'<b><span style="color:red;">{situacao_tramitacao}</span></b>'
             if "pauta" in situacao_tramitacao.lower() else situacao_tramitacao
         )
+        if "pauta" in situacao_tramitacao.lower():
+            alertas.append({
+                "Sigla": proposicao["siglaTipo"],
+                "Número": proposicao["numero"],
+                "Link": link_tramitacao,
+                "Situação": situacao_tramitacao
+            })
 
+        # Formatar ementa para destacar palavras específicas
+        ementa = proposicao["ementa"]
+        for termo in ["Esther Dweck", "MGI"]:
+            ementa = ementa.replace(
+                termo,
+                f'<b><span style="color:red;">{termo}</span></b>'
+            )
+
+        # Adicionar à tabela
         rows.append({
             "Sigla Tipo": proposicao["siglaTipo"],
             "Número (Link)": f'<a href="{link_tramitacao}" target="_blank">{proposicao["numero"]}</a>',
             "Ano": proposicao["ano"],
-            "Ementa": proposicao["ementa"],
+            "Ementa": ementa,
             "Situação Tramitação": situacao_formatada,
             "Despacho": despacho,
             "Órgão Última Tramitação (Sigla)": sigla_orgao,
             "Link para o Inteiro Teor": f'<a href="{link_inteiro_teor}" target="_blank">Clique aqui</a>' if link_inteiro_teor != "Não disponível" else "Não disponível"
         })
+
+    # Mostrar alertas no topo
+    if alertas:
+        st.warning("⚠️ Atenção: Algumas proposições estão em pauta! Verifique abaixo:")
+        for alerta in alertas:
+            st.write(
+                f"- **{alerta['Sigla']} {alerta['Número']}** - "
+                f"[Link para tramitação]({alerta['Link']}) - "
+                f"Situação: {alerta['Situação']}"
+            )
 
     # Criar DataFrame para exibição no Streamlit
     df = pd.DataFrame(rows)

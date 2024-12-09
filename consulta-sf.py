@@ -4,9 +4,6 @@ import streamlit as st
 import io
 import xmltodict  # Adicionado para processar XML
 
-# Configuração da página do Streamlit
-st.set_page_config(layout='wide')
-
 # Título da aplicação
 st.title('Monitoramento de Proposições Legislativas - Senado Federal')
 st.write("""
