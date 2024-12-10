@@ -29,11 +29,11 @@ jobs:
 
       # Executar script de atualização da Câmara
       - name: Atualizar dados da Câmara
-        run: python update_camara.py
+        run: python update-camara.py
 
       # Executar script de atualização do Senado
       - name: Atualizar dados do Senado
-        run: python update_senado.py
+        run: python update-senado.py
 
       # Commit e push dos arquivos atualizados
       - name: Commit e push dos arquivos atualizados
