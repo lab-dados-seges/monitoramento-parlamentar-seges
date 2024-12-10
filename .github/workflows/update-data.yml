@@ -42,6 +42,6 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add dados_camara.json dados_senado.json
+          git add data-json/dados_camara.json data-json/dados_senado.json
           git commit -m "Atualização diária dos dados legislativos"
           git push
