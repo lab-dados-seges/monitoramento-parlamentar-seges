@@ -10,18 +10,8 @@ file_senado = "./data-json/dados_senado.json"
 
 # Configuração do Streamlit
 st.set_page_config(page_title="Monitoramento Legislativo", layout="wide")
-st.title("Monitoramento Legislativo SEGES/MGI")
-st.write("""
-Este aplicativo permite consultar proposições legislativas que tiveram tramitação nos últimos **30 dias** na **Câmara dos Deputados** e no **Senado Federal**.
 
-As proposições exibidas são relacionadas a temas de interesse específicos, como:
-- **Inovação**
-- **Gestão**
-- **Compras**
-- **Administração Pública**
-""")
-st.sidebar.write("Escolha o local da consulta:")
-
+# Menu de navegação
 opcao = st.sidebar.selectbox("Consulta:", ["Selecione...", "Câmara dos Deputados", "Senado Federal"])
 
 # Palavras-chave para destacar
@@ -94,8 +84,21 @@ def exibir_dados(titulo, dados, campo_alerta):
             unsafe_allow_html=True
         )
 
+# Conteúdo da página inicial (Home)
+if opcao == "Selecione...":
+    st.title("Monitoramento Legislativo SEGES/MGI")
+    st.write("""
+    Este aplicativo permite consultar proposições legislativas que tiveram tramitação nos últimos **30 dias** na **Câmara dos Deputados** e no **Senado Federal**.
+
+    As proposições exibidas são relacionadas a temas de interesse específicos, como:
+    - **Inovação**
+    - **Gestão**
+    - **Compras**
+    - **Administração Pública**
+    """)
+
 # Lógica para carregar e exibir os dados com base na escolha
-if opcao == "Câmara dos Deputados":
+elif opcao == "Câmara dos Deputados":
     dados = carregar_dados(file_camara)
     exibir_dados("Câmara dos Deputados", dados, campo_alerta="Despacho")
 
@@ -103,6 +106,7 @@ elif opcao == "Senado Federal":
     dados = carregar_dados(file_senado)
     exibir_dados("Senado Federal", dados, campo_alerta="Descrição Informe Legislativo")
 
+# Rodapé
 st.markdown("""
 <hr style="height:1px;border:none;color:#ccc;background-color:#ccc;" />
 <p style="text-align: center; font-size: 0.9em;">
