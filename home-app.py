@@ -12,7 +12,7 @@ file_senado = "./data-json/dados_senado.json"
 st.set_page_config(page_title="Monitoramento Legislativo", layout="wide")
 
 # Menu de navegação
-opcao = st.sidebar.selectbox("Consulta:", ["Selecione...", "Câmara dos Deputados", "Senado Federal"])
+opcao = st.sidebar.selectbox("Navegação:", ["Home", "Câmara dos Deputados", "Senado Federal"])
 
 # Palavras-chave para destacar
 PALAVRAS_CHAVE = ["pauta", "MGI", "Esther Dweck"]
@@ -60,7 +60,14 @@ def exibir_dados(titulo, dados, campo_alerta):
                     unsafe_allow_html=True
                 )
 
-        # Criar DataFrame para exportação (sem HTML)
+        # Garantir que os links sejam exibidos como hiperlinks
+        for col in ["Link para Tramitação", "Link para Inteiro Teor"]:
+            if col in df.columns:
+                df[col] = df[col].apply(
+                    lambda url: f'<a href="{url}" target="_blank">Clique aqui</a>' if pd.notnull(url) and url != "Não disponível" else "Não disponível"
+                )
+
+        # Criar DataFrame para exportação (removendo HTML dos links)
         df_excel = df.copy()
         for col in ["Link para Tramitação", "Link para Inteiro Teor"]:
             if col in df_excel.columns:
@@ -77,15 +84,37 @@ def exibir_dados(titulo, dados, campo_alerta):
             mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
         )
 
-        # Exibir resultados no Streamlit
+        # Exibir resultados no Streamlit com links clicáveis
         st.subheader(f"Resultados - {titulo}")
         st.write(
             df.to_html(escape=False, index=False),
-            unsafe_allow_html=True
+            unsafe_allow_html=True  # Permitir HTML nos links
         )
 
-# Conteúdo da página inicial (Home)
-if opcao == "Selecione...":
+# Função para criar botão "Voltar ao Início" no topo
+def botao_voltar_ao_inicio():
+    st.markdown(
+        """
+        <div style="text-align: right; margin-bottom: 1em;">
+            <form action="/" method="get">
+                <button style="
+                    background-color: #f63366;
+                    color: white;
+                    border: none;
+                    padding: 0.5em 1em;
+                    font-size: 1em;
+                    border-radius: 5px;
+                    cursor: pointer;">
+                    Voltar ao Início
+                </button>
+            </form>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+
+# Página inicial (Home)
+if opcao == "Home":
     st.title("Monitoramento Legislativo SEGES/MGI")
     st.write("""
     Este aplicativo permite consultar proposições legislativas que tiveram tramitação nos últimos **30 dias** na **Câmara dos Deputados** e no **Senado Federal**.
@@ -97,12 +126,15 @@ if opcao == "Selecione...":
     - **Administração Pública**
     """)
 
-# Lógica para carregar e exibir os dados com base na escolha
+# Página da Câmara dos Deputados
 elif opcao == "Câmara dos Deputados":
+    botao_voltar_ao_inicio()  # Botão no início
     dados = carregar_dados(file_camara)
     exibir_dados("Câmara dos Deputados", dados, campo_alerta="Despacho")
 
+# Página do Senado Federal
 elif opcao == "Senado Federal":
+    botao_voltar_ao_inicio()  # Botão no início
     dados = carregar_dados(file_senado)
     exibir_dados("Senado Federal", dados, campo_alerta="Descrição Informe Legislativo")
 
