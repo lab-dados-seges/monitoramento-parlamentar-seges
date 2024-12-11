@@ -18,6 +18,15 @@
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/130538"
     },
     {
+        "Tipo": "PLS",
+        "Número": "00035",
+        "Ano": "2018",
+        "Ementa": "Altera a Lei nº 9.784, de 29 de janeiro de 1999, que regula o processo administrativo no âmbito da Administração Pública Federal, para estabelecer a contagem de prazos em dias úteis e sua suspensão no período de 20 de dezembro a 20 de janeiro.",
+        "Sigla Colegiado": "Não informado",
+        "Descrição Informe Legislativo": "Remetido Ofício SF nº 569, de 19/07/19, à Senhora Primeira-Secretária da Câmara dos Deputados, encaminhando autógrafos do projeto para revisão, nos termos do art. 65 da Constituição Federal. (fls.19 e 20).\n\nÀ COARQ.",
+        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/132180"
+    },
+    {
         "Tipo": "PL",
         "Número": "00880",
         "Ano": "2019",
@@ -455,7 +464,7 @@
         "Ano": "2024",
         "Ementa": "Dispõe sobre a regulamentação de serviços e operações envolvendo tokens para ativos ambientais digitais e estabelece critérios, procedimentos e incentivos para a promoção da transparência, sustentabilidade e inovação.",
         "Sigla Colegiado": "CAE",
-        "Descrição Informe Legislativo": "Apresentado requerimento (Retirada de matéria ) na Comissão nesta data às 11:45.",
+        "Descrição Informe Legislativo": "Encerrada a relatoria do Senador Fernando Farias por deliberação da matéria.",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/165256"
     },
     {
@@ -545,7 +554,7 @@
         "Ano": "2024",
         "Ementa": "Altera o Decreto-Lei nº 1.804, de 3 de setembro de 1980, que trata da tributação simplificada das remessas postais internacionais, e a Lei nº 14.902, de 27 de junho de 2024, que institui o Programa Mobilidade Verde e Inovação (Programa Mover).",
         "Sigla Colegiado": "Não informado",
-        "Descrição Informe Legislativo": "Anexado o texto revisado.",
+        "Descrição Informe Legislativo": "Remetido Ofício SF n.º 1345, de 09/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a Mensagem SF n.º 249/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafo do Projeto.\n\nRemetido Ofício SF n.º 1346, de 09/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto foi encaminhado à sanção presidencial.",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166094"
     },
     {
@@ -598,8 +607,8 @@
         "Número": "00064",
         "Ano": "2024",
         "Ementa": "Submete à apreciação do Senado Federal, nos termos do art. 52, incisos V e VII e VIII, da Constituição, autorização para contratar operação de crédito externo, com a garantia da República Federativa do Brasil, no valor de US$ 42,500,000.00 (quarenta e dois milhões e quinhentos mil dólares dos Estados Unidos da América), de principal, entre o Governo do Estado de Tocantins e o Banco Interamericano de Desenvolvimento - BID, cujos recursos destinam-se ao financiamento parcial do Projeto de Modernização da Gestão Fiscal do Estado de Tocantins – PROFISCO II TO.",
-        "Sigla Colegiado": "CAE",
-        "Descrição Informe Legislativo": "Apresentado requerimento (Urgência para matéria) na Comissão nesta data às 12:32.",
+        "Sigla Colegiado": "PLEN",
+        "Descrição Informe Legislativo": "Encerrada a instrução da presente matéria, que concluiu pela apresentação do Projeto de Resolução nº 54, de 2024.",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166391"
     },
     {
@@ -608,7 +617,16 @@
         "Ano": "2024",
         "Ementa": "Requer informações à Senhora Esther Dweck, Ministra de Estado de Gestão e da Inovação em Serviços Públicos, sobre os dados apontados pelo Tribunal de Contas da União (TCU) em seu relatório TC 021.731/2019-5 [Apenso: TV 000.123/2023-4].",
         "Sigla Colegiado": "CDIR",
-        "Descrição Informe Legislativo": "Aguardando designação do relator.",
+        "Descrição Informe Legislativo": "Distribuído ao Senador Chico Rodrigues, para emitir relatório.",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166402"
+    },
+    {
+        "Tipo": "PRS",
+        "Número": "00066",
+        "Ano": "2024",
+        "Ementa": "Autoriza a contratação de operação de crédito externo com a garantia da República Federativa do Brasil no valor de US$ 80.000.000,00 (oitenta milhões de dólares dos Estados Unidos da América) entre o Município de Porto Alegre, Estado do Rio Grande do Sul, e a Corporação Andina de Fomento - CAF, cujos recursos destinam-se ao Projeto de Inovação Social para Transformação Territorial de Porto Alegre.",
+        "Sigla Colegiado": "PLEN",
+        "Descrição Informe Legislativo": "Cancelamento do prazo para Apresentação de Emendas a projeto de autoria de Comissão, em 12/12/2024. Motivação: Em virtude da deliberação da matéria pelo Plenário do Senado Federal.",
+        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166479"
     }
 ]

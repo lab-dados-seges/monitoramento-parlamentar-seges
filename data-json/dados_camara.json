@@ -180,9 +180,9 @@
         "Número": 4923,
         "Ano": 2019,
         "Ementa": "Altera a Lei n. 7.998, de 11 de janeiro de 1990, para dispor sobre a prestação de serviços do trabalhador à administração pública ou às entidades sem fins lucrativos durante a percepção do benefício do seguro-desemprego.",
-        "Situação Tramitação": "Parecer do(a) Relator(a)",
-        "Despacho": "Parecer do Relator, Dep. Ricardo Ayres (REPUBLIC-TO), pela constitucionalidade, juridicidade e técnica legislativa deste, da Emenda da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família e do Substitutivo da Comissão de Trabalho.",
-        "Órgão Última Tramitação (Sigla)": "CCJC",
+        "Situação Tramitação": "Publicação de Proposição",
+        "Despacho": "Encaminhada à publicação. Parecer da Comissão de Trabalho Publicado em avulso e no DCD de 11/12/2024, Letra B.",
+        "Órgão Última Tramitação (Sigla)": "CCP",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1804524",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2219282"
     },
@@ -345,8 +345,8 @@
         "Número": 705,
         "Ano": 2022,
         "Ementa": "Dispõe sobre a compatibilização dos sistemas de Inteligência Artificial utilizados pela Administração Pública a práticas da agenda ambiental, social e de governança.",
-        "Situação Tramitação": "Abertura de Prazo",
-        "Despacho": "Sujeito a arquivamento, nos termos do art. 54, combinado com o § 4º do art. 58 do RICD. Prazo para apresentação de recurso, nos termos do § 1º do art. 58 do RICD (5 sessões a partir de 02/12/2024).",
+        "Situação Tramitação": "Encerramento de Prazo",
+        "Despacho": "Encerramento automático do Prazo de Recurso 10/12/2024 23:48:00. Não foram apresentados recursos.",
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2152436",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2318674"
@@ -1126,9 +1126,9 @@
         "Número": 3841,
         "Ano": 2024,
         "Ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, para estabelecer a obrigatoriedade do estudo de noções de direito, cidadania e organização do Estado brasileiro e determinar a instituição de programas de imersão de estudantes de ensino fundamental e de ensino médio em órgãos e entidades da Administração Pública.",
-        "Situação Tramitação": "Apresentação de Requerimento",
-        "Despacho": "Apresentação do REQ n. 4677/2024 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Individual), pelos Deputados Amom Mandel (CIDADANIA/AM -Fdr PSDB-CIDADANIA) e Duda Ramos MDB, que \"Requeremos a inclusão de coautoria aos PLs 4579/2024, 4578/2024, 4348/2024, 4344/2024, 3948/2024, 3843/2024, 3842/2024, 3841/2024, 3840/2024, 3630/2024 e 3619/2024, com base no Regimento Interno da Câmara dos Deputados.\".",
-        "Órgão Última Tramitação (Sigla)": "PLEN",
+        "Situação Tramitação": "Notificações",
+        "Despacho": "Deferido o REQ n. 4677/2024.",
+        "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2482986",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2461386"
     },
@@ -1879,6 +1879,17 @@
         "Órgão Última Tramitação (Sigla)": "CLP",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2828788",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2473083"
+    },
+    {
+        "Sigla Tipo": "COI",
+        "Número": 2,
+        "Ano": 0,
+        "Ementa": "VOTO: pela aprovação deste relatório, com proposta de atualização do Anexo VI do PLN 26/2024 do Congresso Nacional (Projeto de Lei Orçamentária Anual para 2025), nos termos do Anexo 2 a este Relatório, e o submetemos à apreciação do Plenário desta Comissão, na forma prevista no art. 24 da Resolução 1/2006 do Congresso Nacional, com as seguintes propostas de providências adicionais à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização do Congresso Nacional: I – alertar o Presidente da República, a Comissão de Minas e Energia da Câmara dos Deputados e a Comissão de Serviços de Infraestrutura do Senado Federal, de que um conjunto de problemas interligados no setor nuclear vem de ser levantado pelo TCU e coloca riscos gravíssimos à sociedade e à economia, envolvendo: a) o atraso em fases críticas do projeto de implantação do Centro Tecnológico Nuclear e Ambiental (Centena), tais como a etapa de seleção do local do empreendimento, a elaboração de orçamento atualizado e cronograma adequado para a gestão de um projeto deste porte, assim como a precariedade da situação atual dos depósitos intermediários de rejeitos sob a responsabilidade da Comissão Nacional de Energia Nuclear - CNEN, coloca em grave risco a capacidade do país de gerenciar e estocar adequadamente os rejeitos de material nuclear, especialmente tendo em vista a previsão de esgotamento da capacidade de armazenamento dos depósitos iniciais de rejeitos de Angra 1 em 2028; b) a omissão na estruturação da Autoridade Nacional de Segurança Nuclear (ANSN) prevista na Lei 14.222/2021 e Decreto 11.142/2022, incluindo a formalização da cisão da sua estrutura em relação à CNEN e a nomeação do Diretor-Presidente e demais dirigentes, impede o cumprimento pelo país da Convenção de Segurança Nuclear de 1994 (ratificada pelo Decreto 2.648/1998) e compromete as atividades de fiscalização e controle da atividade nuclear nos termos da legislação pertinente; c) a baixa disponibilidade de recursos financeiros destinados ao programa de extensão de vida útil da usina de Angra 1 (Programa LTO Angra 1) compromete ao atingimento de seus objetivos, com o risco de perda da energia atualmente produzida pela usina e de custos diretos de descomissionamento caso não seja viabilizada tempestivamente a continuidade da operação; d) a ausência de uma decisão definitiva sobre a continuidade do empreendimento UTN Angra 3, inclusive quando à definição da tarifa respectiva, implica em prejuízos cada vez maiores à sociedade e à economia, tendo em vista que: os custos estimados para o consumidor de energia de continuar o projeto são maiores que os do seu abandono imediato (já incluídos o custo total de encerramento e o de produzir a mesma energia por outras fontes), contrariando o princípio da modicidade tarifária; numa eventual continuidade, a dependência de financiamentos-âncora a curto e médio prazo implica em riscos ainda maiores de elevação da tarifa de equilíbrio do projeto; o atual montante de recursos financeiros dedicados à execução provisória leva a atrasos no cronograma que tornam essa desvantagem financeira maior a cada mês. II – instar a CMO para a necessidade de reorientar recursos orçamentários hoje alocados pelo Congresso Nacional em finalidades menos críticas, tais como pavimentação e distribuição de equipamentos urbanos e rurais, para o financiamento de um programa de enfrentamento emergencial dos gargalos encontrados no setor nuclear, a partir de um pacote integrado de medidas discutido com o Poder Executivo que inclua respostas aos itens apontados no inciso anterior e outros pontos relevantes, sob pena de submeter a sociedade a riscos severos de acidentes e prejuízos econômicos; III - reiterar ao Tribunal de Contas da União que, ao contrário do que se sustenta no Acórdão 1928/2024 – TCU – Plenário, permanece premente a necessidade de regulamentar os procedimentos de avaliação das garantias e retenções cautelares nos casos de fiscalização de obras e serviços, bem como de adequada identificação da ocorrência das garantias suficientes para prevenir o possível dano ao erário até a decisão de mérito sobre o indício relatado, que habilitam à classificação de IGR, tendo as recentes alterações nos contextos normativo e negocial da contratação pública elevado, em lugar de reduzir, os riscos associados à indevida utilização desse mecanismo para a evasão de irregularidades frente ao controle de obras e serviços públicos; IV - representar ao Tribunal de Contas da União, para que, nos termos dos arts. 45 e 53 da Lei nº 8.443, de 16 de julho de 1992 e dos arts. 231 e 237, inc. III, de seu Regimento Interno19, adote as providências necessárias ao exato cumprimento da lei no tocante ao seguinte indício de irregularidade, observado no caso do Contorno Ferroviário de São Francisco do Sul/SC (Acórdão no 679/2024 – TCU – Plenário) e potencialmente em outras obras realizadas com recursos da União em ferrovias e outras infraestruturas de transporte objeto de concessão a empresas privadas: - aplicação de recursos federais em obras realizadas em ativos da União objeto de concessão ou arrendamento, sem o correspondente reequilíbrio econômico-financeiro do contrato correspondente para refletir o ganho de rentabilidade da operação proporcionado ao concessionário pela obra custeada pelo poder concedente sem previsão no edital licitatório, em violação ao princípio constitucional de vinculação à proposta (art. 37, inc. XXI, da Constituição Federal) e às disposições expressas dos arts. 104, caput, inc. I, e § 2º; 130, e 186 da Lei nº 14.133, de 1º de abril de 2021, e do art. 9º, caput e § 4º, da Lei nº 8.987, de 13 de fevereiro de 1995.",
+        "Situação Tramitação": "Notificações",
+        "Despacho": "Recebido Adendo ao Relatório nº 2/COI/CMO, de 2024, do Comitê de Avaliação das Informações sobre Obras e Serviços com Indícios de Irregularidades Graves - COI, Coordenador Deputado Lula da Fonte",
+        "Órgão Última Tramitação (Sigla)": "CMO",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2828854",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2473119"
     },
     {
         "Sigla Tipo": "PRL",
@@ -2814,5 +2825,16 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2837087",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2477335"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 240,
+        "Ano": 2024,
+        "Ementa": "Requer o encaminhamento de sugestão, à Procuradoria-Geral da República, para propositura de ação por crime de responsabilidade, praticado pelo Ministro de Educação, Sr. Camilo Santana, em razão do não comparecimento à reunião a qual foi convocado na Comissão de Educação da Câmara dos Deputados.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do REQ n. 240/2024 (Requerimento para envio de Indicação pela Comissão), pelo Deputado Delegado Paulo Bilynskyj (PL/SP), que \"Requer o encaminhamento de sugestão, à Procuradoria-Geral da República, para propositura de ação por crime de responsabilidade, praticado pelo Ministro de Educação, Sr. Camilo Santana, em razão do não comparecimento à reunião a qual foi convocado na Comissão de Educação da Câmara dos Deputados\".",
+        "Órgão Última Tramitação (Sigla)": "CE",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2838170",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2477877"
     }
 ]
