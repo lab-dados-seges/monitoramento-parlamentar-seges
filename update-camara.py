@@ -2,8 +2,14 @@ import requests
 import json
 from datetime import datetime, timedelta
 
-# Temas de interesse
-TEMAS = ["inovação", "gestão", "compras", "administração pública"]
+# Carrega verbetes de um arquivo externo TXT
+def carregar_verbetes(caminho):
+    with open(caminho, 'r', encoding='utf-8') as file:
+        return [line.strip() for line in file if line.strip()]
+
+# Caminho para o verbetes.txt
+caminho_verbetes = 'verbetes.txt'
+TEMAS = carregar_verbetes(caminho_verbetes)
 
 # API da Câmara
 url_proposicoes = "https://dadosabertos.camara.leg.br/api/v2/proposicoes"

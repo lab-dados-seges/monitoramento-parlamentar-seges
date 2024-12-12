@@ -3,8 +3,14 @@ import json
 import xmltodict
 from datetime import datetime, timedelta
 
-# Temas de interesse
-TEMAS = ["inovação", "gestão", "compras", "administração pública"]
+# Carrega verbetes de um arquivo externo TXT
+def carregar_verbetes(caminho):
+    with open(caminho, 'r', encoding='utf-8') as file:
+        return [line.strip() for line in file if line.strip()]
+
+# Caminho para o verbetes.txt
+caminho_verbetes = 'verbetes.txt'
+TEMAS = carregar_verbetes(caminho_verbetes)
 
 # API do Senado
 url_materias = "https://legis.senado.leg.br/dadosabertos/materia/atualizadas"

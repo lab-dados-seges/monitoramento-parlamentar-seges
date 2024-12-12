@@ -15,7 +15,7 @@ st.set_page_config(page_title="Monitoramento Legislativo", layout="wide")
 opcao = st.sidebar.selectbox("Navegação:", ["Home", "Câmara dos Deputados", "Senado Federal"])
 
 # Palavras-chave para destacar
-PALAVRAS_CHAVE = ["pauta", "MGI", "Esther Dweck"]
+PALAVRAS_CHAVE = ["pauta", "MGI", "Esther Dweck", "Gestão e da Inovação em Serviços Públicos"]
 
 # Função para carregar os dados do JSON
 def carregar_dados(caminho):
