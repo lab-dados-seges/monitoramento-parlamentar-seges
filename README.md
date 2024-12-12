@@ -28,9 +28,10 @@ Você pode acessar o monitoramento diretamente pelo link abaixo:
 ### Versão 1.0 (13/12/2024)
 - Lançamento inicial da aplicação.
 - Implementação de consultas na Câmara dos Deputados e Senado Federal.
-- Destacar palavras-chave como "pauta", "MGI" e "Esther Dweck" em ementas e despachos.
+- Destacar palavras-chave como "pauta", "MGI", "Esther Dweck" e "Gestão e Inovação em Serviços Públicos" em ementas e despachos.
 - Exportação de dados para Excel.
 - Atualização automática de dados via GitHub Actions.
+- Lista de verbetes em arquivo externo para fácil inserção de novos temas de interesse.
 
 
 <p align="center"><b>Este aplicativo foi desenvolvido pelo Núcleo de Gestão da Informação e do Conhecimento da SEGES/MGI.</b></p>
