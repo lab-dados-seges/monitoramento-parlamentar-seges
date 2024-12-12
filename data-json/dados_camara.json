@@ -275,6 +275,17 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2279119"
     },
     {
+        "Sigla Tipo": "PL",
+        "Número": 2520,
+        "Ano": 2021,
+        "Ementa": "Autoriza o Poder Executivo a remanejar emendas de relator à lei orçamentária de 2021 para financiar ações de educação superior e ciência e tecnologia e inovação.",
+        "Situação Tramitação": "Abertura de Prazo",
+        "Despacho": "Sujeito a arquivamento, nos termos do § 4º do art. 164 do RICD. Prazo para apresentação de recurso, nos termos do § 2º do art. 164 do RICD (5 sessões a partir de 13/12/2024)",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2043442",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2290664"
+    },
+    {
         "Sigla Tipo": "PEC",
         "Número": 21,
         "Ano": 2021,
@@ -345,8 +356,8 @@
         "Número": 705,
         "Ano": 2022,
         "Ementa": "Dispõe sobre a compatibilização dos sistemas de Inteligência Artificial utilizados pela Administração Pública a práticas da agenda ambiental, social e de governança.",
-        "Situação Tramitação": "Encerramento de Prazo",
-        "Despacho": "Encerramento automático do Prazo de Recurso 10/12/2024 23:48:00. Não foram apresentados recursos.",
+        "Situação Tramitação": "Arquivamento",
+        "Despacho": "Arquivado nos termos do art. 54, combinado com o § 4º do artigo 58 do RICD (inconstitucionalidade e/ou injuridicidade).",
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2152436",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2318674"
@@ -372,17 +383,6 @@
         "Órgão Última Tramitação (Sigla)": "CASP",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2239546",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2350081"
-    },
-    {
-        "Sigla Tipo": "PL",
-        "Número": 2336,
-        "Ano": 2023,
-        "Ementa": "Dispõe sobre o exercício da atividade de condutor de ambulância da administração pública e iniciativa privada.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Remessa ao Senado Federal por meio do Of. nº 355/2024/PS-GSE.",
-        "Órgão Última Tramitação (Sigla)": "MESA",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2267897",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2359820"
     },
     {
         "Sigla Tipo": "PL",
@@ -433,8 +433,8 @@
         "Número": 10,
         "Ano": 2023,
         "Ementa": "Sugestão de Indicação (INC) ao Ministério da Educação (MEC) para propor a inclusão do componente curricular transversal 'Educação urbanística' nas Diretrizes Curriculares Nacionais Gerais para a Educação Básica.",
-        "Situação Tramitação": "Retirada de Pauta",
-        "Despacho": "Retirado de pauta, de ofício, em virtude da ausência do Relator.",
+        "Situação Tramitação": "Aprovação do Parecer",
+        "Despacho": "Aprovado o Parecer.",
         "Órgão Última Tramitação (Sigla)": "CLP",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2303275",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2374663"
@@ -477,8 +477,8 @@
         "Número": 4935,
         "Ano": 2023,
         "Ementa": "Altera o Decreto-Lei nº 2.847, de 07 de dezembro de 1940 - Código Penal Brasileiro, para agravar as penas dos crimes de furto, roubo e de receptação de qualquer tipo de insumo, equipamento ou estrutura relacionados ao fornecimento de serviço público essencial de educação, saúde, transporte, segurança, fornecimento de energia, de telecomunicações ou de internet para transmissão de dados, prestados diretamente pela administração pública, concessionários ou permissionários.",
-        "Situação Tramitação": "Notificações",
-        "Despacho": "Designado Relator, Dep. Otoni de Paula (MDB-RJ), para o PL 5845/2016, ao qual esta proposição está apensada.",
+        "Situação Tramitação": "Prejudicialidade (Plenário)",
+        "Despacho": "Matéria aprovada na forma do Substitutivo ao Projeto de Lei nº 5.845, de 2016, adotado pelo relator da Comissão de Constituição e Justiça e de Cidadania (Sessão Deliberativa Extraordinária de 11/12/2024 - 13:55 - 232ª Sessão). Esta proposição fica prejudicada, na forma do art. 191 do RICD.",
         "Órgão Última Tramitação (Sigla)": "PLEN",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2343380",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2395271"
@@ -521,8 +521,8 @@
         "Número": 3,
         "Ano": 2024,
         "Ementa": "Altera a Lei Complementar n° 101, de 4 de maio de 2000, para prever a criação de conselhos de controle social da gestão fiscal.",
-        "Situação Tramitação": "Parecer do(a) Relator(a)",
-        "Despacho": "Parecer do Relator, Dep. Mauro Benevides Filho (PDT-CE), pela não implicação da matéria em aumento ou diminuição da receita ou da despesa públicas, não cabendo pronunciamento quanto à adequação financeira e orçamentária; e, no mérito, pela aprovação, com emenda.",
+        "Situação Tramitação": "Aprovação do Parecer",
+        "Despacho": "Aprovado o Parecer.",
         "Órgão Última Tramitação (Sigla)": "CFT",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2386304",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2417660"
@@ -653,8 +653,8 @@
         "Número": 2424,
         "Ano": 2024,
         "Ementa": "Altera a Lei nº 11.326, de 24 de julho de 2006, e a Lei nº 12.512, de 14 de outubro de 2011, para dispor sobre o planejamento e a gestão de riscos em eventos climáticos na Política Nacional da Agricultura Familiar e Empreendimentos Familiares Rurais e no Programa de Fomento às Atividades Produtivas Rurais.",
-        "Situação Tramitação": "Parecer do(a) Relator(a)",
-        "Despacho": "Parecer do Relator, Dep. Bandeira de Mello (PSB-RJ), pela aprovação.",
+        "Situação Tramitação": "Aprovação do Parecer",
+        "Despacho": "Aprovado o Parecer.",
         "Órgão Última Tramitação (Sigla)": "CMADS",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2438479",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2441270"
@@ -669,17 +669,6 @@
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2443700",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2443917"
-    },
-    {
-        "Sigla Tipo": "MPV",
-        "Número": 1236,
-        "Ano": 2024,
-        "Ementa": "Altera o Decreto-Lei nº 1.804, de 3 de setembro de 1980, que dispõe sobre tributação simplificada das remessas postais internacionais, e a Lei nº 14.902, de 27 de junho de 2024, que institui o Programa Mobilidade Verde e Inovação (Programa Mover).",
-        "Situação Tramitação": "Perda de eficácia",
-        "Despacho": "Ato n. 105, de 31/10/2024, do Presidente da Mesa do Congresso Nacional, comunica o encerramento do prazo de vigência da Medida Provisória n. 1236, de 2024, no dia 25 de outubro do corrente ano (DOU de 31/10/2024 - Seção 1 - página 03)",
-        "Órgão Última Tramitação (Sigla)": "PLEN",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2451172",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2443935"
     },
     {
         "Sigla Tipo": "PL",
@@ -719,8 +708,8 @@
         "Número": 1244,
         "Ano": 2024,
         "Ementa": "Abre crédito extraordinário, em favor dos Ministérios da Gestão e da Inovação em Serviços Públicos, do Desenvolvimento Agrário e Agricultura Familiar, e da Integração e do\n Desenvolvimento Regional; do Banco Central do Brasil; e de Encargos Financeiros da União, no valor de R$ 1.253.601.800,00, para os fins que especifica.",
-        "Situação Tramitação": "Transformação em Norma Jurídica",
-        "Despacho": "Transformado na Lei Ordinária 15036/2024. DOU 28/11/2024 PÁG 02 COL 02.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Recebido Ofício nº 344/2024-CN que comunica promulgação da Lei nº 15.036, de 27 de novembro de 2024 - MPV 1244/2024.",
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2458988",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2449941"
@@ -731,7 +720,7 @@
         "Ano": 2024,
         "Ementa": "Altera a Lei nº 14.902, de 27 de junho de 2024, que institui o Programa Mobilidade Verde e Inovação - Programa Mover.",
         "Situação Tramitação": "Perda de eficácia",
-        "Despacho": "Perda de eficácia na Comissão Mista",
+        "Despacho": "Ato n. 123, de 11/12/2024, do Presidente da Mesa do Congresso Nacional, comunica o encerramento do prazo de vigência da Medida Provisória n. 1249, de 2024, no dia 02 de dezembro do corrente ano (DOU de 11/12/2024 - Seção 1 - página 01)",
         "Órgão Última Tramitação (Sigla)": "PLEN",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2460960",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2450712"
@@ -768,28 +757,6 @@
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2461430",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2451752"
-    },
-    {
-        "Sigla Tipo": "RIC",
-        "Número": 3129,
-        "Ano": 2024,
-        "Ementa": "Requer informações à Exma. Sra. Ministra do Meio Ambiente e Mudança do Clima sobre a gestão dos resíduos sólidos no estado do Rio de Janeiro, detalhando as iniciativas de reciclagem, tratamento e destinação final adequada.",
-        "Situação Tramitação": "Providência Interna - Comunicação de resposta ostensiva",
-        "Despacho": "Encaminhamento de resposta por meio do sistema Infoleg",
-        "Órgão Última Tramitação (Sigla)": "1SECM",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2464424",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2452877"
-    },
-    {
-        "Sigla Tipo": "RIC",
-        "Número": 3130,
-        "Ano": 2024,
-        "Ementa": "Requer informações ao Exmo. Sr. Ministro de Estado de Minas e energia informações detalhadas sobre a gestão dos recursos energéticos no estado do Rio de Janeiro, detalhando os investimentos realizados, concessões, contratos firmados, processos de licitação e parcerias estabelecidas.",
-        "Situação Tramitação": "Providência Interna - Comunicação de resposta ostensiva",
-        "Despacho": "Encaminhamento de resposta por meio do sistema Infoleg",
-        "Órgão Última Tramitação (Sigla)": "1SECM",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2464426",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2452879"
     },
     {
         "Sigla Tipo": "REQ",
@@ -841,7 +808,7 @@
         "Ano": 2024,
         "Ementa": "Altera o Decreto-Lei nº 1.804, de 3 de setembro de 1980, que dispõe sobre tributação simplificada das remessas postais internacionais, e a Lei nº 14.902, de 27 de junho de 2024, que institui o Programa Mobilidade Verde e Inovação (Programa Mover).",
         "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do DOC n. 1584/2024 (Ofício do Senado Federal), pelo Senado Federal, que \"Comunica que, aprovado pelo Senado Federal, em revisão, foi encaminhado ao Excelentíssimo Senhor Presidente da República, para os fins constantes do art. 66 da Constituição Federal, o Projeto de Lei n° 3.449, de 2024, que 'Altera o Decreto-Lei n° 1.804, de 3 de setembro de 1980, que trata da tributação simplificada das remessas postais internacionais, e a Lei n° 14.902, de 27 de junho de 2024, que institui o Programa Mobilidade Verde e Inovação (Programa Mover)'. \".",
+        "Despacho": "Recebido Ofício nº 1346/2024-SF que comunica remessa à sanção do PL 3449/2024.",
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2472711",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2456554"
@@ -1189,22 +1156,11 @@
     },
     {
         "Sigla Tipo": "RIC",
-        "Número": 3757,
-        "Ano": 2024,
-        "Ementa": "Requer, nos termos constitucionais e regimentais, que sejam prestadas informações pelo Excelentíssimo Senhor Ministro da Controladoria-Geral da União (CGU),Vinicius Marques de Carvalho, sobre irregularidades na gestão dos descontos previdenciários de aposentados e pensionistas.",
-        "Situação Tramitação": "Abertura de Prazo",
-        "Despacho": "Prazo para Resposta Externas (de 12/11/2024 a 11/12/2024)",
-        "Órgão Última Tramitação (Sigla)": "1SECM",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2486119",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2462909"
-    },
-    {
-        "Sigla Tipo": "RIC",
         "Número": 3777,
         "Ano": 2024,
         "Ementa": "Requer informações à Ministra da Gestão e da Inovação em Serviços Públicos (MGI), no âmbito do Instituto Nacional de Tecnologia da Informação, sobre a competência de regulação de sobre autenticação de atestados médicos da plataforma anunciada Atesta CFM.",
-        "Situação Tramitação": "Abertura de Prazo",
-        "Despacho": "Prazo para Resposta Externas (de 12/11/2024 a 11/12/2024)",
+        "Situação Tramitação": "Providência Interna - Comunicação de resposta ostensiva",
+        "Despacho": "Encaminhamento de resposta por meio do sistema Infoleg",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2486693",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2463121"
@@ -1236,8 +1192,8 @@
         "Número": 3883,
         "Ano": 2024,
         "Ementa": "Requer a Excelentíssima Senhora Ministra de Estado da Gestão e da Inovação em Serviços Públicos informações acerca das ações para a reestruturação de carreiras dos servidores da Cultura.",
-        "Situação Tramitação": "Abertura de Prazo",
-        "Despacho": "Prazo para Resposta Externas (de 12/11/2024 a 11/12/2024)",
+        "Situação Tramitação": "Providência Interna - Comunicação de resposta ostensiva",
+        "Despacho": "Encaminhamento de resposta por meio do sistema Infoleg",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2488502",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2463731"
@@ -1687,9 +1643,9 @@
         "Número": 4215,
         "Ano": 2024,
         "Ementa": "Solicita ao Ministério das Comunicações informações da Presidência dos Correios a respeito da concessão de cargos a investigados por gestão fraudulenta e improbidade administrativa",
-        "Situação Tramitação": "Parecer do(a) Relator(a)",
-        "Despacho": "Parecer do Relator, Dep. Marcos Pereira (REPUBLIC-SP), pela aprovação.",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Situação Tramitação": "Publicação de Despacho",
+        "Despacho": "Publicação inicial no DCD do dia 12/12/2024",
+        "Órgão Última Tramitação (Sigla)": "PLEN",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2824316",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2470805"
     },
@@ -1709,9 +1665,9 @@
         "Número": 4228,
         "Ano": 2024,
         "Ementa": "Requer informações a Ministra de Estado da Saúde, Sra. Nísia Trindade Lima, acerca da omissão do Governo Federal no enfrentamento da Covid-19 em sua gestão, conforme divulgado pelo Ministério Público Federal (MPF).",
-        "Situação Tramitação": "Parecer do(a) Relator(a)",
-        "Despacho": "Parecer do Relator, Dep. Marcos Pereira (REPUBLIC-SP), pela aprovação.",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Situação Tramitação": "Publicação de Despacho",
+        "Despacho": "Publicação inicial no DCD do dia 12/12/2024",
+        "Órgão Última Tramitação (Sigla)": "PLEN",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2824832",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2470983"
     },
@@ -1731,9 +1687,9 @@
         "Número": 4234,
         "Ano": 2024,
         "Ementa": "Requer informações ao Ministro de Estado das Comunicações, Sr. Juscelino Filho, acerca da gestão do presidente dos Correios, Fabiano Silva dos Santos, que nomeou como assessores pessoais dois indivíduos com histórico de irregularidades na gestão de fundos de pensão: Júlio Vicente Lopes e Maurício Marcellini.",
-        "Situação Tramitação": "Parecer do(a) Relator(a)",
-        "Despacho": "Parecer do Relator, Dep. Marcos Pereira (REPUBLIC-SP), pela aprovação.",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Situação Tramitação": "Publicação de Despacho",
+        "Despacho": "Publicação inicial no DCD do dia 12/12/2024",
+        "Órgão Última Tramitação (Sigla)": "PLEN",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2825263",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2471122"
     },
@@ -1819,9 +1775,9 @@
         "Número": 4289,
         "Ano": 2024,
         "Ementa": "Requerimento de informação à Ministra da Ciência, Tecnologia e Inovação, Sra. Luciana Barbosa de Oliveira Santos, sobre memorando de entendimento assinado entre o Ministério da Ciência, Tecnologia e Inovação do Brasil e a Autoridade de Energia Atômica da China.",
-        "Situação Tramitação": "Parecer do(a) Relator(a)",
-        "Despacho": "Parecer do Relator, Dep. Marcos Pereira (REPUBLIC-SP), pela aprovação.",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Situação Tramitação": "Publicação de Despacho",
+        "Despacho": "Publicação inicial no DCD do dia 12/12/2024",
+        "Órgão Última Tramitação (Sigla)": "PLEN",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2827057",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2472068"
     },
@@ -1841,9 +1797,9 @@
         "Número": 4304,
         "Ano": 2024,
         "Ementa": "Requer da Excelentíssima Ministra da Gestão e da Inovação em Serviços Públicos do Brasil, Senhora Esther Dweck, informações acerca da comitiva brasileira composta por 1.914 pessoas, que o Brasil enviou à COP29.",
-        "Situação Tramitação": "Recebimento",
-        "Despacho": "Recebimento pela 1VIPR.",
-        "Órgão Última Tramitação (Sigla)": "1VIPR",
+        "Situação Tramitação": "Parecer do(a) Relator(a)",
+        "Despacho": "Parecer do Relator, Dep. Marcos Pereira (REPUBLIC-SP), pela aprovação.",
+        "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2828008",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2472780"
     },
@@ -1929,9 +1885,9 @@
         "Número": 4375,
         "Ano": 2024,
         "Ementa": "Solicita informações a Sr.ª Ministra da Gestão e da Inovação em Serviços Públicos, quanto à legitimidade para execução de emendas parlamentares pelas associações, entidades e instituições, na esfera Federal, Estadual e Municipal.",
-        "Situação Tramitação": "Recebimento",
-        "Despacho": "Recebimento pela 1VIPR.",
-        "Órgão Última Tramitação (Sigla)": "1VIPR",
+        "Situação Tramitação": "Parecer do(a) Relator(a)",
+        "Despacho": "Parecer do Relator, Dep. Marcos Pereira (REPUBLIC-SP), pela aprovação.",
+        "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2829837",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2473476"
     },
@@ -1984,8 +1940,8 @@
         "Número": 1742,
         "Ano": 2024,
         "Ementa": "Sugere ao Ministério da Pesca e Aquicultura um levantamento dos estoques pesqueiros nos rios do Amazonas, visando à implementação de programas e ações de gestão pesqueira.",
-        "Situação Tramitação": "Recebimento",
-        "Despacho": "Recebimento pela 1SECM.",
+        "Situação Tramitação": "Remessa a Ministério",
+        "Despacho": "Remessa por meio do Ofício 1ªSec/I/E nº 84/2024, ao Ministro de Estado da Secretaria de Relações Institucionais da Presidência da República.",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2830220",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2473734"
@@ -2182,8 +2138,8 @@
         "Número": 1753,
         "Ano": 2024,
         "Ementa": "Sugere ao Ministério da Gestão e da Inovação em Serviços Públicos a realização de estudo para a viabilidade de entrega domiciliar das Carteiras de Identidade Nacional (CINs), especialmente para pessoas que enfrentam dificuldades de locomoção.",
-        "Situação Tramitação": "Recebimento",
-        "Despacho": "Recebimento pela 1SECM.",
+        "Situação Tramitação": "Remessa a Ministério",
+        "Despacho": "Remessa por meio do Ofício 1ªSec/I/E nº 84/2024, ao Ministro de Estado da Secretaria de Relações Institucionais da Presidência da República.",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2830895",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2474250"
@@ -2193,8 +2149,8 @@
         "Número": 1754,
         "Ano": 2024,
         "Ementa": "Sugere ao Ministério da Gestão e da Inovação em Serviços Públicos o incentivo às Secretarias Estaduais para a criação de um sistema eficiente que informe os cidadãos sobre a disponibilidade de suas Carteiras de Identidade Nacional (CINs) para retirada.",
-        "Situação Tramitação": "Recebimento",
-        "Despacho": "Recebimento pela 1SECM.",
+        "Situação Tramitação": "Remessa a Ministério",
+        "Despacho": "Remessa por meio do Ofício 1ªSec/I/E nº 84/2024, ao Ministro de Estado da Secretaria de Relações Institucionais da Presidência da República.",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2830900",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2474251"
@@ -2435,8 +2391,8 @@
         "Número": 1769,
         "Ano": 2024,
         "Ementa": "Sugere ao Ministério de Ciência, Tecnologia e Inovação a ampliação de centros de pesquisa voltados ao desenvolvimento de soluções inovadoras em descarbonização e tecnologias de baixo carbono.",
-        "Situação Tramitação": "Recebimento",
-        "Despacho": "Recebimento pela 1SECM.",
+        "Situação Tramitação": "Remessa a Ministério",
+        "Despacho": "Remessa por meio do Ofício 1ªSec/I/E nº 84/2024, ao Ministro de Estado da Secretaria de Relações Institucionais da Presidência da República.",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2831467",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2474595"
@@ -2534,8 +2490,8 @@
         "Número": 1783,
         "Ano": 2024,
         "Ementa": "Sugere à Excelentíssima Ministra da Gestão e da Inovação em Serviços Públicos a reestruturação na carreira dos servidores da SUFRAMA – Superintendência da Zona Franca de Manaus.",
-        "Situação Tramitação": "Recebimento",
-        "Despacho": "Recebimento pela 1SECM.",
+        "Situação Tramitação": "Remessa a Ministério",
+        "Despacho": "Remessa por meio do Ofício 1ªSec/I/E nº 84/2024, ao Ministro de Estado da Secretaria de Relações Institucionais da Presidência da República.",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2832317",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2474983"
@@ -2545,9 +2501,9 @@
         "Número": 4491,
         "Ano": 2024,
         "Ementa": "Requer ao Ministério da Gestão, Inovação e Serviços Públicos informações acerca da reestruturação da carreira do Instituto Nacional da Propriedade Intelectual (INPI)",
-        "Situação Tramitação": "Recebimento",
-        "Despacho": "Recebimento pela 1VIPR.",
-        "Órgão Última Tramitação (Sigla)": "1VIPR",
+        "Situação Tramitação": "Parecer do(a) Relator(a)",
+        "Despacho": "Parecer do Relator, Dep. Marcos Pereira (REPUBLIC-SP), pela aprovação.",
+        "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2832358",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2475012"
     },
@@ -2765,8 +2721,8 @@
         "Número": 50,
         "Ano": 2024,
         "Ementa": "Requer a realização de audiência pública para debater a legalidade e os efeitos do Decreto Presidencial nº 12.282, de 29 de novembro de 2024, que redefine as competências no âmbito da administração pública federal relacionadas aos compromissos decorrentes de leilões de autorização para o uso de radiofrequência.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do REQ n. 50/2024 (Requerimento de Audiência Pública), pelo Deputado Cezinha de Madureira (PSD/SP), que \"Requer a realização de audiência pública para debater a legalidade e os efeitos do Decreto Presidencial nº 12.282, de 29 de novembro de 2024, que redefine as competências no âmbito da administração pública federal relacionadas aos compromissos decorrentes de leilões de autorização para o uso de radiofrequência\".",
+        "Situação Tramitação": "Apresentação de Requerimento",
+        "Despacho": "Apresentação do REQ n. 51/2024 (Requerimento de Retirada de Proposição de Iniciativa Individual), pelo Deputado Cezinha de Madureira (PSD/SP), que \"Requeiro, com base no art. 104 do Regimento Interno da Câmara dos Deputados, a retirada do REQ 50/2024 CCOM, de minha autoria, de tramitação\".",
         "Órgão Última Tramitação (Sigla)": "CCOM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2836212",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2476880"
@@ -2805,23 +2761,12 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2477162"
     },
     {
-        "Sigla Tipo": "DOC",
-        "Número": 1584,
-        "Ano": 2024,
-        "Ementa": "Comunica que, aprovado pelo Senado Federal, em revisão, foi encaminhado ao Excelentíssimo Senhor Presidente da República, para os fins constantes do art. 66 da Constituição Federal, o Projeto de Lei n° 3.449, de 2024, que \"Altera o Decreto-Lei n° 1.804, de 3 de setembro de 1980, que trata da tributação simplificada das remessas postais internacionais, e a Lei n° 14.902, de 27 de junho de 2024, que institui o Programa Mobilidade Verde e Inovação (Programa Mover)\".",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do DOC n. 1584/2024 (Ofício do Senado Federal), pelo Senado Federal, que \"Comunica que, aprovado pelo Senado Federal, em revisão, foi encaminhado ao Excelentíssimo Senhor Presidente da República, para os fins constantes do art. 66 da Constituição Federal, o Projeto de Lei n° 3.449, de 2024, que 'Altera o Decreto-Lei n° 1.804, de 3 de setembro de 1980, que trata da tributação simplificada das remessas postais internacionais, e a Lei n° 14.902, de 27 de junho de 2024, que institui o Programa Mobilidade Verde e Inovação (Programa Mover)'. \".",
-        "Órgão Última Tramitação (Sigla)": "MESA",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2837021",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2477321"
-    },
-    {
         "Sigla Tipo": "PDL",
         "Número": 615,
         "Ano": 2024,
         "Ementa": "Susta o Decreto Presidencial nº 12.282, de 29 de novembro de 2024, que redefine as competências no âmbito da administração pública federal relacionadas aos compromissos decorrentes de leilões de autorização para o uso de radiofrequência.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do PDL n. 615/2024 (Projeto de Decreto Legislativo de Sustação de Atos Normativos do Poder Executivo), pelo Deputado Cezinha de Madureira (PSD/SP), que \"Susta o Decreto Presidencial nº 12.282, de 29 de novembro de 2024, que redefine as competências no âmbito da administração pública federal relacionadas aos compromissos decorrentes de leilões de autorização para o uso de radiofrequência\".",
+        "Situação Tramitação": "Apresentação de Requerimento",
+        "Despacho": "Apresentação do REQ n. 4870/2024 (Requerimento de Retirada de Proposição de Iniciativa Individual), pelo Deputado Cezinha de Madureira (PSD/SP), que \"Requeiro, com base no art. 104 do Regimento Interno da Câmara dos Deputados, a retirada do PDL 615/2024, de minha autoria, de tramitação\".",
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2837087",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2477335"
@@ -2836,5 +2781,38 @@
         "Órgão Última Tramitação (Sigla)": "CE",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2838170",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2477877"
+    },
+    {
+        "Sigla Tipo": "RIC",
+        "Número": 4600,
+        "Ano": 2024,
+        "Ementa": "Requer informações à Exma. Sra. Ministra da Saúde sobre a aplicação e eficácia dos investimentos destinados aos hospitais e unidades de saúde em áreas críticas, especialmente nas periferias e regiões rurais, diante das graves deficiências de infraestrutura, falta de insumos e medicamentos e recorrentes denúncias de atendimento negligente e superlotação, com o objetivo de identificar falhas na gestão e omissões inaceitáveis no atendimento às necessidades de saúde da população mais vulnerável.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do RIC n. 4600/2024 (Requerimento de Informação), pelo Deputado Marcos Tavares (PDT/RJ), que \"Requer informações à Exma. Sra. Ministra da Saúde sobre a aplicação e eficácia dos investimentos destinados aos hospitais e unidades de saúde em áreas críticas, especialmente nas periferias e regiões rurais, diante das graves deficiências de infraestrutura, falta de insumos e medicamentos e recorrentes denúncias de atendimento negligente e superlotação, com o objetivo de identificar falhas na gestão e omissões inaceitáveis no atendimento às necessidades de saúde da população mais vulnerável\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2839581",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2478980"
+    },
+    {
+        "Sigla Tipo": "RIC",
+        "Número": 4607,
+        "Ano": 2024,
+        "Ementa": "Solicita informações à Sra. Ministra de Estado da Gestão e da Inovação em Serviços Públicos sobre a frota de veículos utilizada pelos 30 ministérios.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do RIC n. 4607/2024 (Requerimento de Informação), pelo Deputado Messias Donato (REPUBLIC/ES), que \"Solicita informações à Sra. Ministra de Estado da Gestão e da Inovação em Serviços Públicos sobre a frota de veículos utilizada pelos 30 ministérios\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2840158",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2479307"
+    },
+    {
+        "Sigla Tipo": "PDL",
+        "Número": 716,
+        "Ano": 2024,
+        "Ementa": "Susta os efeitos do Decreto nº 12.282, de 29 de novembro de 2024 e da Portaria MCOM nº 15.371, de 2 de dezembro de 2024, que dispõem e regulam sobre as competências, no âmbito da administração pública federal, relacionadas aos compromissos realizados a partir do aporte de recursos decorrentes de leilões de autorização para o uso de radiofrequência, e dá outras providências.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PDL n. 716/2024 (Projeto de Decreto Legislativo), pela Deputada Daniela Reinehr (PL/SC), que \"Susta os efeitos do Decreto nº 12.282, de 29 de novembro de 2024 e da Portaria MCOM nº 15.371, de 2 de dezembro de 2024, que dispõem e regulam sobre as competências, no âmbito da administração pública federal, relacionadas aos compromissos realizados a partir do aporte de recursos decorrentes de leilões de autorização para o uso de radiofrequência, e dá outras providências. \".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2840624",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2479385"
     }
 ]
