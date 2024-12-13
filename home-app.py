@@ -123,7 +123,7 @@ if opcao == "Home":
     - **Gestão pública**
     - **Inovação da gestão pública**
     - **Central de compras**
-    - **- Programa de gestão e desempenho**
+    - **Programa de gestão e desempenho**
     """)
 
 # Página da Câmara dos Deputados
