@@ -119,11 +119,11 @@ if opcao == "Home":
     st.write("""
     Este aplicativo permite consultar proposições legislativas que tiveram tramitação nos últimos **30 dias** na **Câmara dos Deputados** e no **Senado Federal**.
 
-    As proposições exibidas são relacionadas a temas de interesse específicos, como:
-    - **Inovação**
-    - **Gestão**
-    - **Compras**
-    - **Administração Pública**
+    As proposições exibidas são relacionadas a temas de interesse específicos, tais como:
+    - **Gestão pública**
+    - **Inovação da gestão pública**
+    - **Central de compras**
+    - **- Programa de gestão e desempenho**
     """)
 
 # Página da Câmara dos Deputados
