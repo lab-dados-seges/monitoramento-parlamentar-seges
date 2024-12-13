@@ -117,7 +117,7 @@ def botao_voltar_ao_inicio():
 if opcao == "Home":
     st.title("Monitoramento Legislativo SEGES/MGI")
     st.write("""
-    Este aplicativo permite consultar proposições legislativas que tiveram tramitação nos últimos **30 dias** na **Câmara dos Deputados** e no **Senado Federal**.
+    Este aplicativo permite consultar proposições legislativas que tiveram tramitação nos últimos **60 dias** na **Câmara dos Deputados** e nos últimos **30 dias** no **Senado Federal**.
 
     As proposições exibidas são relacionadas a temas de interesse específicos, tais como:
     - **Gestão pública**

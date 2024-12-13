@@ -1,6 +1,6 @@
 # Aplicação web para monitoramento legislativo
 
-Este aplicativo permite consultar proposições legislativas que tiveram tramitação nos últimos 30 dias na Câmara dos Deputados e no Senado Federal. As proposições exibidas são relacionadas a temas de interesse específicos, tais como:
+Este aplicativo permite consultar proposições legislativas que tiveram tramitação nos últimos 60 dias na Câmara dos Deputados e nos últimos 30 dias na Câmara dos Deputados Senado Federal. As proposições exibidas são relacionadas a temas de interesse específicos, tais como:
 
 - Gestão pública
 - Inovação da gestão pública

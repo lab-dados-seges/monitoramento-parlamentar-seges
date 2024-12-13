@@ -14,7 +14,7 @@ TEMAS = carregar_verbetes(caminho_verbetes)
 # API da Câmara
 url_proposicoes = "https://dadosabertos.camara.leg.br/api/v2/proposicoes"
 params = {
-    "dataInicio": (datetime.now() - timedelta(days=30)).strftime("%Y-%m-%d"),
+    "dataInicio": (datetime.now() - timedelta(days=60)).strftime("%Y-%m-%d"),
     "dataFim": datetime.now().strftime("%Y-%m-%d"),
     "ordenarPor": "id",
     "itens": 100,
