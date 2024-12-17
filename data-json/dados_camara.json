@@ -26,8 +26,8 @@
         "Número": 7923,
         "Ano": 2014,
         "Ementa": "Dispõe sobre a criação de cargos em comissão e de funções de confiança no quadro de pessoal da Defensória Pública da União.",
-        "Situação Tramitação": "Recebimento - Relator(a)",
-        "Despacho": "Apresentação do PRL n. 1 CCJC (Parecer do Relator), pelo Deputado Defensor Stélio Dener (REPUBLIC/RR).",
+        "Situação Tramitação": "Parecer do(a) Relator(a)",
+        "Despacho": "Parecer do Relator, Dep. Defensor Stélio Dener (REPUBLIC-RR), pela constitucionalidade, juridicidade e técnica legislativa deste e do Substitutivo da Comissão de Administração e Serviço Público.",
         "Órgão Última Tramitação (Sigla)": "CCJC",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1275774",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=622071"
@@ -108,17 +108,6 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2413874",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2430037"
-    },
-    {
-        "Sigla Tipo": "PL",
-        "Número": 2864,
-        "Ano": 2024,
-        "Ementa": "Autoriza a acumulação de mandatos eletivos, de cargos públicos e de cargos em comissão por notários e registradores",
-        "Situação Tramitação": "Encerramento de Prazo",
-        "Despacho": "Encerrado o prazo de 5 sessões para apresentação de emendas ao projeto (de 13/09/2024 a 17/10/2024). Não foram apresentadas emendas.",
-        "Órgão Última Tramitação (Sigla)": "CCJC",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2454437",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2449004"
     },
     {
         "Sigla Tipo": "RIC",
@@ -1126,9 +1115,9 @@
         "Número": 4375,
         "Ano": 2024,
         "Ementa": "Solicita informações a Sr.ª Ministra da Gestão e da Inovação em Serviços Públicos, quanto à legitimidade para execução de emendas parlamentares pelas associações, entidades e instituições, na esfera Federal, Estadual e Municipal.",
-        "Situação Tramitação": "Publicação de Despacho",
-        "Despacho": "Publicação inicial no DCD do dia 13/12/2024",
-        "Órgão Última Tramitação (Sigla)": "PLEN",
+        "Situação Tramitação": "Recebimento",
+        "Despacho": "Recebimento pela 1SECM.",
+        "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2829837",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2473476"
     },
@@ -1142,16 +1131,5 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2839532",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2478932"
-    },
-    {
-        "Sigla Tipo": "PRL",
-        "Número": 1,
-        "Ano": 0,
-        "Ementa": "Dispõe sobre a criação de cargos em comissão e de funções de confiança no quadro de pessoal da Defensória Pública da União",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do PRL n. 1 CCJC (Parecer do Relator), pelo Deputado Defensor Stélio Dener (REPUBLIC/RR).",
-        "Órgão Última Tramitação (Sigla)": "CCJC",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2839975",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2479187"
     }
 ]
