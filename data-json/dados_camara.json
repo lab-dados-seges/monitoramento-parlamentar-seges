@@ -77,6 +77,17 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2348239"
     },
     {
+        "Sigla Tipo": "INC",
+        "Número": 385,
+        "Ano": 2023,
+        "Ementa": "Sugere ao Ministério da Saúde a revisão dos cálculos referentes aos critérios para transferência das Emendas Parlamentares mediante Portaria GM/MS 449/2023, de 05 de abril.",
+        "Situação Tramitação": "Providência Interna - Comunicação de resposta ostensiva",
+        "Despacho": "Encaminhamento de resposta por meio do sistema Infoleg",
+        "Órgão Última Tramitação (Sigla)": "1SECM",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2258369",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2356123"
+    },
+    {
         "Sigla Tipo": "PL",
         "Número": 2641,
         "Ano": 2023,
@@ -1115,8 +1126,8 @@
         "Número": 4375,
         "Ano": 2024,
         "Ementa": "Solicita informações a Sr.ª Ministra da Gestão e da Inovação em Serviços Públicos, quanto à legitimidade para execução de emendas parlamentares pelas associações, entidades e instituições, na esfera Federal, Estadual e Municipal.",
-        "Situação Tramitação": "Recebimento",
-        "Despacho": "Recebimento pela 1SECM.",
+        "Situação Tramitação": "Abertura de Prazo",
+        "Despacho": "Prazo para Resposta Externas (de 19/12/2024 a 17/01/2025)",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2829837",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2473476"
