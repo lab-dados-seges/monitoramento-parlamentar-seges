@@ -18,15 +18,6 @@
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/140576"
     },
     {
-        "Tipo": "PLP",
-        "Número": "00006",
-        "Ano": "2020",
-        "Ementa": "Altera a Lei Complementar nº 101, de 04 de maio de 2000, para aumentar a transparência do processo de liberação e execução de emendas parlamentares.",
-        "Sigla Colegiado": "CAE",
-        "Descrição Informe Legislativo": "A proposição continua a tramitar, nos termos do art. 332 do Regimento Interno.",
-        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/140626"
-    },
-    {
         "Tipo": "PEC",
         "Número": "00041",
         "Ano": "2021",
@@ -34,51 +25,6 @@
         "Sigla Colegiado": "CCJ",
         "Descrição Informe Legislativo": "Matéria aguardando distribuição.",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/150752"
-    },
-    {
-        "Tipo": "PLP",
-        "Número": "00152",
-        "Ano": "2022",
-        "Ementa": "Altera a Lei Complementar nº 101, de 2000, a fim de assegurar que recursos de emendas parlamentares sejam prioritariamente destinados a investimentos em andamento.",
-        "Sigla Colegiado": "CTFC",
-        "Descrição Informe Legislativo": "Recebida na CTFC nesta data, a matéria aguarda designação de relatoria.",
-        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/155378"
-    },
-    {
-        "Tipo": "PLP",
-        "Número": "00159",
-        "Ano": "2022",
-        "Ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, para dispor sobre a possibilidade de hospitais filantrópicos e santas casas, sem fins lucrativos, que participam de forma complementar do Sistema Único de Saúde (SUS), receberem recursos do Fundo Nacional de Saúde oriundos de emendas parlamentares, individuais e de bancada, para ações de custeio e investimento na saúde especializada independente de pendências referentes à adimplência financeira.",
-        "Sigla Colegiado": "CAS",
-        "Descrição Informe Legislativo": "Distribuído à Senadora Zenaide Maia, para emitir relatório.",
-        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/155487"
-    },
-    {
-        "Tipo": "PLP",
-        "Número": "00166",
-        "Ano": "2023",
-        "Ementa": "Altera a Lei de Responsabilidade Fiscal (Lei Complementar nº 101, de 4 de maio de 2000), para determinar que 10% (dez por cento) dos recursos das emendas parlamentares individuais sejam destinados a finalização de obras paralisadas em seus respectivos estados.",
-        "Sigla Colegiado": "CCJ",
-        "Descrição Informe Legislativo": "Matéria aguardando distribuição.",
-        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/158937"
-    },
-    {
-        "Tipo": "PLP",
-        "Número": "00019",
-        "Ano": "2024",
-        "Ementa": "Altera a Lei Complementar nº 152, de 3 de dezembro de 2015, para dispor sobre a aposentadoria compulsória aos ocupantes de cargos em comissão.",
-        "Sigla Colegiado": "CAS",
-        "Descrição Informe Legislativo": "Distribuído ao Senador Paulo Paim, para emitir relatório.",
-        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/162503"
-    },
-    {
-        "Tipo": "PLP",
-        "Número": "00088",
-        "Ano": "2024",
-        "Ementa": "Dispõe sobre a desvinculação do objeto e dos compromissos previamente estabelecidos em atos normativos, e sobre transposição, transferência e remanejamento de recursos financeiros, incluindo as emendas parlamentares, depositados nas contas dos respectivos fundos municipais do Rio Grande do Sul, para utilização em ações emergenciais de resposta a desastres.",
-        "Sigla Colegiado": "CAE",
-        "Descrição Informe Legislativo": "Distribuído ao Senador Paulo Paim, para emitir relatório.",
-        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/163660"
     },
     {
         "Tipo": "PL",
