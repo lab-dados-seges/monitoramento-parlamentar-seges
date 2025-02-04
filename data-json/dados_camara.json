@@ -130,5 +130,16 @@
         "Órgão Última Tramitação (Sigla)": "EXEC",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2848985",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2481873"
+    },
+    {
+        "Sigla Tipo": "PLP",
+        "Número": 1,
+        "Ano": 2025,
+        "Ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, que dispõe sobre a proposição e a execução de emendas parlamentares na lei orçamentária anual, para determinar requisitos mínimos de transparência aos destinatários de recursos públicos decorrentes de emendas parlamentares",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PLP n. 1/2025 (Projeto de Lei Complementar), pelo Deputado Leo Prates (PDT/BA), que \"Altera a Lei Complementar nº 210, de 25 de novembro de 2024, que dispõe sobre a proposição e a execução de emendas parlamentares na lei orçamentária anual, para determinar requisitos mínimos de transparência aos destinatários de recursos públicos decorrentes de emendas parlamentares\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2849672",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482110"
     }
 ]
