@@ -15,9 +15,9 @@
         "Número": 328,
         "Ano": 2024,
         "Ementa": "Susta os efeitos do Decreto 5.289 de 29 de novembro de 2004, de autoria do Presidente da República, que disciplina a organização e o funcionamento da administração pública federal, para desenvolvimento do programa de cooperação federativa denominado Força Nacional de Segurança Pública, e dá outras providências.",
-        "Situação Tramitação": "Distribuição",
-        "Despacho": "Às Comissões de Segurança Pública e Combate ao Crime Organizado e Constituição e Justiça e de Cidadania (Mérito e Art. 54, RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinário (Art. 151, III, RICD)",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Situação Tramitação": "Publicação de Proposição",
+        "Despacho": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 26/02/2025.",
+        "Órgão Última Tramitação (Sigla)": "CCP",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2457579",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2450417"
     },
@@ -37,9 +37,9 @@
         "Número": 393,
         "Ano": 2024,
         "Ementa": "Susta os efeitos de dispositivos do Anexo I ao Decreto nº 11.232, de 10 de outubro de 2022, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Instituto Nacional de Colonização e Reforma Agrária - INCRA e remaneja e transforma cargos em comissão e funções de confiança.",
-        "Situação Tramitação": "Distribuição",
-        "Despacho": "Às Comissões de Direitos Humanos, Minorias e Igualdade Racial; Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural e Constituição e Justiça e de Cidadania (Mérito e Art. 54, RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Ordinário (Art. 151, III, RICD)",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Situação Tramitação": "Publicação de Proposição",
+        "Despacho": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 26/02/2025.",
+        "Órgão Última Tramitação (Sigla)": "CCP",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2828322",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2472869"
     },
@@ -92,9 +92,9 @@
         "Número": 183,
         "Ano": 2025,
         "Ementa": "Solicita a Excelentíssima Senhora Ministra da Saúde informações sobre o Processo SEI n.º 25000.188050/2023- 35 – Aquisição emergencial de insumo para saúde por determinação judicial – Termo de Referência n° 146/2023 – Despacho SEI/MS 0040964608.",
-        "Situação Tramitação": "Parecer do(a) Relator(a)",
-        "Despacho": "Parecer do Relator, Dep. Altineu Côrtes (PL-RJ), pela aprovação.",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Situação Tramitação": "Recebimento",
+        "Despacho": "Recebimento pela 1SECM.",
+        "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2851538",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483019"
     },
@@ -108,5 +108,16 @@
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2854596",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483816"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 660,
+        "Ano": 2025,
+        "Ementa": "Altera a Lei nº 8.429, de 2 de junho de 1992, para tipificar como ato de improbidade administrativa a conduta do agente público que se negar a cadastrar propostas para recebimento de emendas parlamentares destinadas às Santas Casas de Misericórdia, hospitais filantrópicos ou congêneres.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PL n. 660/2025 (Projeto de Lei), pelo Deputado Benes Leocádio (UNIÃO/RN), que \"Altera a Lei nº 8.429, de 2 de junho de 1992, para tipificar como ato de improbidade administrativa a conduta do agente público que se negar a cadastrar propostas para recebimento de emendas parlamentares destinadas às Santas Casas de Misericórdia, hospitais filantrópicos ou congêneres\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2860530",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2485302"
     }
 ]
