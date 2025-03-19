@@ -27,6 +27,15 @@
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161825"
     },
     {
+        "Tipo": "VET",
+        "Número": "00002",
+        "Ano": "2024",
+        "Ementa": "Veto Parcial aposto ao Projeto de Lei nº 2.402, de 2023, que \"Dispõe sobre a transformação de cargos efetivos em cargos em comissão e funções de confiança no quadro de pessoal do Ministério Público da União; e altera a Lei nº 13.316, de 20 julho de 2016\".",
+        "Sigla Colegiado": "Não informado",
+        "Descrição Informe Legislativo": "Remetido Ofício CN nº 103, de 20/05/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a Mensagem CN nº 29/24, ao Excelentíssimo Senhor Presidente da República, participando que, em sessão conjunta realizada em 9 de maio do corrente ano, o Congresso Nacional manteve o Veto Parcial aposto ao Projeto de Lei n° 2.402, de 2023.\n\nRemetido Ofício CN nº 104, de 20/05/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, participando que, em sessão conjunta realizada em 9 de maio do corrente ano, o Congresso Nacional manteve o Veto Parcial aposto ao Projeto de Lei n° 2.402, de 2023.",
+        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161864"
+    },
+    {
         "Tipo": "PL",
         "Número": "02073",
         "Ano": "2022",
@@ -67,8 +76,8 @@
         "Número": "00001",
         "Ano": "2025",
         "Ementa": "Altera disposições da Resolução n° 1, de 2006-CN, para adequar o rito de apresentação e indicação de emendas parlamentares.",
-        "Sigla Colegiado": "Mesa",
-        "Descrição Informe Legislativo": "Anexado, em 14/03/2025, o Quadro Comparativo entre a Resolução 1/2006 - CN, o Projeto de Resolução 1/2025 - CN e a Redação Final do Projeto aprovado, elaborado pela Secretaria Legislativa do Congresso Nacional.",
+        "Sigla Colegiado": "Não informado",
+        "Descrição Informe Legislativo": "Remetido Ofício SF nº 45, de 14/03/25, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a Mensagem SF nº 11/25, ao Excelentíssimo Senhor Presidente da República, participando a promulgação da Resolução nº 1, de 2025 - CN. Recebido no destino em 17/03/2025 às 11:56:59.\n\nRemetido Ofício SF nº 46, de 14/03/25, ao Senhor Presidente da Câmara dos Deputados encaminhando autógrafo da Resolução nº 1, de 2025 - CN.",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167530"
     }
 ]

@@ -59,9 +59,9 @@
         "Número": 231,
         "Ano": 2024,
         "Ementa": "Altera o art. 3º da Lei Complementar nº 210, de 25 de novembro de 2024, para priorizar Municípios afetados por desastres climáticos na indicação de emendas parlamentares de bancada.",
-        "Situação Tramitação": "Publicação de Proposição",
-        "Despacho": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 14/03/2025.",
-        "Órgão Última Tramitação (Sigla)": "CCP",
+        "Situação Tramitação": "Recebimento",
+        "Despacho": "Recebimento pela CINDRE.",
+        "Órgão Última Tramitação (Sigla)": "CINDRE",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2843550",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2480459"
     },
@@ -141,5 +141,16 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2861423",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2485576"
+    },
+    {
+        "Sigla Tipo": "SIT",
+        "Número": 29,
+        "Ano": 2025,
+        "Ementa": "Solicita informações ao Tribunal de Contas da União sobre a nomeação dos Ministros do Lula para o Conselho de Administração da empresa privada Tupy, incluindo a necessidade de instauração de auditoria e análise da conformidade dessa nomeação, considerando os possíveis conflitos de interesses e os impactos sobre a moralidade administrativa e a transparência na gestão pública.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação da SIT n. 29/2025 (Solicitação de Informação ao TCU), pelo Deputado Evair Vieira de Melo (PP/ES), que \"Solicita informações ao Tribunal de Contas da União sobre a nomeação dos Ministros do Lula para o Conselho de Administração da empresa privada Tupy, incluindo a necessidade de instauração de auditoria e análise da conformidade dessa nomeação, considerando os possíveis conflitos de interesses e os impactos sobre a moralidade administrativa e a transparência na gestão pública\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2868638",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487350"
     }
 ]
