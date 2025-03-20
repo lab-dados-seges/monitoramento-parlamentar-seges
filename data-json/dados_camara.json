@@ -1,6 +1,28 @@
 [
     {
         "Sigla Tipo": "PL",
+        "Número": 2642,
+        "Ano": 2015,
+        "Ementa": "Dispõe sobre a criação de Varas do Trabalho, de cargos de Juiz do Trabalho Titular, de cargos em comissão e de funções comissionadas na jurisdição do Tribunal Regional do Trabalho da 15ª Região e dá outras providências.",
+        "Situação Tramitação": "Saída de Relator(a) da Comissão - Sem Parecer Apresentado",
+        "Despacho": "(Instalação da Comissão) O Relator, Dep. Fausto Pinato, não integrava a Comissão na data da instalação (deixou de ser membro em 31/01/2025)",
+        "Órgão Última Tramitação (Sigla)": "CFT",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1371246",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=1635628"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 10657,
+        "Ano": 2018,
+        "Ementa": "Tipifica o crime de fraude em obra ou serviço de engenharia.",
+        "Situação Tramitação": "Saída de Relator(a) da Comissão - Com Parecer Apresentado",
+        "Despacho": "(Instalação da Comissão) O Relator, Dep. Kim Kataguiri, não integrava a Comissão na data da instalação (deixou de ser membro em 31/01/2025)",
+        "Órgão Última Tramitação (Sigla)": "CCJC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1679030",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2182384"
+    },
+    {
+        "Sigla Tipo": "PL",
         "Número": 2073,
         "Ano": 2022,
         "Ementa": "Dispõe sobre a criação e transformação, no âmbito do Conselho Nacional do Ministério Público, de cargos de Técnico e Analista em cargos em comissão, sem aumento de despesas.",
@@ -9,6 +31,28 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2198838",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2332775"
+    },
+    {
+        "Sigla Tipo": "PDL",
+        "Número": 34,
+        "Ano": 2023,
+        "Ementa": "Susta os efeitos do art. 2º, I, “j”, item 2 e do art. 14, ambos do Anexo I do Decreto nº 11.392, de 20 de janeiro de 2023, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, e transforma e remaneja cargos em comissão e funções de confiança.",
+        "Situação Tramitação": "Saída de Relator(a) da Comissão - Com Parecer Apresentado",
+        "Despacho": "(Instalação da Comissão) A Relatora, Dep. Erika Kokay, não integrava a Comissão na data da instalação (deixou de ser membro em 31/01/2025)",
+        "Órgão Última Tramitação (Sigla)": "CPASF",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2233904",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2348239"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 2864,
+        "Ano": 2024,
+        "Ementa": "Autoriza a acumulação de mandatos eletivos, de cargos públicos e de cargos em comissão por notários e registradores",
+        "Situação Tramitação": "Saída de Relator(a) da Comissão - Sem Parecer Apresentado",
+        "Despacho": "(Instalação da Comissão) O Relator, Dep. Gilson Marques, não integrava a Comissão na data da instalação (deixou de ser membro em 31/01/2025)",
+        "Órgão Última Tramitação (Sigla)": "CCJC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2454437",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2449004"
     },
     {
         "Sigla Tipo": "PDL",
@@ -70,9 +114,9 @@
         "Número": 232,
         "Ano": 2024,
         "Ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para dispor sobre a destinação de recursos de emendas parlamentares individuais e de bancada a políticas públicas do esporte de forma a contemplar projetos educacionais.",
-        "Situação Tramitação": "Publicação de Proposição",
-        "Despacho": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 14/03/2025.",
-        "Órgão Última Tramitação (Sigla)": "CCP",
+        "Situação Tramitação": "Recebimento",
+        "Despacho": "Recebimento pela CE.",
+        "Órgão Última Tramitação (Sigla)": "CE",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2843706",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2480541"
     },
@@ -114,8 +158,8 @@
         "Número": 163,
         "Ano": 2025,
         "Ementa": "Sugere ao Exmo. Ministro da Casa Civil, Senhor Rui Costa, o aprimoramento da gestão pública e o fortalecimento dos programas sociais em nosso país.",
-        "Situação Tramitação": "Recebimento",
-        "Despacho": "Recebimento pela 1SECM.",
+        "Situação Tramitação": "Remessa a Ministério",
+        "Despacho": "Remessa por meio do Ofício 1ªSec/I/E nº 33 e outros/2025, a Ministra de Estado da Secretaria de Relações Institucionais da Presidência da República.",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2854596",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483816"
@@ -152,5 +196,16 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2868638",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487350"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 1136,
+        "Ano": 2025,
+        "Ementa": "Altera a Lei nº 7.834, de 6 de outubro de 1989, e a Lei nº 8.112, de 11 de dezembro de 1990, para exigir graduação ou especialização em cursos de Gestão de Políticas Públicas, Gestão Pública, Tecnólogo em Políticas Públicas ou Tecnólogo em Gestão Pública como pré-requisito para o provimento dos cargos da carreira que especifica.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PL n. 1136/2025 (Projeto de Lei), pelo Deputado Alex Santana (REPUBLIC/BA), que \"Altera a Lei nº 7.834, de 6 de outubro de 1989, e a Lei nº 8.112, de 11 de dezembro de 1990, para exigir graduação ou especialização em cursos de Gestão de Políticas Públicas, Gestão Pública, Tecnólogo em Políticas Públicas ou Tecnólogo em Gestão Pública como pré-requisito para o provimento dos cargos da carreira que especifica\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2869731",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487959"
     }
 ]
