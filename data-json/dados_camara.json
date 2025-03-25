@@ -4,11 +4,22 @@
         "Número": 2642,
         "Ano": 2015,
         "Ementa": "Dispõe sobre a criação de Varas do Trabalho, de cargos de Juiz do Trabalho Titular, de cargos em comissão e de funções comissionadas na jurisdição do Tribunal Regional do Trabalho da 15ª Região e dá outras providências.",
-        "Situação Tramitação": "Recebimento - Relator(a) (Sem Manifestação)",
-        "Despacho": "Devolvida pelo Relator sem Manifestação.",
+        "Situação Tramitação": "Saída de Relator(a) da Comissão - Sem Parecer Apresentado",
+        "Despacho": "(Instalação da Comissão) O Relator, Dep. Fausto Pinato, não integrava a Comissão na data da instalação (deixou de ser membro em 31/01/2025)",
         "Órgão Última Tramitação (Sigla)": "CFT",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1371246",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=1635628"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 8258,
+        "Ano": 2017,
+        "Ementa": "Estabelece que, nos municípios onde houver canal disponível para a prestação do serviço de radiodifusão sonora, o edital de licitação para a exploração do primeiro canal disponível na localidade deverá determinar que a emissora vencedora do certame será obrigada a veicular exclusivamente músicas brasileiras.",
+        "Situação Tramitação": "Notificacao para Publicação Intermediária",
+        "Despacho": "Designado Relator, Dep. Marcelo Queiroz (PP-RJ), para o PL 2041/2007, ao qual esta proposição está apensada.",
+        "Órgão Última Tramitação (Sigla)": "CCULT",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1585112",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2147384"
     },
     {
         "Sigla Tipo": "PL",
@@ -81,9 +92,9 @@
         "Número": 393,
         "Ano": 2024,
         "Ementa": "Susta os efeitos de dispositivos do Anexo I ao Decreto nº 11.232, de 10 de outubro de 2022, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Instituto Nacional de Colonização e Reforma Agrária - INCRA e remaneja e transforma cargos em comissão e funções de confiança.",
-        "Situação Tramitação": "Publicação de Proposição",
-        "Despacho": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 26/02/2025.",
-        "Órgão Última Tramitação (Sigla)": "CCP",
+        "Situação Tramitação": "Recebimento",
+        "Despacho": "Recebimento pela CDHMIR.",
+        "Órgão Última Tramitação (Sigla)": "CDHMIR",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2828322",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2472869"
     },
