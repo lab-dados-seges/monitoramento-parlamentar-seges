@@ -33,17 +33,6 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2182384"
     },
     {
-        "Sigla Tipo": "PL",
-        "Número": 2073,
-        "Ano": 2022,
-        "Ementa": "Dispõe sobre a criação e transformação, no âmbito do Conselho Nacional do Ministério Público, de cargos de Técnico e Analista em cargos em comissão, sem aumento de despesas.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Recebido Ofício nº 28/2025-SF que comunica restituição de Projeto de Lei sancionado.",
-        "Órgão Última Tramitação (Sigla)": "MESA",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2198838",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2332775"
-    },
-    {
         "Sigla Tipo": "PDL",
         "Número": 34,
         "Ano": 2023,
@@ -141,6 +130,17 @@
         "Órgão Última Tramitação (Sigla)": "CE",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2843706",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2480541"
+    },
+    {
+        "Sigla Tipo": "MPV",
+        "Número": 1286,
+        "Ano": 2024,
+        "Ementa": "Cria a Carreira de Desenvolvimento Socioeconômico, a Carreira de Desenvolvimento das Políticas de Justiça e Defesa e a Carreira de Fiscalização da Comissão de Valores Mobiliários, altera a remuneração de servidores e empregados públicos do Poder Executivo federal, altera a remuneração de cargos em comissão, de funções de confiança e de gratificações do Poder Executivo federal, reestrutura cargos efetivos, planos de cargos e carreiras, padroniza e unifica regras de incorporação de gratificações de desempenho, altera as regras do Sistema de Desenvolvimento na Carreira, transforma cargos efetivos vagos em outros cargos efetivos, em cargos em comissão e em funções de confiança, altera a regra de designação dos membros dos conselhos deliberativos e fiscais das entidades fechadas de previdência complementar e dá outras providências.",
+        "Situação Tramitação": "Prorrogação de Prazo",
+        "Despacho": "Prorrogação do prazo para deliberação da Medida Provisória por 60 dias. Data final após prorrogação: 2/6/2025. Motivação: ATO DO PRESIDENTE DA MESA DO CONGRESSO NACIONAL Nº 18, DE 2025.",
+        "Órgão Última Tramitação (Sigla)": "PLEN",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2848985",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2481873"
     },
     {
         "Sigla Tipo": "PLP",
@@ -257,9 +257,9 @@
         "Número": 1008,
         "Ano": 2025,
         "Ementa": "Requer ao Exmo. Sr. Ministro de Estado Chefe da Casa Civil para que forneça esclarecimentos completos e detalhados sobre os critérios, normativas e justificativas que fundamentaram a liberação de R$ 4,2 bilhões em emendas parlamentares de comissão, incluindo legalidade, transparência e eficiência, bem como verificar a existência de eventuais irregularidades apontadas no inquérito instaurado pela Polícia Federal em 24 de dezembro de 2024.",
-        "Situação Tramitação": "Recebimento",
-        "Despacho": "Recebimento pela 1VIPR.",
-        "Órgão Última Tramitação (Sigla)": "1VIPR",
+        "Situação Tramitação": "Parecer do(a) Relator(a)",
+        "Despacho": "Parecer do Relator, Dep. Altineu Côrtes (PL-RJ), pela aprovação.",
+        "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2872574",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2489412"
     },
@@ -268,9 +268,9 @@
         "Número": 1009,
         "Ano": 2025,
         "Ementa": "Requer ao Exma. Sra. Ministra de Estado Chefe da Secretaria de Relações Institucionais, para que forneça esclarecimentos completos e detalhados sobre à liberação de R$ 4,2 bilhões em emendas parlamentares de comissão, conforme noticiado e objeto de inquérito instaurado pela Polícia Federal em 24 de dezembro de 2024.",
-        "Situação Tramitação": "Recebimento",
-        "Despacho": "Recebimento pela 1VIPR.",
-        "Órgão Última Tramitação (Sigla)": "1VIPR",
+        "Situação Tramitação": "Parecer do(a) Relator(a)",
+        "Despacho": "Parecer do Relator, Dep. Altineu Côrtes (PL-RJ), pela aprovação.",
+        "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2872575",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2489413"
     },
