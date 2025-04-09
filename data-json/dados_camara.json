@@ -33,6 +33,17 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2182384"
     },
     {
+        "Sigla Tipo": "PL",
+        "Número": 4095,
+        "Ano": 2021,
+        "Ementa": "Altera a Lei nº 11.445, de 5 de janeiro de 2007, que estabelece as diretrizes nacionais para o saneamento básico, para determinar que a alocação de recursos federais para obras seja condicionada à existência de projeto básico.",
+        "Situação Tramitação": "Designação de Relator(a)",
+        "Despacho": "Designado Relator, Dep. Hildo Rocha (MDB-MA)",
+        "Órgão Última Tramitação (Sigla)": "CDU",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2108122",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2307829"
+    },
+    {
         "Sigla Tipo": "PDL",
         "Número": 34,
         "Ano": 2023,
@@ -268,9 +279,9 @@
         "Número": 1009,
         "Ano": 2025,
         "Ementa": "Requer ao Exma. Sra. Ministra de Estado Chefe da Secretaria de Relações Institucionais, para que forneça esclarecimentos completos e detalhados sobre à liberação de R$ 4,2 bilhões em emendas parlamentares de comissão, conforme noticiado e objeto de inquérito instaurado pela Polícia Federal em 24 de dezembro de 2024.",
-        "Situação Tramitação": "Parecer do(a) Relator(a)",
-        "Despacho": "Parecer do Relator, Dep. Altineu Côrtes (PL-RJ), pela aprovação.",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Situação Tramitação": "Publicação de Despacho",
+        "Despacho": "Publicação inicial no DCD do dia 08/04/2025",
+        "Órgão Última Tramitação (Sigla)": "PLEN",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2872575",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2489413"
     },
@@ -317,5 +328,16 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2880106",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2494409"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 1578,
+        "Ano": 2025,
+        "Ementa": "Dispõe sobre a indenização pecuniária por tempo de serviço aos servidores ocupantes exclusivamente de cargos em comissão da Câmara dos Deputados.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PL n. 1578/2025 (Projeto de Lei), pelo Deputado João Daniel (PT/SE -Fdr PT-PCdoB-PV), que \"Dispõe sobre a indenização pecuniária por tempo de serviço aos servidores ocupantes exclusivamente de cargos em comissão da Câmara dos Deputados\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2882878",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2495698"
     }
 ]
