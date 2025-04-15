@@ -77,6 +77,17 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2416830"
     },
     {
+        "Sigla Tipo": "REQ",
+        "Número": 64,
+        "Ano": 2024,
+        "Ementa": "Requer auditoria, com auxílio do Tribunal de Contas da União, para verificar a regularidade da precificação dos itens do projeto básico e do enquadramento legal utilizado para a compra, por dispensa, de móveis para o Palácio do Alvorada, nos termos do ato de contratação direta e do extrato de dispensa de licitação nº7/2023.",
+        "Situação Tramitação": "Arquivamento",
+        "Despacho": "Arquivada em virtude do encerramento da sessão legislativa de 2024.",
+        "Órgão Última Tramitação (Sigla)": "CFFC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2399932",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2423398"
+    },
+    {
         "Sigla Tipo": "PL",
         "Número": 2864,
         "Ano": 2024,
@@ -114,8 +125,8 @@
         "Número": 276,
         "Ano": 2024,
         "Ementa": "Requer a convocação da Ministra da Saúde, a senhora Nísia Trindade Lima  acerca das medidas de fiscalização e controle relativas à aplicação de recursos federais transferidos aos vários municípios, em especial de Vicentina (MS), particularmente no que concerne às emendas parlamentares destinadas à saúde.",
-        "Situação Tramitação": "Prejudicado",
-        "Despacho": "Declaro prejudicado, nos termos do art. 164, inciso I, do RICD, o Requerimento n. 276/2024, de autoria do Deputado Marcos Pollon (PL/MS), em razão de perda de oportunidade por troca de titularidade do Ministério.",
+        "Situação Tramitação": "Arquivamento",
+        "Despacho": "Arquivado, em virtude da prejudicialidade, nos termos do art. 164, I, do RICD.",
         "Órgão Última Tramitação (Sigla)": "CFFC",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2825383",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2471180"
@@ -279,9 +290,9 @@
         "Número": 1008,
         "Ano": 2025,
         "Ementa": "Requer ao Exmo. Sr. Ministro de Estado Chefe da Casa Civil para que forneça esclarecimentos completos e detalhados sobre os critérios, normativas e justificativas que fundamentaram a liberação de R$ 4,2 bilhões em emendas parlamentares de comissão, incluindo legalidade, transparência e eficiência, bem como verificar a existência de eventuais irregularidades apontadas no inquérito instaurado pela Polícia Federal em 24 de dezembro de 2024.",
-        "Situação Tramitação": "Publicação de Despacho",
-        "Despacho": "Publicação inicial no DCD do dia 08/04/2025",
-        "Órgão Última Tramitação (Sigla)": "PLEN",
+        "Situação Tramitação": "Recebimento",
+        "Despacho": "Recebimento pela 1SECM.",
+        "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2872574",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2489412"
     },
@@ -290,9 +301,9 @@
         "Número": 1009,
         "Ano": 2025,
         "Ementa": "Requer ao Exma. Sra. Ministra de Estado Chefe da Secretaria de Relações Institucionais, para que forneça esclarecimentos completos e detalhados sobre à liberação de R$ 4,2 bilhões em emendas parlamentares de comissão, conforme noticiado e objeto de inquérito instaurado pela Polícia Federal em 24 de dezembro de 2024.",
-        "Situação Tramitação": "Publicação de Despacho",
-        "Despacho": "Publicação inicial no DCD do dia 08/04/2025",
-        "Órgão Última Tramitação (Sigla)": "PLEN",
+        "Situação Tramitação": "Recebimento",
+        "Despacho": "Recebimento pela 1SECM.",
+        "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2872575",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2489413"
     },
@@ -301,9 +312,9 @@
         "Número": 385,
         "Ano": 2025,
         "Ementa": "Sugere a edição de normativo disciplinando os prazos das transferências do Fundo Nacional de Saúde aos fundos de saúde dos Estados, Distrito Federal e Municípios, relativas a emendas parlamentares que destinarem recursos ao Sistema Único de Saúde (SUS).",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação da INC n. 385/2025 (Indicação ), pelo Deputado Thiago de Joaldo (PP/SE), que \"Sugere a edição de normativo disciplinando os prazos das transferências do Fundo Nacional de Saúde aos fundos de saúde dos Estados, Distrito Federal e Municípios, relativas a emendas parlamentares que destinarem recursos ao Sistema Único de Saúde (SUS)\".",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Situação Tramitação": "Recebimento",
+        "Despacho": "Recebimento pela 1SECM.",
+        "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2873387",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2490088"
     },
