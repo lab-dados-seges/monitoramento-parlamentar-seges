@@ -1,6 +1,17 @@
 [
     {
         "Sigla Tipo": "PL",
+        "Número": 4772,
+        "Ano": 2009,
+        "Ementa": "Altera a redação do art. 8º da Lei nº 8.666, de 21 de junho de 1993, estabelecendo a obrigatoriedade na divulgação da origem dos recursos de obras decorrentes de emendas parlamentares.",
+        "Situação Tramitação": "Notificacao para Publicação Intermediária",
+        "Despacho": "Designado Relator, Dep. Prof. Reginaldo Veras (PV-DF), para o PL 1330/2003, ao qual esta proposição está apensada.",
+        "Órgão Última Tramitação (Sigla)": "CASP",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=635151",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=424884"
+    },
+    {
+        "Sigla Tipo": "PL",
         "Número": 2127,
         "Ano": 2015,
         "Ementa": "Acrescenta o inciso V do art. 36 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para incluir, nos currículos do ensino médio, as disciplinas de Ciência Política e de Gestão Pública.",
@@ -141,6 +152,17 @@
         "Órgão Última Tramitação (Sigla)": "CDHMIR",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2828322",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2472869"
+    },
+    {
+        "Sigla Tipo": "RIC",
+        "Número": 4375,
+        "Ano": 2024,
+        "Ementa": "Solicita informações a Sr.ª Ministra da Gestão e da Inovação em Serviços Públicos, quanto à legitimidade para execução de emendas parlamentares pelas associações, entidades e instituições, na esfera Federal, Estadual e Municipal.",
+        "Situação Tramitação": "Ratificação de Parecer",
+        "Despacho": "Ratificado o despacho \"ad referendum\"",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2829837",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2473476"
     },
     {
         "Sigla Tipo": "PLP",
@@ -361,5 +383,16 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2882878",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2495698"
+    },
+    {
+        "Sigla Tipo": "PLP",
+        "Número": 93,
+        "Ano": 2025,
+        "Ementa": "Modifica a Lei Complementar nº 210, de 25 de novembro de 2024 para excluir critério de impedimento de ordem técnica à execução de emendas parlamentares à Lei de Orçamento Anual",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PLP n. 93/2025 (Projeto de Lei Complementar), pelo Deputado Giovani Cherini (PL/RS), que \"Modifica a Lei Complementar nº 210, de 25 de novembro de 2024 para excluir critério de impedimento de ordem técnica à execução de emendas parlamentares à Lei de Orçamento Anual\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2886975",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2497837"
     }
 ]
