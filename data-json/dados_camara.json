@@ -224,9 +224,9 @@
         "Número": 183,
         "Ano": 2025,
         "Ementa": "Solicita a Excelentíssima Senhora Ministra da Saúde informações sobre o Processo SEI n.º 25000.188050/2023- 35 – Aquisição emergencial de insumo para saúde por determinação judicial – Termo de Referência n° 146/2023 – Despacho SEI/MS 0040964608.",
-        "Situação Tramitação": "Abertura de Prazo",
-        "Despacho": "Prazo para Resposta Externas (de 22/03/2025 a 22/04/2025)",
-        "Órgão Última Tramitação (Sigla)": "1SECM",
+        "Situação Tramitação": "Ratificação de Parecer",
+        "Despacho": "Ratificado o despacho \"ad referendum\"",
+        "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2851538",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483019"
     },
@@ -394,5 +394,16 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2886975",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2497837"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 10,
+        "Ano": 2025,
+        "Ementa": "Requer a realização de Audiência Pública para debater  sobre o Projeto de Lei Complementar nº 12/2025, de autoria do SR. Dep. Luiz Carlos Hauly, Altera a Lei Complementar nº 210, de 2024 para estabelecer que as emendas parlamentares, de bancada ou individuais, deverão ser destinadas, obrigatoriamente, para a erradicação dos lixões e para o saneamento básico dos municípios e dá outras providências.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do REQ n. 10/2025 (Requerimento de Audiência Pública), pelo Deputado Hildo Rocha (MDB/MA), que \"Requer a realização de Audiência Pública para debater  sobre o Projeto de Lei Complementar nº 12/2025, de autoria do SR. Dep. Luiz Carlos Hauly, Altera a Lei Complementar nº 210, de 2024 para estabelecer que as emendas parlamentares, de bancada ou individuais, deverão ser destinadas, obrigatoriamente, para a erradicação dos lixões e para o saneamento básico dos municípios e dá outras providências\".",
+        "Órgão Última Tramitação (Sigla)": "CDU",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2887672",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2498129"
     }
 ]
