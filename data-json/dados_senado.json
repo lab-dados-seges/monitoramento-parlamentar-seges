@@ -1,5 +1,14 @@
 [
     {
+        "Tipo": "PRS",
+        "Número": "00056",
+        "Ano": "2020",
+        "Ementa": "Reserva 20% (vinte por cento) das funções comissionadas e dos cargos em comissão do Senado Federal para negros e pardos.",
+        "Sigla Colegiado": "CDH",
+        "Descrição Informe Legislativo": "Redistribuído ao Senador Weverton, para emitir relatório.",
+        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/145719"
+    },
+    {
         "Tipo": "INS",
         "Número": "00081",
         "Ano": "2023",
@@ -25,15 +34,6 @@
         "Sigla Colegiado": "Mesa",
         "Descrição Informe Legislativo": "Prorrogação do prazo para deliberação da Medida Provisória por 60 dias. Data final após prorrogação: 2/6/2025. Motivação: ATO DO PRESIDENTE DA MESA DO CONGRESSO NACIONAL Nº 18, DE 2025.",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166962"
-    },
-    {
-        "Tipo": "PRN",
-        "Número": "00001",
-        "Ano": "2025",
-        "Ementa": "Altera disposições da Resolução n° 1, de 2006-CN, para adequar o rito de apresentação e indicação de emendas parlamentares.",
-        "Sigla Colegiado": "Não informado",
-        "Descrição Informe Legislativo": "Remetido Ofício SF nº 45, de 14/03/25, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a Mensagem SF nº 11/25, ao Excelentíssimo Senhor Presidente da República, participando a promulgação da Resolução nº 1, de 2025 - CN. Recebido no destino em 17/03/2025 às 11:56:59.\n\nRemetido Ofício SF nº 46, de 14/03/25, ao Senhor Presidente da Câmara dos Deputados encaminhando autógrafo da Resolução nº 1, de 2025 - CN.",
-        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167530"
     },
     {
         "Tipo": "PL",
