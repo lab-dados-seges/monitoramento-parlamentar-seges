@@ -224,9 +224,9 @@
         "Número": 660,
         "Ano": 2025,
         "Ementa": "Altera a Lei nº 8.429, de 2 de junho de 1992, para tipificar como ato de improbidade administrativa a conduta do agente público que se negar a cadastrar propostas para recebimento de emendas parlamentares destinadas às Santas Casas de Misericórdia, hospitais filantrópicos ou congêneres.",
-        "Situação Tramitação": "Publicação de Proposição",
-        "Despacho": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 02/04/2025.",
-        "Órgão Última Tramitação (Sigla)": "CCP",
+        "Situação Tramitação": "Abertura de Prazo",
+        "Despacho": "Prazo para Emendas ao Projeto (5 sessões a partir de 05/05/2025)",
+        "Órgão Última Tramitação (Sigla)": "CASP",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2860530",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2485302"
     },
@@ -334,9 +334,9 @@
         "Número": 1466,
         "Ano": 2025,
         "Ementa": "Cria a Carreira de Desenvolvimento Socioeconômico, a Carreira de Desenvolvimento das Políticas de Justiça e Defesa e a Carreira de Fiscalização da Comissão de Valores Mobiliários, altera a remuneração de servidores e empregados públicos do Poder Executivo federal, altera a remuneração de cargos em comissão, de funções de confiança e de gratificações do Poder Executivo federal, reestrutura cargos efetivos, planos de cargos e carreiras, padroniza e unifica regras de incorporação de gratificações de desempenho, altera as regras do Sistema de Desenvolvimento na Carreira, transforma cargos efetivos vagos em outros cargos efetivos, em cargos em comissão e em funções de confiança, altera a regra de designação dos membros dos conselhos deliberativos e fiscais das entidades fechadas de previdência complementar e dá outras providências.",
-        "Situação Tramitação": "Abertura de Prazo",
-        "Despacho": "Prazo de 45 dias para apreciação na Câmara dos Deputados (Art. 64 §2 da CF): de 04/04/2025 a 18/05/2025. Sobresta a pauta a partir de: 19/05/2025",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Situação Tramitação": "Designação de Relator(a)",
+        "Despacho": "Designado Relator, Dep. Pedro Paulo (PSD-RJ).",
+        "Órgão Última Tramitação (Sigla)": "PLEN",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2880102",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2494408"
     },
@@ -405,5 +405,16 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2895534",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2502831"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 178,
+        "Ano": 2025,
+        "Ementa": "Requer a realização de Audiência Pública, no âmbito da Comissão de Fiscalização Financeira e Controle, para debater a distorção na distribuição de emendas parlamentares entre os Estados.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do REQ n. 178/2025 (Requerimento de Audiência Pública), pelo Deputado Bacelar (PV/BA -Fdr PT-PCdoB-PV), que \"Requer a realização de Audiência Pública, no âmbito da Comissão de Fiscalização Financeira e Controle, para debater a distorção na distribuição de emendas parlamentares entre os Estados.\".",
+        "Órgão Última Tramitação (Sigla)": "CFFC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2896777",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2503272"
     }
 ]
