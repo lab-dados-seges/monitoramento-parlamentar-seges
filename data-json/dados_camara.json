@@ -466,9 +466,9 @@
         "Número": 1644,
         "Ano": 2025,
         "Ementa": "Requer ao Exmo. Sr. Ministro de Estado Chefe da Casa Civil para que forneça esclarecimentos completos e detalhados acerca dos procedimentos de articulação política, critérios de priorização e eventuais acordos relacionados à execução de emendas parlamentares de comissão nos exercícios de 2023, 2024 e 2025.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do RIC n. 1644/2025 (Requerimento de Informação), pelo Deputado Marcos Tavares (PDT/RJ), que \"Requer ao Exmo. Sr. Ministro de Estado Chefe da Casa Civil para que forneça esclarecimentos completos e detalhados acerca dos procedimentos de articulação política, critérios de priorização e eventuais acordos relacionados à execução de emendas parlamentares de comissão nos exercícios de 2023, 2024 e 2025\".",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Situação Tramitação": "Recebimento",
+        "Despacho": "Recebimento pela 1VIPR.",
+        "Órgão Última Tramitação (Sigla)": "1VIPR",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2895499",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2502814"
     },
@@ -477,9 +477,9 @@
         "Número": 1645,
         "Ano": 2025,
         "Ementa": "Requer a Exma. Sra. Ministra de Estado Chefe da Secretaria de Relações Institucionais, para que forneça esclarecimentos completos e detalhados sobre o papel da pasta na negociação, coordenação e execução das emendas parlamentares de comissão nos exercícios de 2023, 2024 e 2025, com destaque para critérios de liberação e acordos políticos celebrados.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do RIC n. 1645/2025 (Requerimento de Informação), pelo Deputado Marcos Tavares (PDT/RJ), que \"Requer a Exma. Sra. Ministra de Estado Chefe da Secretaria de Relações Institucionais, para que forneça esclarecimentos completos e detalhados sobre o papel da pasta na negociação, coordenação e execução das emendas parlamentares de comissão nos exercícios de 2023, 2024 e 2025, com destaque para critérios de liberação e acordos políticos celebrados\".",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Situação Tramitação": "Recebimento",
+        "Despacho": "Recebimento pela 1VIPR.",
+        "Órgão Última Tramitação (Sigla)": "1VIPR",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2895534",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2502831"
     },
@@ -493,5 +493,16 @@
         "Órgão Última Tramitação (Sigla)": "CFFC",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2896777",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2503272"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 1910,
+        "Ano": 2025,
+        "Ementa": "Requer a apresentação de Nota de Repúdio às declarações do Ministro do Desenvolvimento Agrário e Agricultura Familiar, Paulo Teixeira (PT), por ter se referido ao ex-presidente Jair Bolsonaro de forma desrespeitosa e por atacar o instituto das emendas parlamentares, instrumento legítimo de representação e equilíbrio entre os Poderes da República.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação da REQ n. 1910/2025 (Requerimento de Moção), pelo Deputado Evair Vieira de Melo (PP/ES), que \"Requer a apresentação de Nota de Repúdio às declarações do Ministro do Desenvolvimento Agrário e Agricultura Familiar, Paulo Teixeira (PT), por ter se referido ao ex-presidente Jair Bolsonaro de forma desrespeitosa e por atacar o instituto das emendas parlamentares, instrumento legítimo de representação e equilíbrio entre os Poderes da República. \".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2904202",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2507835"
     }
 ]
