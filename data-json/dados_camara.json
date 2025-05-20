@@ -23,17 +23,6 @@
     },
     {
         "Sigla Tipo": "PL",
-        "Número": 2642,
-        "Ano": 2015,
-        "Ementa": "Dispõe sobre a criação de Varas do Trabalho, de cargos de Juiz do Trabalho Titular, de cargos em comissão e de funções comissionadas na jurisdição do Tribunal Regional do Trabalho da 15ª Região e dá outras providências.",
-        "Situação Tramitação": "Recebimento - Relator(a) (Sem Manifestação)",
-        "Despacho": "Devolvida pelo Relator sem Manifestação.",
-        "Órgão Última Tramitação (Sigla)": "CFT",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1371246",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=1635628"
-    },
-    {
-        "Sigla Tipo": "PL",
         "Número": 8258,
         "Ano": 2017,
         "Ementa": "Estabelece que, nos municípios onde houver canal disponível para a prestação do serviço de radiodifusão sonora, o edital de licitação para a exploração do primeiro canal disponível na localidade deverá determinar que a emissora vencedora do certame será obrigada a veicular exclusivamente músicas brasileiras.",
@@ -416,5 +405,27 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2904202",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2507835"
+    },
+    {
+        "Sigla Tipo": "RIC",
+        "Número": 2599,
+        "Ano": 2025,
+        "Ementa": "Requer informações à Ministra de Estado da Gestão e da Inovação em Serviços Públicos, Sra. Esther Dweck, sobre a restrição de acesso público, na plataforma TransfereGov, a documentos referentes a acordos firmados com estados, municípios e organizações não governamentais (ONGs), inclusive os relacionados a emendas parlamentares.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do RIC n. 2599/2025 (Requerimento de Informação), pela Deputada Adriana Ventura (NOVO/SP) e outros, que \"Requer informações à Ministra de Estado da Gestão e da Inovação em Serviços Públicos, Sra. Esther Dweck, sobre a restrição de acesso público, na plataforma TransfereGov, a documentos referentes a acordos firmados com estados, municípios e organizações não governamentais (ONGs), inclusive os relacionados a emendas parlamentares. \".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2909848",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2510191"
+    },
+    {
+        "Sigla Tipo": "RIC",
+        "Número": 2658,
+        "Ano": 2025,
+        "Ementa": "Solicita informações a Sr.ª Ministra da Gestão e da Inovação em Serviços Públicos, a respeito da notícia da retirada de acesso público a documentos e dados relativos a convênios com estados, municípios, organizações da sociedade civil e repasses decorrentes de emendas parlamentares, medida que tem sido classificada como apagão de dados públicos.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do RIC n. 2658/2025 (Requerimento de Informação), pelo Deputado Gustavo Gayer (PL/GO), que \"Solicita informações a Sr.ª Ministra da Gestão e da Inovação em Serviços Públicos, a respeito da notícia da retirada de acesso público a documentos e dados relativos a convênios com estados, municípios, organizações da sociedade civil e repasses decorrentes de emendas parlamentares, medida que tem sido classificada como apagão de dados públicos\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2910217",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2510493"
     }
 ]
