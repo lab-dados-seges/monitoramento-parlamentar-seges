@@ -5,7 +5,7 @@
         "Ano": "2020",
         "Ementa": "Reserva 20% (vinte por cento) das funções comissionadas e dos cargos em comissão do Senado Federal para negros e pardos.",
         "Sigla Colegiado": "CDH",
-        "Descrição Informe Legislativo": "Redistribuído ao Senador Weverton, para emitir relatório.",
+        "Descrição Informe Legislativo": "Recebido relatório do Senador Weverton com voto favorável ao Projeto, com uma Emenda (de Redação) que apresenta.",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/145719"
     },
     {
@@ -27,12 +27,30 @@
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167530"
     },
     {
+        "Tipo": "PL",
+        "Número": "01675",
+        "Ano": "2025",
+        "Ementa": "Dispõe sobre a contratação direta de prestadores de serviços por meio de pessoas jurídicas e dá outras providências.",
+        "Sigla Colegiado": "PLEN",
+        "Descrição Informe Legislativo": "Autuado o Projeto de Lei nº 1675/2025. O projeto vai à publicação.",
+        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168099"
+    },
+    {
         "Tipo": "REQ",
         "Número": "00006",
         "Ano": "2025",
         "Ementa": "Requer nos termos do art. 58, § 2º, II, da Constituição Federal e do art. 93, II, do Regimento Interno do Senado Federal, a realização de audiência pública, em conjunto com a Comissão de Educação e Cultura, a Comissão de Direitos Humanos e Legislação Participativa e a Comissão de Assuntos Sociais, com o objetivo de debater o tema Sustentabilidade em Rede: inovação, perspectivas climáticas para gestão pública e Agenda 2030, e os desafios e soluções para um Legislativo mais sustentável, inovador e eficiente.",
         "Sigla Colegiado": "CMA",
-        "Descrição Informe Legislativo": "Na 12ª reunião, incluído extrapauta, o requerimento foi aprovado.\nPara notas, vídeos e informações acesse: https://legis.senado.leg.br/atividade/comissoes/comissao/50/reuniao/13559\nAguardando a realização da audiência pública.",
+        "Descrição Informe Legislativo": "Audiência pública realizada em 28/05/2025, em atendimento ao REQ 6/2025 - CMA. Para notas, vídeos, apresentações e informações acesse: https://legis.senado.leg.br/comissoes/reuniao?reuniao=13603&codcol=50",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168623"
+    },
+    {
+        "Tipo": "PL",
+        "Número": "01466",
+        "Ano": "2025",
+        "Ementa": "Cria a Carreira de Desenvolvimento Socioeconômico, a Carreira de Desenvolvimento das Políticas de Justiça e Defesa e a Carreira de Fiscalização da Comissão de Valores Mobiliários, altera a remuneração de servidores e empregados públicos do Poder Executivo federal, altera a remuneração de cargos em comissão, de funções de confiança e de gratificações do Poder Executivo federal, reestrutura cargos efetivos, planos de cargos e carreiras, padroniza e unifica regras de incorporação de gratificações de desempenho, transforma cargos efetivos vagos em outros cargos efetivos, em cargos em comissão e em funções de confiança, altera a regra de designação dos membros dos conselhos deliberativos e fiscais das entidades fechadas de previdência complementar e dá outras providências.",
+        "Sigla Colegiado": "PLEN",
+        "Descrição Informe Legislativo": "(Sessão Deliberativa Ordinária – realizada em 28/05/2025) \nEncaminhadas à publicação as emendas nºs 1 a 62.  \nEncaminhado à publicação o Requerimento nº 412, de 2025, retirado pelo autor.  \nEncaminhado à publicação o Requerimento nº 417, de 2025, retirado pelo autor. \nAprovado o Requerimento nº 410, de 2025, por meio do qual se solicita urgência para a matéria, com votos contrários dos Senadores Cleitinho e Eduardo Girão. \nEncaminhado à publicação o Parecer nº 71, de 2025-PLEN/SF, proferido pelo Senador Rogério Carvalho, o qual é favorável ao projeto e contrário às emendas apresentadas. \nEncerrada a discussão da matéria. \nAprovado o projeto, com votos contrários dos Senadores Cleitinho e Eduardo Girão. Serão feitos ajustes de remissão diretamente nos autógrafos da matéria. \nA matéria vai à sanção. \nSerá feita a devida comunicação à Câmara dos Deputados.",
+        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/168821"
     }
 ]
