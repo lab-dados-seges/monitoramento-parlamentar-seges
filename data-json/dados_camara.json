@@ -176,12 +176,23 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2473476"
     },
     {
+        "Sigla Tipo": "REQ",
+        "Número": 4880,
+        "Ano": 2024,
+        "Ementa": "Requer regime de urgência para apreciação do Projeto de Lei nº 3097/2024, que “altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), a Lei nº 1.079, de 10 de abril de 1950 e o Decreto-Lei nº 201, de 27 de fevereiro de 1967, para instituir sanções penais e administrativas para gestores estaduais e municipais que não transferirem ou executarem, no prazo máximo de 60 dias, recursos provenientes de emendas parlamentares individuais e de bancada, e dá outras providências”.",
+        "Situação Tramitação": "Encerramentos",
+        "Despacho": "Matéria não apreciada em face do encerramento da Ordem do Dia.",
+        "Órgão Última Tramitação (Sigla)": "PLEN",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2839532",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2478932"
+    },
+    {
         "Sigla Tipo": "PLP",
         "Número": 231,
         "Ano": 2024,
         "Ementa": "Altera o art. 3º da Lei Complementar nº 210, de 25 de novembro de 2024, para priorizar Municípios afetados por desastres climáticos na indicação de emendas parlamentares de bancada.",
-        "Situação Tramitação": "Recebimento - Relator(a) (Sem Manifestação)",
-        "Despacho": "Devolvida pela Relatora sem Manifestação.",
+        "Situação Tramitação": "Designação de Relator(a)",
+        "Despacho": "Designado Relator, Dep. Marcon (PT-RS).",
         "Órgão Última Tramitação (Sigla)": "CINDRE",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2843550",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2480459"
@@ -246,8 +257,8 @@
         "Número": 1009,
         "Ano": 2025,
         "Ementa": "Requer ao Exma. Sra. Ministra de Estado Chefe da Secretaria de Relações Institucionais, para que forneça esclarecimentos completos e detalhados sobre à liberação de R$ 4,2 bilhões em emendas parlamentares de comissão, conforme noticiado e objeto de inquérito instaurado pela Polícia Federal em 24 de dezembro de 2024.",
-        "Situação Tramitação": "Abertura de Prazo",
-        "Despacho": "Prazo para Resposta Externas (de 06/05/2025 a 04/06/2025)",
+        "Situação Tramitação": "Providência Interna - Comunicação de resposta ostensiva",
+        "Despacho": "Encaminhamento de resposta por meio do sistema Infoleg",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2872575",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2489413"
@@ -301,9 +312,9 @@
         "Número": 93,
         "Ano": 2025,
         "Ementa": "Modifica a Lei Complementar nº 210, de 25 de novembro de 2024 para excluir critério de impedimento de ordem técnica à execução de emendas parlamentares à Lei de Orçamento Anual",
-        "Situação Tramitação": "Distribuição",
-        "Despacho": "Às Comissões de Finanças e Tributação (Mérito e Art. 54, RICD) e Constituição e Justiça e de Cidadania (Art. 54 RICD)Proposição Sujeita à Apreciação do PlenárioRegime de Tramitação: Prioridade (Art. 151, II, RICD)",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Situação Tramitação": "Publicação de Proposição",
+        "Despacho": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 03/06/2025.",
+        "Órgão Última Tramitação (Sigla)": "CCP",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2886975",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2497837"
     },
@@ -323,8 +334,8 @@
         "Número": 1644,
         "Ano": 2025,
         "Ementa": "Requer ao Exmo. Sr. Ministro de Estado Chefe da Casa Civil para que forneça esclarecimentos completos e detalhados acerca dos procedimentos de articulação política, critérios de priorização e eventuais acordos relacionados à execução de emendas parlamentares de comissão nos exercícios de 2023, 2024 e 2025.",
-        "Situação Tramitação": "Recebimento",
-        "Despacho": "Recebimento pela 1SECM.",
+        "Situação Tramitação": "Abertura de Prazo",
+        "Despacho": "Prazo para Resposta Externas (de 03/06/2025 a 02/07/2025)",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2895499",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2502814"
@@ -834,5 +845,16 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2924358",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2519875"
+    },
+    {
+        "Sigla Tipo": "INC",
+        "Número": 1446,
+        "Ano": 2025,
+        "Ementa": "Sugere à douta Controladoria-Geral da União a instauração de investigações, em eventual colaboração com o Tribunal de Contas da União (TCU) e outros órgãos de controle, para rigorosa apuração das razões e da legalidade da decisão do Ministério da Gestão e Inovação em Serviços Públicos (MGI) de restringir o acesso público a aproximadamente 16 milhões de documentos na plataforma TransfereGov, que detalham a execução de R$ 662 bilhões em repasses públicos, incluindo emendas parlamentares, sob a justificativa de cumprimento da Lei Geral de Proteção de Dados (LGPD), em aparente contrariedade a parecer da Advocacia-Geral da União (AGU) e aos princípios constitucionais de transparência e publicidade",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação da INC n. 1446/2025 (Indicação ), pelo Deputado Dr. Frederico (PRD/MG), que \"Sugere à douta Controladoria-Geral da União a instauração de investigações, em eventual colaboração com o Tribunal de Contas da União (TCU) e outros órgãos de controle, para rigorosa apuração das razões e da legalidade da decisão do Ministério da Gestão e Inovação em Serviços Públicos (MGI) de restringir o acesso público a aproximadamente 16 milhões de documentos na plataforma TransfereGov, que detalham a execução de R$ 662 bilhões em repasses públicos, incluindo emendas parlamentares, sob a justificativa de cumprimento da Lei Geral de Proteção de Dados (LGPD), em aparente contrariedade a parecer da Advocacia-Geral da União (AGU) e aos princípios constitucionais de transparência e publicidade\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2924650",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2519985"
     }
 ]
