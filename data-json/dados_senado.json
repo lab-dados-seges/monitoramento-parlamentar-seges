@@ -14,7 +14,7 @@
         "Ano": "2023",
         "Ementa": "Veto Parcial aposto ao Projeto de Lei nº 3.954, de 2023, que \"Altera a Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos), para determinar o modo de disputa fechado nas licitações de obras e serviços que especifica, facultar a adesão de Município a ata de registro de preços licitada por outro ente do mesmo nível federativo, dispor sobre a execução e liquidação do objeto remanescente de contrato administrativo rescindido, permitir a prestação de garantia na forma de título de capitalização e promover a gestão e a aplicação eficientes dos recursos oriundos de convênios e contratos de repasse\".",
         "Sigla Colegiado": "Mesa",
-        "Descrição Informe Legislativo": "Incluído na Ordem do Dia da Sessão Conjunta do Congresso Nacional, convocada para terça-feira, 17 de junho de 2025, às 12h, no Plenário da Câmara dos Deputados.",
+        "Descrição Informe Legislativo": "Ao Plenário.",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161825"
     },
     {
@@ -25,6 +25,24 @@
         "Sigla Colegiado": "Não informado",
         "Descrição Informe Legislativo": "Remetido Ofício CN nº 113, de 11/06/25, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República encaminhando Mensagem CN nº 34/25, ao Excelentíssimo Senhor Presidente da República, participando o encerramento do prazo de vigência da presente Medida Provisória, bem como o seu encaminhamento à Comissão Mista, nos termos do art. 11 da Resolução nº 1, de 2002-CN. Recebido no destino em 12/06/2025 às 16:58:48.\n\nRemetido Ofício CN nº 114, de 11/06/25, ao Senhor Presidente da Câmara dos Deputados, participando o encerramento do prazo de vigência da presente Medida Provisória.\n\nÀ SACM.",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/166962"
+    },
+    {
+        "Tipo": "PL",
+        "Número": "00462",
+        "Ano": "2025",
+        "Ementa": "Altera o art. 121 da Lei nº 14.133, de 1º de abril de 2021, para tornar obrigatória a adoção de medidas assecuratórias do cumprimento de obrigações trabalhistas em contratos de serviços contínuos com regime de dedicação exclusiva de mão de obra, dando-se prioridade ao emprego da conta vinculada.",
+        "Sigla Colegiado": "PLEN",
+        "Descrição Informe Legislativo": "Autuado o Projeto de Lei nº 462/2025. O projeto vai à publicação.",
+        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167207"
+    },
+    {
+        "Tipo": "PL",
+        "Número": "00474",
+        "Ano": "2025",
+        "Ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos), para atribuir à Administração o ônus de comprovar o efetivo e regular exercício da fiscalização do cumprimento das obrigações trabalhistas e previdenciárias do contratado, no caso de contratações de serviços contínuos em regime de dedicação exclusiva de mão de obra.",
+        "Sigla Colegiado": "PLEN",
+        "Descrição Informe Legislativo": "Autuado o Projeto de Lei nº 474/2025. O projeto vai à publicação.",
+        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167214"
     },
     {
         "Tipo": "PRN",
@@ -67,8 +85,8 @@
         "Número": "00003",
         "Ano": "2025",
         "Ementa": "Altera disposições da Resolução nº 1, de 2006-CN, para aprimorar o rito de apresentação e de indicação de emendas parlamentares às leis orçamentárias.",
-        "Sigla Colegiado": "Mesa",
-        "Descrição Informe Legislativo": "Matéria incluída em pauta da sessão do Congresso Nacional de 17/06/2025 às 12 horas.\n\nDesignado relator da matéria o Senador Eduardo Gomes.",
+        "Sigla Colegiado": "PLEN",
+        "Descrição Informe Legislativo": "(Sessão Conjunta do Congresso Nacional, realizada em 17/06/2025) \nEncaminhada à publicação a Emenda nº 1. \nProferido pelo Senador Eduardo Gomes o Parecer nº 4/2025-PLEN/CN, em substituição às Mesas da Câmara dos Deputados e do Senado Federal, concluindo pela aprovação do projeto, nos termos de Substitutivo; e pela rejeição da Emenda nº 1. \nDiscussão encerrada. \nAprovado o Substitutivo na Câmara dos Deputados. \nAprovado o Substitutivo no Senado Federal. \nManifestação de votos contrários da Deputada Talíria Petrone, do Senador Eduardo Girão, do Deputado Marcel Van Hatten, dos Senadores Magno Malta e Sérgio Moro, da Deputada Bia Kicis, dos Deputados Sanderson e Ivan Valente, da Deputada Adriana Ventura, do Deputado Gilson Marques, do Senador Cleitinho, da Senadora Damares Alves, dos Deputados Eder Mauro, Osmar Terra, Sargento Fahur, Otoni de Paula, Chico Alencar, Ricardo Salles, Luiz Lima, da Federação Psol Rede e do Partido Novo.  \nPrejudicados o projeto e a emenda. \nEncaminhado à publicação o Parecer nº 5/2025-PLEN/CN, apresentando a redação final da matéria. \nAprovada a redação final, na Câmara dos Deputados e no Senado Federal, com os votos contrários anteriormente registrados. \nÀ promulgação.",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169096"
     }
 ]
