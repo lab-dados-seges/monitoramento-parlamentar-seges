@@ -1,20 +1,11 @@
 [
     {
-        "Tipo": "PRS",
-        "Número": "00056",
-        "Ano": "2020",
-        "Ementa": "Reserva 20% (vinte por cento) das funções comissionadas e dos cargos em comissão do Senado Federal para negros e pardos.",
-        "Sigla Colegiado": "CDH",
-        "Descrição Informe Legislativo": "Recebido relatório do Senador Weverton com voto favorável ao Projeto, com uma Emenda (de Redação) que apresenta.",
-        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/145719"
-    },
-    {
         "Tipo": "VET",
         "Número": "00046",
         "Ano": "2023",
         "Ementa": "Veto Parcial aposto ao Projeto de Lei nº 3.954, de 2023, que \"Altera a Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos), para determinar o modo de disputa fechado nas licitações de obras e serviços que especifica, facultar a adesão de Município a ata de registro de preços licitada por outro ente do mesmo nível federativo, dispor sobre a execução e liquidação do objeto remanescente de contrato administrativo rescindido, permitir a prestação de garantia na forma de título de capitalização e promover a gestão e a aplicação eficientes dos recursos oriundos de convênios e contratos de repasse\".",
-        "Sigla Colegiado": "Mesa",
-        "Descrição Informe Legislativo": "Ao Plenário.",
+        "Sigla Colegiado": "PLEN",
+        "Descrição Informe Legislativo": "(Sessão Conjunta do Congresso Nacional, realizada em 17/06/2025) \nAdiada a apreciação dos vetos aos dispositivos 46.23.001, 46.23.002, 46.23.003 e 46.23.006. \nDiscussão encerrada. \nApurada a votação na cédula eletrônica, é obtido o seguinte resultado: \n- Rejeitados no Senado Federal e na Câmara dos Deputados os vetos aos dispositivos 46.23.011, 46.23.012 e 46.23.014. \n- Mantidos no Senado Federal, deixando de ser submetidos à Câmara dos Deputados, os vetos aos dispositivos 46.23.008, 46.23.009 e 46.23.010. \nOs dispositivos cujos vetos foram rejeitados vão à promulgação.  \nSerá feita a devida comunicação ao Presidente da República.  \n(Disponibilizado na aba de documentos o resultado da apuração da Cédula Eletrônica de votação)",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161825"
     },
     {
@@ -85,8 +76,17 @@
         "Número": "00003",
         "Ano": "2025",
         "Ementa": "Altera disposições da Resolução nº 1, de 2006-CN, para aprimorar o rito de apresentação e de indicação de emendas parlamentares às leis orçamentárias.",
-        "Sigla Colegiado": "PLEN",
-        "Descrição Informe Legislativo": "(Sessão Conjunta do Congresso Nacional, realizada em 17/06/2025) \nEncaminhada à publicação a Emenda nº 1. \nProferido pelo Senador Eduardo Gomes o Parecer nº 4/2025-PLEN/CN, em substituição às Mesas da Câmara dos Deputados e do Senado Federal, concluindo pela aprovação do projeto, nos termos de Substitutivo; e pela rejeição da Emenda nº 1. \nDiscussão encerrada. \nAprovado o Substitutivo na Câmara dos Deputados. \nAprovado o Substitutivo no Senado Federal. \nManifestação de votos contrários da Deputada Talíria Petrone, do Senador Eduardo Girão, do Deputado Marcel Van Hatten, dos Senadores Magno Malta e Sérgio Moro, da Deputada Bia Kicis, dos Deputados Sanderson e Ivan Valente, da Deputada Adriana Ventura, do Deputado Gilson Marques, do Senador Cleitinho, da Senadora Damares Alves, dos Deputados Eder Mauro, Osmar Terra, Sargento Fahur, Otoni de Paula, Chico Alencar, Ricardo Salles, Luiz Lima, da Federação Psol Rede e do Partido Novo.  \nPrejudicados o projeto e a emenda. \nEncaminhado à publicação o Parecer nº 5/2025-PLEN/CN, apresentando a redação final da matéria. \nAprovada a redação final, na Câmara dos Deputados e no Senado Federal, com os votos contrários anteriormente registrados. \nÀ promulgação.",
+        "Sigla Colegiado": "Mesa",
+        "Descrição Informe Legislativo": "Anexado, em 18/06/2025, o Quadro Comparativo entre a Resolução nº 1, de 2006 - CN, o Projeto de Resolução nº 3, de 2025 (PRN 3/2025) e o Autógrafo, elaborado pela Secretaria Legislativa do Congresso Nacional.",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169096"
+    },
+    {
+        "Tipo": "RQS",
+        "Número": "00471",
+        "Ano": "2025",
+        "Ementa": "Requer informações ao Senhor André Luiz Carvalho Ribeiro, Ministro de Estado do Esporte, sobre a Portaria MESP nº 45, de 16 de maio de 2025, que dispõe sobre a dedução de percentual das transferências financeiras de emendas parlamentares para custear serviços de operacionalização e fiscalização, à luz da Lei de Diretrizes Orçamentárias (LDO) de 2025 e da estrutura regimental do Ministério do Esporte.",
+        "Sigla Colegiado": "CDIR",
+        "Descrição Informe Legislativo": "Aguardando designação de relator.",
+        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/169185"
     }
 ]

@@ -187,17 +187,6 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482110"
     },
     {
-        "Sigla Tipo": "RIC",
-        "Número": 183,
-        "Ano": 2025,
-        "Ementa": "Solicita a Excelentíssima Senhora Ministra da Saúde informações sobre o Processo SEI n.º 25000.188050/2023- 35 – Aquisição emergencial de insumo para saúde por determinação judicial – Termo de Referência n° 146/2023 – Despacho SEI/MS 0040964608.",
-        "Situação Tramitação": "Providência Interna - Comunicação de resposta ostensiva",
-        "Despacho": "Encaminhamento de resposta por meio do sistema Infoleg",
-        "Órgão Última Tramitação (Sigla)": "1SECM",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2851538",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483019"
-    },
-    {
         "Sigla Tipo": "PL",
         "Número": 660,
         "Ano": 2025,
@@ -231,17 +220,6 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2489413"
     },
     {
-        "Sigla Tipo": "INC",
-        "Número": 385,
-        "Ano": 2025,
-        "Ementa": "Sugere a edição de normativo disciplinando os prazos das transferências do Fundo Nacional de Saúde aos fundos de saúde dos Estados, Distrito Federal e Municípios, relativas a emendas parlamentares que destinarem recursos ao Sistema Único de Saúde (SUS).",
-        "Situação Tramitação": "Remessa a Ministério",
-        "Despacho": "Remessa por meio do Ofício 1ªSec/I/E nº 57 e outros/2025, a Ministra de Estado da Secretaria de Relações Institucionais da Presidência da República.",
-        "Órgão Última Tramitação (Sigla)": "1SECM",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2873387",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2490088"
-    },
-    {
         "Sigla Tipo": "PL",
         "Número": 1368,
         "Ano": 2025,
@@ -273,17 +251,6 @@
         "Órgão Última Tramitação (Sigla)": "CCP",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2886975",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2497837"
-    },
-    {
-        "Sigla Tipo": "REQ",
-        "Número": 10,
-        "Ano": 2025,
-        "Ementa": "Requer a realização de Audiência Pública para debater  sobre o Projeto de Lei Complementar nº 12/2025, de autoria do SR. Dep. Luiz Carlos Hauly, Altera a Lei Complementar nº 210, de 2024 para estabelecer que as emendas parlamentares, de bancada ou individuais, deverão ser destinadas, obrigatoriamente, para a erradicação dos lixões e para o saneamento básico dos municípios e dá outras providências.",
-        "Situação Tramitação": "Aprovação de Proposição Interna",
-        "Despacho": "Aprovado o Requerimento.",
-        "Órgão Última Tramitação (Sigla)": "CDU",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2887672",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2498129"
     },
     {
         "Sigla Tipo": "RIC",
@@ -944,5 +911,16 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2934504",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2525081"
+    },
+    {
+        "Sigla Tipo": "PLP",
+        "Número": 136,
+        "Ano": 2025,
+        "Ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para vedar a dedução de valores das transferências oriundas de emendas parlamentares para custeio de despesas administrativas pelo Poder Executivo.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PLP n. 136/2025 (Projeto de Lei Complementar), pelo Deputado Luiz Philippe de Orleans e Bragança (PL/SP), que \"Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para vedar a dedução de valores das transferências oriundas de emendas parlamentares para custeio de despesas administrativas pelo Poder Executivo\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2939133",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2527265"
     }
 ]
