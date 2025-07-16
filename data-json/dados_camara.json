@@ -44,17 +44,6 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2307829"
     },
     {
-        "Sigla Tipo": "PDL",
-        "Número": 127,
-        "Ano": 2023,
-        "Ementa": "Susta os incisos de I a III, do art. 12, Portaria GM/MS 449/2023, de 05 de abril, do Ministério da Saúde, acerca da revisão dos cálculos referentes aos critérios para transferência das Emendas Parlamentares.",
-        "Situação Tramitação": "Notificacao para Publicação Intermediária",
-        "Despacho": "Designado Relator, Dep. Dr. Zacharias Calil (UNIÃO-GO), para o PDL 116/2023, ao qual esta proposição está apensada.",
-        "Órgão Última Tramitação (Sigla)": "CSAUDE",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2258415",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2356156"
-    },
-    {
         "Sigla Tipo": "PL",
         "Número": 3954,
         "Ano": 2023,
@@ -235,9 +224,9 @@
         "Número": 1645,
         "Ano": 2025,
         "Ementa": "Requer a Exma. Sra. Ministra de Estado Chefe da Secretaria de Relações Institucionais, para que forneça esclarecimentos completos e detalhados sobre o papel da pasta na negociação, coordenação e execução das emendas parlamentares de comissão nos exercícios de 2023, 2024 e 2025, com destaque para critérios de liberação e acordos políticos celebrados.",
-        "Situação Tramitação": "Abertura de Prazo",
-        "Despacho": "Prazo para Resposta Externas (de 24/06/2025 a 23/07/2025)",
-        "Órgão Última Tramitação (Sigla)": "1SECM",
+        "Situação Tramitação": "Apresentação de Requerimento",
+        "Despacho": "Apresentação do REQ n. 2767/2025 (Requerimento de Retirada de Proposição de Iniciativa Individual), pelo Deputado Marcos Tavares (PDT/RJ), que \"Requer a retirada de tramitação e o arquivamento do RIC. Nº 1645/2025, que requer a Exma. Sra. Ministra de Estado Chefe da Secretaria de Relações Institucionais, para que forneça esclarecimentos completos e detalhados sobre o papel da pasta na negociação, coordenação e execução das emendas parlamentares de comissão nos exercícios de 2023, 2024 e 2025, com destaque para critérios de liberação e acordos políticos celebrados\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2895534",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2502831"
     },
@@ -944,5 +933,27 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2949471",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2532131"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 2767,
+        "Ano": 2025,
+        "Ementa": "Requer a retirada de tramitação e o arquivamento do RIC. Nº 1645/2025, que requer a Exma. Sra. Ministra de Estado Chefe da Secretaria de Relações Institucionais, para que forneça esclarecimentos completos e detalhados sobre o papel da pasta na negociação, coordenação e execução das emendas parlamentares de comissão nos exercícios de 2023, 2024 e 2025, com destaque para critérios de liberação e acordos políticos celebrados.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do REQ n. 2767/2025 (Requerimento de Retirada de Proposição de Iniciativa Individual), pelo Deputado Marcos Tavares (PDT/RJ), que \"Requer a retirada de tramitação e o arquivamento do RIC. Nº 1645/2025, que requer a Exma. Sra. Ministra de Estado Chefe da Secretaria de Relações Institucionais, para que forneça esclarecimentos completos e detalhados sobre o papel da pasta na negociação, coordenação e execução das emendas parlamentares de comissão nos exercícios de 2023, 2024 e 2025, com destaque para critérios de liberação e acordos políticos celebrados\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2956956",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2536308"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 3416,
+        "Ano": 2025,
+        "Ementa": "Dispõe sobre a contratação de licenças de software pela Administração Pública, estabelecendo procedimentos e critérios para a contratação direta com base na inexigibilidade de licitação, e dá outras providências.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PL n. 3416/2025 (Projeto de Lei), pelo Deputado Amom Mandel (CIDADANIA/AM -Fdr PSDB-CIDADANIA), que \"Dispõe sobre a contratação de licenças de software pela Administração Pública, estabelecendo procedimentos e critérios para a contratação direta com base na inexigibilidade de licitação, e dá outras providências\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2957670",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2536695"
     }
 ]
