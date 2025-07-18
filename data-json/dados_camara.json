@@ -44,6 +44,28 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2307829"
     },
     {
+        "Sigla Tipo": "PDL",
+        "Número": 357,
+        "Ano": 2022,
+        "Ementa": "Susta o Decreto nº 11.226, de 07 de outubro de 2022, que aprova o Estatuto e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Fundação Nacional do Índio - Funai e remaneja e transforma cargos em comissão e funções de confiança.",
+        "Situação Tramitação": "Designação de Relator(a)",
+        "Despacho": "Designada Relatora, Dep. Célia Xakriabá (PSOL-MG).",
+        "Órgão Última Tramitação (Sigla)": "CPOVOS",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2209324",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2335467"
+    },
+    {
+        "Sigla Tipo": "PDL",
+        "Número": 358,
+        "Ano": 2022,
+        "Ementa": "Susta os efeitos do Decreto nº 11.226, de 07 de outubro de 2022, que altera o Decreto nº 9.010, de 23 de março de 2017, que aprova o Estatuto e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Fundação Nacional do Índio - FUNAI e remaneja e transforma cargos em comissão e funções de confiança.",
+        "Situação Tramitação": "Notificacao para Publicação Intermediária",
+        "Despacho": "Designada Relatora, Dep. Célia Xakriabá (PSOL-MG), para o PDL 357/2022, ao qual esta proposição está apensada.",
+        "Órgão Última Tramitação (Sigla)": "CPOVOS",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2209490",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2335551"
+    },
+    {
         "Sigla Tipo": "PL",
         "Número": 3954,
         "Ano": 2023,
@@ -196,6 +218,17 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2880102",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2494408"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 1578,
+        "Ano": 2025,
+        "Ementa": "Dispõe sobre a indenização pecuniária por tempo de serviço aos servidores ocupantes exclusivamente de cargos em comissão da Câmara dos Deputados.",
+        "Situação Tramitação": "Apresentação de Requerimento",
+        "Despacho": "Apresentação do REQ n. 2840/2025 (Requerimento de Apensação), pelo Deputado João Daniel (PT/SE -Fdr PT-PCdoB-PV), que \"Nos termos do art. 142 do Regimento Interno da Câmara dos Deputados, requeiro a Vossa Excelência a apensação do Projeto de Lei nº 1.578, de 2025, ao Projeto de Lei nº 1.107, de 2023, oriundo do Senado Federal, por tratarem de matérias correlatas, com identidade de objeto e finalidade, e estarem em fase regimental compatível com a apensação\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2882878",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2495698"
     },
     {
         "Sigla Tipo": "PLP",
