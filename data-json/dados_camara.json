@@ -11,17 +11,6 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2151685"
     },
     {
-        "Sigla Tipo": "PL",
-        "Número": 10479,
-        "Ano": 2018,
-        "Ementa": "Regulamenta o repasse de recursos de emendas parlamentares em natureza de despesa de custeio destinado ao incremento PAB/MAC a hospitais e santas casas filantrópicas, através do Fundo Nacional de Saúde - FNS.",
-        "Situação Tramitação": "Encerramento de Prazo",
-        "Despacho": "Encerrado o prazo de 5 sessões para apresentação de emendas ao projeto (de 06/05/2025 a 22/05/2025). Não foram apresentadas emendas.",
-        "Órgão Última Tramitação (Sigla)": "CASP",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1671404",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2179960"
-    },
-    {
         "Sigla Tipo": "PLP",
         "Número": 82,
         "Ano": 2021,
@@ -592,5 +581,16 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2957670",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2536695"
+    },
+    {
+        "Sigla Tipo": "PLP",
+        "Número": 156,
+        "Ano": 2025,
+        "Ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024 para dispor sobre os limites das emendas parlamentares aos projetos de lei orçamentária anual.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PLP n. 156/2025 (Projeto de Lei Complementar), pela Deputada Tabata Amaral (PSB/SP), que \"Altera a Lei Complementar nº 210, de 25 de novembro de 2024 para dispor sobre os limites das emendas parlamentares aos projetos de lei orçamentária anual\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2961110",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2538380"
     }
 ]
