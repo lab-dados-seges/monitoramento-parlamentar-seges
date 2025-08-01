@@ -1,6 +1,15 @@
 [
     {
         "Tipo": "VET",
+        "Número": "00050",
+        "Ano": "2021",
+        "Ementa": "Veto Parcial aposto ao Projeto de Lei de Conversão nº 18, de 2021 (oriundo da MPV nº 1.042/2021), que \"Simplifica a gestão de cargos em comissão e de funções de confiança na administração pública federal direta, autárquica e fundacional; altera a Lei nº 11.526, de 4 de outubro de 2007; e revoga dispositivos das Leis nºs 8.216, de 13 de agosto de 1991, 8.460, de 17 de setembro de 1992, 9.028, de 12 de abril de 1995, 9.625, de 7 de abril de 1998, 9.649, de 27 de maio de 1998, 10.480, de 2 de julho de 2002, 10.556, de 13 de novembro de 2002, 10.667, de 14 de maio de 2003, 10.682, de 28 de maio de 2003, 11.355, de 19 de outubro de 2006, 11.357, de 19 de outubro de 2006, 11.907, de 2 de fevereiro de 2009, e 13.346, de 10 de outubro de 2016, e da Medida Provisória nº 2.229-43, de 6 de setembro de 2001\".",
+        "Sigla Colegiado": "Não informado",
+        "Descrição Informe Legislativo": "Remetido Ofício CN nº 98, de 23/03/22, ao Senhor Ministro de Estado Chefe da Secretaria-Geral da Presidência da República, encaminhando a Mensagem CN nº 34/22, ao Excelentíssimo Senhor Presidente da República, participando que, em sessão conjunta realizada em 17 de março do corrente ano, o Congresso Nacional manteve o Veto aposto ao Projeto de Conversão n° 18/21.\n\nÀ COARQ.",
+        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/149855"
+    },
+    {
+        "Tipo": "VET",
         "Número": "00046",
         "Ano": "2023",
         "Ementa": "Veto Parcial aposto ao Projeto de Lei nº 3.954, de 2023, que \"Altera a Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos), para determinar o modo de disputa fechado nas licitações de obras e serviços que especifica, facultar a adesão de Município a ata de registro de preços licitada por outro ente do mesmo nível federativo, dispor sobre a execução e liquidação do objeto remanescente de contrato administrativo rescindido, permitir a prestação de garantia na forma de título de capitalização e promover a gestão e a aplicação eficientes dos recursos oriundos de convênios e contratos de repasse\".",
