@@ -312,8 +312,8 @@
         "Número": 3932,
         "Ano": 2025,
         "Ementa": "Requer do Excelentíssimo Ministro da Agricultura e Pecuária, Senhor Carlos Fávaro, informações sobre a cobrança de taxa administrativa de 4,5% sobre o valor das emendas parlamentares.",
-        "Situação Tramitação": "Abertura de Prazo",
-        "Despacho": "Prazo para Resposta Externas (de 08/08/2025 a 08/09/2025)",
+        "Situação Tramitação": "Providência Interna - Comunicação de resposta ostensiva",
+        "Despacho": "Encaminhamento de resposta por meio do sistema Infoleg",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2945474",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2529568"
@@ -339,5 +339,104 @@
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2945479",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2529572"
+    },
+    {
+        "Sigla Tipo": "RIC",
+        "Número": 4087,
+        "Ano": 2025,
+        "Ementa": "Requer informações detalhadas ao Sr. Luiz Marinho, Ministro do Trabalho e Emprego, acerca dos convênios firmados entre a pasta e a entidade Unisol – Central de Cooperativas e Empreendimentos Solidários do Brasil, bem como sobre a destinação de emendas parlamentares para execução de projetos com viés ideológico.",
+        "Situação Tramitação": "Recebimento",
+        "Despacho": "Recebimento pela 1SECM.",
+        "Órgão Última Tramitação (Sigla)": "1SECM",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2949470",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2532130"
+    },
+    {
+        "Sigla Tipo": "RIC",
+        "Número": 4088,
+        "Ano": 2025,
+        "Ementa": "Solicita informações detalhadas a Senhora Ministra dos Direitos Humanos e da Cidadania, sobre os convênios firmados com a Unisol, para execução de cursos de formação com conteúdo ideológico e a destinação de emendas parlamentares para esses fins.",
+        "Situação Tramitação": "Recebimento",
+        "Despacho": "Recebimento pela 1SECM.",
+        "Órgão Última Tramitação (Sigla)": "1SECM",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2949471",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2532131"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 2767,
+        "Ano": 2025,
+        "Ementa": "Requer a retirada de tramitação e o arquivamento do RIC. Nº 1645/2025, que requer a Exma. Sra. Ministra de Estado Chefe da Secretaria de Relações Institucionais, para que forneça esclarecimentos completos e detalhados sobre o papel da pasta na negociação, coordenação e execução das emendas parlamentares de comissão nos exercícios de 2023, 2024 e 2025, com destaque para critérios de liberação e acordos políticos celebrados.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do REQ n. 2767/2025 (Requerimento de Retirada de Proposição de Iniciativa Individual), pelo Deputado Marcos Tavares (PDT/RJ), que \"Requer a retirada de tramitação e o arquivamento do RIC. Nº 1645/2025, que requer a Exma. Sra. Ministra de Estado Chefe da Secretaria de Relações Institucionais, para que forneça esclarecimentos completos e detalhados sobre o papel da pasta na negociação, coordenação e execução das emendas parlamentares de comissão nos exercícios de 2023, 2024 e 2025, com destaque para critérios de liberação e acordos políticos celebrados\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2956956",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2536308"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 3416,
+        "Ano": 2025,
+        "Ementa": "Dispõe sobre a contratação de licenças de software pela Administração Pública, estabelecendo procedimentos e critérios para a contratação direta com base na inexigibilidade de licitação, e dá outras providências.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PL n. 3416/2025 (Projeto de Lei), pelo Deputado Amom Mandel (CIDADANIA/AM -Fdr PSDB-CIDADANIA), que \"Dispõe sobre a contratação de licenças de software pela Administração Pública, estabelecendo procedimentos e critérios para a contratação direta com base na inexigibilidade de licitação, e dá outras providências\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2957670",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2536695"
+    },
+    {
+        "Sigla Tipo": "PLP",
+        "Número": 156,
+        "Ano": 2025,
+        "Ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024 para dispor sobre os limites das emendas parlamentares aos projetos de lei orçamentária anual.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PLP n. 156/2025 (Projeto de Lei Complementar), pela Deputada Tabata Amaral (PSB/SP), que \"Altera a Lei Complementar nº 210, de 25 de novembro de 2024 para dispor sobre os limites das emendas parlamentares aos projetos de lei orçamentária anual\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2961110",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2538380"
+    },
+    {
+        "Sigla Tipo": "PLP",
+        "Número": 159,
+        "Ano": 2025,
+        "Ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para permitir que emendas parlamentares de bancada destinem recursos a múltiplos entes federativos ou entidades via fundos municipais de assistência social.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PLP n. 159/2025 (Projeto de Lei Complementar), pelo Deputado Luiz Gastão (PSD/CE), que \"Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para permitir que emendas parlamentares de bancada destinem recursos a múltiplos entes federativos ou entidades via fundos municipais de assistência social\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2966234",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2539818"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 336,
+        "Ano": 2025,
+        "Ementa": "Requer o envio à CFFC, pelo Tribunal de Contas da União (TCU), de cópias digitais de Acórdãos (acompanhados de respectivos relatórios e votos) exarados recentemente pela\nCorte de Contas em relação à temática: emendas Parlamentares – transparência e eficiência na aplicação de recursos provenientes de emendas individuais e de\nrelator.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do REQ n. 336/2025 (Requerimento para envio de Solicitação de Informação ao TCU pela Comissão), pelo Deputado Dimas Gadelha (PT/RJ -Fdr PT-PCdoB-PV), que \"Requer o envio à CFFC, pelo Tribunal de Contas da União (TCU), de cópias digitais de Acórdãos (acompanhados de respectivos relatórios e votos) exarados recentemente pelaCorte de Contas em relação à temática: emendas Parlamentares – transparência e eficiência na aplicação de recursos provenientes de emendas individuais e derelator. \".",
+        "Órgão Última Tramitação (Sigla)": "CFFC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2971747",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2543184"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 337,
+        "Ano": 2025,
+        "Ementa": "Requer informações ao Ministro de Estado da Fazenda, Fernando Haddad, Tribunal de Contas da União (TCU), por meio do envio a esta CFFC de cópias digitais de Acórdãos (acompanhados de respectivos relatórios e votos) exarados recentemente pela Corte de Contas em relação à temática: emendas Parlamentares – transparência e eficiência na aplicação de recursos provenientes de emendas individuais e de relator.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do REQ n. 337/2025 (Requerimento para envio de Requerimento de Informação pela Comissão), pelo Deputado Dimas Gadelha (PT/RJ -Fdr PT-PCdoB-PV), que \"Requer informações ao Ministro de Estado da Fazenda, Fernando Haddad, Tribunal de Contas da União (TCU), por meio do envio a esta CFFC de cópias digitais de Acórdãos (acompanhados de respectivos relatórios e votos) exarados recentemente pela Corte de Contas em relação à temática: emendas Parlamentares – transparência e eficiência na aplicação de recursos provenientes de emendas individuais e de relator.\".",
+        "Órgão Última Tramitação (Sigla)": "CFFC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2971748",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2543185"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 3995,
+        "Ano": 2025,
+        "Ementa": "Institui o Sistema Nacional de Participação e Eficiência na Gestão Pública (SINAPE), organizado em regime de colaboração entre os entes federativos, com vistas ao fortalecimento da governança pública, da transparência e do controle social.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PL n. 3995/2025 (Projeto de Lei), pelo Deputado Otto Alencar Filho (PSD/BA), que \"Institui o Sistema Nacional de Participação e Eficiência na Gestão Pública (SINAPE), organizado em regime de colaboração entre os entes federativos, com vistas ao fortalecimento da governança pública, da transparência e do controle social\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2974912",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2545732"
     }
 ]
