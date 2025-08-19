@@ -427,5 +427,38 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2974912",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2545732"
+    },
+    {
+        "Sigla Tipo": "SLD",
+        "Número": 11,
+        "Ano": 2025,
+        "Ementa": "Texto - Corpo da Lei, Cap IV, Seção X, Subseção II, Art 80 - Destinação de emendas parlamentares ao pagamento do programa Produção SUS, vinculado à CEF.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação da SLD n. 11/2025 (Sugestão de Emenda à LDO - Comissões), pela Deputada Fernanda Pessoa (UNIÃO-CE), que: \"Texto - Corpo da Lei, Cap IV, Seção X, Subseção II, Art 80 - Destinação de emendas parlamentares ao pagamento do programa Produção SUS, vinculado à CEF\".",
+        "Órgão Última Tramitação (Sigla)": "CSAUDE",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2978971",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2548904"
+    },
+    {
+        "Sigla Tipo": "SLD",
+        "Número": 6,
+        "Ano": 2025,
+        "Ementa": "que \"requer a adição de texto para autorizar o Ministério do Meio Ambiente e Mudança do Clima a criar programa de aquisição de ração para fauna silvestre e unidades de conservação, financiado por emendas parlamentares. (Referência: Corpo da Lei, Cap IV, Seção IX, Art 74, Inciso VI, Alínea b).\"",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação da SLD n. 6/2025 (Sugestão de Emenda à LDO - Comissões), pelo Deputado(a) Evair Vieira de Melo (PP-ES), que: \"que 'requer a adição de texto para autorizar o Ministério do Meio Ambiente e Mudança do Clima a criar programa de aquisição de ração para fauna silvestre e unidades de conservação, financiado por emendas parlamentares. (Referência: Corpo da Lei, Cap IV, Seção IX, Art 74, Inciso VI, Alínea b).'\".",
+        "Órgão Última Tramitação (Sigla)": "CSPCCO",
+        "Link para Inteiro Teor": null,
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2548999"
+    },
+    {
+        "Sigla Tipo": "SLD",
+        "Número": 7,
+        "Ano": 2025,
+        "Ementa": "que \"requer a adição de texto para assegurar a aplicação integral dos recursos de emendas parlamentares, vedando deduções para custeio administrativo ou de fiscalização. (Referência: Corpo da Lei, Cap V, Seção III, Art 105, § 7).\"",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação da SLD n. 7/2025 (Sugestão de Emenda à LDO - Comissões), pelo Deputado(a) Evair Vieira de Melo (PP-ES), que: \"que 'requer a adição de texto para assegurar a aplicação integral dos recursos de emendas parlamentares, vedando deduções para custeio administrativo ou de fiscalização. (Referência: Corpo da Lei, Cap V, Seção III, Art 105, § 7).'\".",
+        "Órgão Última Tramitação (Sigla)": "CSPCCO",
+        "Link para Inteiro Teor": null,
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2549000"
     }
 ]
