@@ -410,9 +410,9 @@
         "Sigla Tipo": "REQ",
         "Número": 337,
         "Ano": 2025,
-        "Ementa": "Requer informações ao Ministro de Estado da Fazenda, Fernando Haddad, Tribunal de Contas da União (TCU), por meio do envio a esta CFFC de cópias digitais de Acórdãos (acompanhados de respectivos relatórios e votos) exarados recentemente pela Corte de Contas em relação à temática: emendas Parlamentares – transparência e eficiência na aplicação de recursos provenientes de emendas individuais e de relator.",
+        "Ementa": "Requer informações ao Ministro de Estado da Fazenda, Fernando Haddad,  por meio do envio a esta CFFC de  cópias digitais de estudos, pareceres, diagnósticos e outros instrumentos congêneres exarados recentemente pelas secretarias de referida pasta ministerial em relação à temática: emendas Parlamentares - transparência e eficiência na aplicação de recursos provenientes de emendas individuais e de relator.",
         "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do REQ n. 337/2025 (Requerimento para envio de Requerimento de Informação pela Comissão), pelo Deputado Dimas Gadelha (PT/RJ -Fdr PT-PCdoB-PV), que \"Requer informações ao Ministro de Estado da Fazenda, Fernando Haddad, Tribunal de Contas da União (TCU), por meio do envio a esta CFFC de cópias digitais de Acórdãos (acompanhados de respectivos relatórios e votos) exarados recentemente pela Corte de Contas em relação à temática: emendas Parlamentares – transparência e eficiência na aplicação de recursos provenientes de emendas individuais e de relator.\".",
+        "Despacho": "Apresentação do REQ n. 337/2025 (Requerimento para envio de Requerimento de Informação pela Comissão), pelo Deputado(a) Dimas Gadelha (PT-RJ), que: \"Requer informações ao Ministro de Estado da Fazenda, Fernando Haddad,  por meio do envio a esta CFFC de  cópias digitais de estudos, pareceres, diagnósticos e outros instrumentos congêneres exarados recentemente pelas secretarias de referida pasta ministerial em relação à temática: emendas Parlamentares - transparência e eficiência na aplicação de recursos provenientes de emendas individuais e de relator\".",
         "Órgão Última Tramitação (Sigla)": "CFFC",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2971748",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2543185"
@@ -444,8 +444,8 @@
         "Número": 6,
         "Ano": 2025,
         "Ementa": "que \"requer a adição de texto para autorizar o Ministério do Meio Ambiente e Mudança do Clima a criar programa de aquisição de ração para fauna silvestre e unidades de conservação, financiado por emendas parlamentares. (Referência: Corpo da Lei, Cap IV, Seção IX, Art 74, Inciso VI, Alínea b).\"",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação da SLD n. 6/2025 (Sugestão de Emenda à LDO - Comissões), pelo Deputado(a) Evair Vieira de Melo (PP-ES), que: \"que 'requer a adição de texto para autorizar o Ministério do Meio Ambiente e Mudança do Clima a criar programa de aquisição de ração para fauna silvestre e unidades de conservação, financiado por emendas parlamentares. (Referência: Corpo da Lei, Cap IV, Seção IX, Art 74, Inciso VI, Alínea b).'\".",
+        "Situação Tramitação": "Aprovação de Proposição Interna",
+        "Despacho": "Aprovada a [emenda / sugestão].",
         "Órgão Última Tramitação (Sigla)": "CSPCCO",
         "Link para Inteiro Teor": null,
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2548999"
@@ -455,10 +455,32 @@
         "Número": 7,
         "Ano": 2025,
         "Ementa": "que \"requer a adição de texto para assegurar a aplicação integral dos recursos de emendas parlamentares, vedando deduções para custeio administrativo ou de fiscalização. (Referência: Corpo da Lei, Cap V, Seção III, Art 105, § 7).\"",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação da SLD n. 7/2025 (Sugestão de Emenda à LDO - Comissões), pelo Deputado(a) Evair Vieira de Melo (PP-ES), que: \"que 'requer a adição de texto para assegurar a aplicação integral dos recursos de emendas parlamentares, vedando deduções para custeio administrativo ou de fiscalização. (Referência: Corpo da Lei, Cap V, Seção III, Art 105, § 7).'\".",
+        "Situação Tramitação": "Aprovação de Proposição Interna",
+        "Despacho": "Aprovada a [emenda / sugestão].",
         "Órgão Última Tramitação (Sigla)": "CSPCCO",
         "Link para Inteiro Teor": null,
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2549000"
+    },
+    {
+        "Sigla Tipo": "SLD",
+        "Número": 33,
+        "Ano": 2025,
+        "Ementa": "Requer alteração no Corpo da Lei, Cap IV, Seção IX, Art 74, Inciso VI, Alínea b para incluir o inciso XII para a criação de programa de aquisição de ração para fauna silvestre e unidades de conservação, financiado por emendas parlamentares, no âmbito do Ministério do Meio Ambiente e Mudança do Clima.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação da SLD n. 33/2025 (Sugestão de Emenda à LDO - Comissões), pelo Deputado Evair Vieira de Melo (PP-ES), que: \"Requer alteração no Corpo da Lei, Cap IV, Seção IX, Art 74, Inciso VI, Alínea b para incluir o inciso XII para a criação de programa de aquisição de ração para fauna silvestre e unidades de conservação, financiado por emendas parlamentares, no âmbito do Ministério do Meio Ambiente e Mudança do Clima\".",
+        "Órgão Última Tramitação (Sigla)": "CMADS",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2979322",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2549216"
+    },
+    {
+        "Sigla Tipo": "SLD",
+        "Número": 34,
+        "Ano": 2025,
+        "Ementa": "Requer alteração no Corpo da Lei, Cap V, Seção III, Art 105, § 7 para assegurar a aplicação integral dos recursos de emendas parlamentares, vedando deduções para custeio administrativo ou de fiscalização.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação da SLD n. 34/2025 (Sugestão de Emenda à LDO - Comissões), pelo Deputado Evair Vieira de Melo (PP-ES), que: \"Requer alteração no Corpo da Lei, Cap V, Seção III, Art 105, § 7 para assegurar a aplicação integral dos recursos de emendas parlamentares, vedando deduções para custeio administrativo ou de fiscalização\".",
+        "Órgão Última Tramitação (Sigla)": "CMADS",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2979323",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2549217"
     }
 ]
