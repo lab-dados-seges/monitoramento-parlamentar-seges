@@ -11,6 +11,17 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2151685"
     },
     {
+        "Sigla Tipo": "PL",
+        "Número": 10479,
+        "Ano": 2018,
+        "Ementa": "Regulamenta o repasse de recursos de emendas parlamentares em natureza de despesa de custeio destinado ao incremento PAB/MAC a hospitais e santas casas filantrópicas, através do Fundo Nacional de Saúde - FNS.",
+        "Situação Tramitação": "Abertura de Prazo",
+        "Despacho": "Prazo para Emendas ao Substitutivo (5 sessões a partir de 22/08/2025)",
+        "Órgão Última Tramitação (Sigla)": "CASP",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1671404",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2179960"
+    },
+    {
         "Sigla Tipo": "PLP",
         "Número": 82,
         "Ano": 2021,
@@ -185,6 +196,17 @@
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2912478",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2512355"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 231,
+        "Ano": 2025,
+        "Ementa": "Requer o encaminhamento de indicação à Controladoria-Geral da União (CGU) para sugerir a apuração e adoção de providências quanto à restrição de acesso a documentos públicos sobre convênios, repasses, obras e emendas parlamentares, promovida pelo Governo Federal, com possível violação à Lei de Acesso à Informação e prejuízos à transparência e ao controle dos recursos públicos.",
+        "Situação Tramitação": "Aprovação de Proposição Interna",
+        "Despacho": "Aprovado o Requerimento.",
+        "Órgão Última Tramitação (Sigla)": "CFFC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2917365",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2516037"
     },
     {
         "Sigla Tipo": "REQ",
@@ -400,8 +422,8 @@
         "Número": 336,
         "Ano": 2025,
         "Ementa": "Requer o envio à CFFC, pelo Tribunal de Contas da União (TCU), de cópias digitais de Acórdãos (acompanhados de respectivos relatórios e votos) exarados recentemente pela\nCorte de Contas em relação à temática: emendas Parlamentares – transparência e eficiência na aplicação de recursos provenientes de emendas individuais e de\nrelator.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do REQ n. 336/2025 (Requerimento para envio de Solicitação de Informação ao TCU pela Comissão), pelo Deputado Dimas Gadelha (PT/RJ -Fdr PT-PCdoB-PV), que \"Requer o envio à CFFC, pelo Tribunal de Contas da União (TCU), de cópias digitais de Acórdãos (acompanhados de respectivos relatórios e votos) exarados recentemente pelaCorte de Contas em relação à temática: emendas Parlamentares – transparência e eficiência na aplicação de recursos provenientes de emendas individuais e derelator. \".",
+        "Situação Tramitação": "Aprovação de Proposição Interna",
+        "Despacho": "Aprovado o Requerimento.",
         "Órgão Última Tramitação (Sigla)": "CFFC",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2971747",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2543184"
@@ -411,8 +433,8 @@
         "Número": 337,
         "Ano": 2025,
         "Ementa": "Requer informações ao Ministro de Estado da Fazenda, Fernando Haddad,  por meio do envio a esta CFFC de  cópias digitais de estudos, pareceres, diagnósticos e outros instrumentos congêneres exarados recentemente pelas secretarias de referida pasta ministerial em relação à temática: emendas Parlamentares - transparência e eficiência na aplicação de recursos provenientes de emendas individuais e de relator.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do REQ n. 337/2025 (Requerimento para envio de Requerimento de Informação pela Comissão), pelo Deputado(a) Dimas Gadelha (PT-RJ), que: \"Requer informações ao Ministro de Estado da Fazenda, Fernando Haddad,  por meio do envio a esta CFFC de  cópias digitais de estudos, pareceres, diagnósticos e outros instrumentos congêneres exarados recentemente pelas secretarias de referida pasta ministerial em relação à temática: emendas Parlamentares - transparência e eficiência na aplicação de recursos provenientes de emendas individuais e de relator\".",
+        "Situação Tramitação": "Aprovação de Proposição Interna",
+        "Despacho": "Aprovado o Requerimento.",
         "Órgão Última Tramitação (Sigla)": "CFFC",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2971748",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2543185"
@@ -433,8 +455,8 @@
         "Número": 11,
         "Ano": 2025,
         "Ementa": "Texto - Corpo da Lei, Cap IV, Seção X, Subseção II, Art 80 - Destinação de emendas parlamentares ao pagamento do programa Produção SUS, vinculado à CEF.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação da SLD n. 11/2025 (Sugestão de Emenda à LDO - Comissões), pela Deputada Fernanda Pessoa (UNIÃO-CE), que: \"Texto - Corpo da Lei, Cap IV, Seção X, Subseção II, Art 80 - Destinação de emendas parlamentares ao pagamento do programa Produção SUS, vinculado à CEF\".",
+        "Situação Tramitação": "Aprovação de Proposição Interna",
+        "Despacho": "Aprovada.",
         "Órgão Última Tramitação (Sigla)": "CSAUDE",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2978971",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2548904"
@@ -466,8 +488,8 @@
         "Número": 33,
         "Ano": 2025,
         "Ementa": "Requer alteração no Corpo da Lei, Cap IV, Seção IX, Art 74, Inciso VI, Alínea b para incluir o inciso XII para a criação de programa de aquisição de ração para fauna silvestre e unidades de conservação, financiado por emendas parlamentares, no âmbito do Ministério do Meio Ambiente e Mudança do Clima.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação da SLD n. 33/2025 (Sugestão de Emenda à LDO - Comissões), pelo Deputado Evair Vieira de Melo (PP-ES), que: \"Requer alteração no Corpo da Lei, Cap IV, Seção IX, Art 74, Inciso VI, Alínea b para incluir o inciso XII para a criação de programa de aquisição de ração para fauna silvestre e unidades de conservação, financiado por emendas parlamentares, no âmbito do Ministério do Meio Ambiente e Mudança do Clima\".",
+        "Situação Tramitação": "Aprovação de Proposição Interna",
+        "Despacho": "Aprovada a sugestão.",
         "Órgão Última Tramitação (Sigla)": "CMADS",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2979322",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2549216"
@@ -477,10 +499,21 @@
         "Número": 34,
         "Ano": 2025,
         "Ementa": "Requer alteração no Corpo da Lei, Cap V, Seção III, Art 105, § 7 para assegurar a aplicação integral dos recursos de emendas parlamentares, vedando deduções para custeio administrativo ou de fiscalização.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação da SLD n. 34/2025 (Sugestão de Emenda à LDO - Comissões), pelo Deputado Evair Vieira de Melo (PP-ES), que: \"Requer alteração no Corpo da Lei, Cap V, Seção III, Art 105, § 7 para assegurar a aplicação integral dos recursos de emendas parlamentares, vedando deduções para custeio administrativo ou de fiscalização\".",
+        "Situação Tramitação": "Aprovação de Proposição Interna",
+        "Despacho": "Aprovada a sugestão.",
         "Órgão Última Tramitação (Sigla)": "CMADS",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2979323",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2549217"
+    },
+    {
+        "Sigla Tipo": "SBT",
+        "Número": 1,
+        "Ano": 0,
+        "Ementa": "Regulamenta o repasse de recursos de emendas parlamentares em natureza de despesa de custeio destinado ao incremento PAB/MAC a hospitais e santas casas filantrópicas, através do Fundo Nacional de Saúde - FNS.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do SBT n. 1 CASP (Substitutivo), pelo Bruno Farias (AVANTE-MG)",
+        "Órgão Última Tramitação (Sigla)": "CASP",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2981979",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2550923"
     }
 ]
