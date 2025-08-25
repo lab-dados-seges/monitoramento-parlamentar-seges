@@ -1,16 +1,5 @@
 [
     {
-        "Sigla Tipo": "PLP",
-        "Número": 421,
-        "Ano": 2017,
-        "Ementa": "Destina parcela dos recursos de emendas parlamentares ao Orçamento da União para as finalidades que especifica.",
-        "Situação Tramitação": "Notificacao para Publicação Intermediária",
-        "Despacho": "Designado Relator, Dep. Diego Garcia (REPUBLIC-PR), para o PLP 292/2016, ao qual esta proposição está apensada.",
-        "Órgão Última Tramitação (Sigla)": "CSAUDE",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1597871",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2151685"
-    },
-    {
         "Sigla Tipo": "PL",
         "Número": 10479,
         "Ano": 2018,
@@ -119,6 +108,17 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2848985",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2481873"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 1368,
+        "Ano": 2025,
+        "Ementa": "Dispõe sobre a contratação direta do Transportador Autônomo de Carga (TAC) para prestação de serviços de transporte rodoviário de cargas à Administração Pública direta e indireta da União.",
+        "Situação Tramitação": "Abertura de Prazo",
+        "Despacho": "Prazo para Emendas ao Projeto (5 sessões a partir de 26/08/2025)",
+        "Órgão Última Tramitação (Sigla)": "CVT",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2876151",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2491477"
     },
     {
         "Sigla Tipo": "PL",
@@ -356,8 +356,8 @@
         "Número": 4087,
         "Ano": 2025,
         "Ementa": "Requer informações detalhadas ao Sr. Luiz Marinho, Ministro do Trabalho e Emprego, acerca dos convênios firmados entre a pasta e a entidade Unisol – Central de Cooperativas e Empreendimentos Solidários do Brasil, bem como sobre a destinação de emendas parlamentares para execução de projetos com viés ideológico.",
-        "Situação Tramitação": "Recebimento",
-        "Despacho": "Recebimento pela 1SECM.",
+        "Situação Tramitação": "Abertura de Prazo",
+        "Despacho": "Prazo para Resposta Externas (de 23/08/2025 a 22/09/2025)",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2949470",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2532130"
@@ -367,8 +367,8 @@
         "Número": 4088,
         "Ano": 2025,
         "Ementa": "Solicita informações detalhadas a Senhora Ministra dos Direitos Humanos e da Cidadania, sobre os convênios firmados com a Unisol, para execução de cursos de formação com conteúdo ideológico e a destinação de emendas parlamentares para esses fins.",
-        "Situação Tramitação": "Recebimento",
-        "Despacho": "Recebimento pela 1SECM.",
+        "Situação Tramitação": "Abertura de Prazo",
+        "Despacho": "Prazo para Resposta Externas (de 23/08/2025 a 22/09/2025)",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2949471",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2532131"
@@ -515,5 +515,16 @@
         "Órgão Última Tramitação (Sigla)": "CASP",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2981979",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2550923"
+    },
+    {
+        "Sigla Tipo": "RIC",
+        "Número": 5256,
+        "Ano": 2025,
+        "Ementa": "Requer ao Senhor Ministro de Estado da Fazenda, Fernando Haddad, para que sejam remetidas a esta Comissão de Fiscalização Financeira e Controle (CFFC) cópias digitais de estudos, pareceres, diagnósticos e outros instrumentos congêneres exarados recentemente pelas secretarias de referida pasta ministerial em relação à temática: emendas Parlamentares – transparência e eficiência na aplicação de recursos provenientes de emendas individuais e de relator.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do RIC n. 5256/2025 (Requerimento de Informação), pelo Comissão de Fiscalização Financeira e Controle, que \"Requer ao Senhor Ministro de Estado da Fazenda, Fernando Haddad, para que sejam remetidas a esta Comissão de Fiscalização Financeira e Controle (CFFC) cópias digitais de estudos, pareceres, diagnósticos e outros instrumentos congêneres exarados recentemente pelas secretarias de referida pasta ministerial em relação à temática: emendas Parlamentares – transparência e eficiência na aplicação de recursos provenientes de emendas individuais e de relator\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2983311",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2551624"
     }
 ]
