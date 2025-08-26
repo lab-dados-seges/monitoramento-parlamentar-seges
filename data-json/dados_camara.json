@@ -56,6 +56,17 @@
     },
     {
         "Sigla Tipo": "PL",
+        "Número": 2225,
+        "Ano": 2023,
+        "Ementa": "Altera a Lei nº 13.303, de 30 de junho de 2016 para estender a adesão ao Sistema de Registro de Preços a órgãos da Administração Direta e a Lei nº 14.133, de 1º de abril de 2021.",
+        "Situação Tramitação": "Abertura de Prazo",
+        "Despacho": "Prazo para Emendas ao Projeto (5 sessões a partir de 27/08/2025)",
+        "Órgão Última Tramitação (Sigla)": "CCJC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2265026",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2358824"
+    },
+    {
+        "Sigla Tipo": "PL",
         "Número": 3954,
         "Ano": 2023,
         "Ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos), para determinar o modo de disputa fechado nas licitações de obras e serviços que especifica, facultar a adesão de Município a ata de registro de preços licitada por outro ente do mesmo nível federativo, dispor sobre a execução e liquidação do objeto remanescente de contrato administrativo rescindido, permitir a prestação de garantia na forma de título de capitalização e promover a gestão e a aplicação eficientes dos recursos oriundos de convênios e contratos de repasse.",
@@ -70,8 +81,8 @@
         "Número": 4,
         "Ano": 2024,
         "Ementa": "Cria cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Tribunal Superior Eleitoral e dos Tribunais Regionais Eleitorais.",
-        "Situação Tramitação": "Encerramento de Prazo",
-        "Despacho": "Encerrado o prazo de 5 sessões para apresentação de emendas ao projeto (de 10/07/2025 a 07/08/2025). Não foram apresentadas emendas.",
+        "Situação Tramitação": "Parecer do(a) Relator(a)",
+        "Despacho": "Parecer do Relator, Dep. Domingos Neto (PSD-CE), pela constitucionalidade, juridicidade e técnica legislativa.",
         "Órgão Última Tramitação (Sigla)": "CCJC",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2383319",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2416830"
@@ -108,6 +119,17 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2848985",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2481873"
+    },
+    {
+        "Sigla Tipo": "INC",
+        "Número": 385,
+        "Ano": 2025,
+        "Ementa": "Sugere a edição de normativo disciplinando os prazos das transferências do Fundo Nacional de Saúde aos fundos de saúde dos Estados, Distrito Federal e Municípios, relativas a emendas parlamentares que destinarem recursos ao Sistema Único de Saúde (SUS).",
+        "Situação Tramitação": "Providência Interna - Comunicação de resposta ostensiva",
+        "Despacho": "Encaminhamento de resposta por meio do sistema INFOLEG",
+        "Órgão Última Tramitação (Sigla)": "1SECM",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2873387",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2490088"
     },
     {
         "Sigla Tipo": "PL",
@@ -202,9 +224,9 @@
         "Número": 231,
         "Ano": 2025,
         "Ementa": "Requer o encaminhamento de indicação à Controladoria-Geral da União (CGU) para sugerir a apuração e adoção de providências quanto à restrição de acesso a documentos públicos sobre convênios, repasses, obras e emendas parlamentares, promovida pelo Governo Federal, com possível violação à Lei de Acesso à Informação e prejuízos à transparência e ao controle dos recursos públicos.",
-        "Situação Tramitação": "Aprovação de Proposição Interna",
-        "Despacho": "Aprovado o Requerimento.",
-        "Órgão Última Tramitação (Sigla)": "CFFC",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação da INC n. 2123/2025 (Indicação ), pelo Comissão de Fiscalização Financeira e Controle, que \"Sugere à Controladoria-Geral da União a instauração de procedimento investigativo para apurar eventuais irregularidades na restrição de acesso a documentos públicos sobre convênios, repasses e emendas parlamentares, promovida pelo Governo Federal, com possível afronta à Lei de Acesso à Informação (LAI) e à transparência administrativa\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2917365",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2516037"
     },
@@ -517,14 +539,14 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2550923"
     },
     {
-        "Sigla Tipo": "RIC",
-        "Número": 5256,
+        "Sigla Tipo": "INC",
+        "Número": 2123,
         "Ano": 2025,
-        "Ementa": "Requer ao Senhor Ministro de Estado da Fazenda, Fernando Haddad, para que sejam remetidas a esta Comissão de Fiscalização Financeira e Controle (CFFC) cópias digitais de estudos, pareceres, diagnósticos e outros instrumentos congêneres exarados recentemente pelas secretarias de referida pasta ministerial em relação à temática: emendas Parlamentares – transparência e eficiência na aplicação de recursos provenientes de emendas individuais e de relator.",
+        "Ementa": "Sugere à Controladoria-Geral da União a instauração de procedimento investigativo para apurar eventuais irregularidades na restrição de acesso a documentos públicos sobre convênios, repasses e emendas parlamentares, promovida pelo Governo Federal, com possível afronta à Lei de Acesso à Informação (LAI) e à transparência administrativa.",
         "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do RIC n. 5256/2025 (Requerimento de Informação), pelo Comissão de Fiscalização Financeira e Controle, que \"Requer ao Senhor Ministro de Estado da Fazenda, Fernando Haddad, para que sejam remetidas a esta Comissão de Fiscalização Financeira e Controle (CFFC) cópias digitais de estudos, pareceres, diagnósticos e outros instrumentos congêneres exarados recentemente pelas secretarias de referida pasta ministerial em relação à temática: emendas Parlamentares – transparência e eficiência na aplicação de recursos provenientes de emendas individuais e de relator\".",
+        "Despacho": "Apresentação da INC n. 2123/2025 (Indicação ), pelo Comissão de Fiscalização Financeira e Controle, que \"Sugere à Controladoria-Geral da União a instauração de procedimento investigativo para apurar eventuais irregularidades na restrição de acesso a documentos públicos sobre convênios, repasses e emendas parlamentares, promovida pelo Governo Federal, com possível afronta à Lei de Acesso à Informação (LAI) e à transparência administrativa\".",
         "Órgão Última Tramitação (Sigla)": "MESA",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2983311",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2551624"
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2984415",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2552011"
     }
 ]
