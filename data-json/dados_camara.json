@@ -15,9 +15,9 @@
         "Número": 82,
         "Ano": 2021,
         "Ementa": "Altera Lei Complementar nº 173, de 27 de maio de 2020, a fim de prorrogar até 2021 excepcionalidades nas restrições à gestão pública, impostas como contrapartida de auxílio financeiro da União em 2020.",
-        "Situação Tramitação": "Aprovação de Urgência (154, 155 ou 64 CF)",
-        "Despacho": "Alteração do Regime de Tramitação desta proposição em virtude da alteração do regime do PLP 143/2020, por ter sido aprovado o REQ 3489/2024 que está apensado ao primeiro.",
-        "Órgão Última Tramitação (Sigla)": "PLEN",
+        "Situação Tramitação": "Desapensação",
+        "Despacho": "Desapensação deste do PLP nº 143, de 2020, principal, em face da aprovação, em Plenário, do Substitutivo ao Projeto de Lei Complementar nº 143, de 2020, da Comissão de Finanças e Tributação. (Sessão Deliberativa Extraordinária Presencial de 26/08/2025 - 13:55 - 163ª Sessão)",
+        "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2021050",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2285327"
     },
@@ -97,17 +97,6 @@
         "Órgão Última Tramitação (Sigla)": "CINDRE",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2843550",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2480459"
-    },
-    {
-        "Sigla Tipo": "PLP",
-        "Número": 232,
-        "Ano": 2024,
-        "Ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para dispor sobre a destinação de recursos de emendas parlamentares individuais e de bancada a políticas públicas do esporte de forma a contemplar projetos educacionais.",
-        "Situação Tramitação": "Parecer do(a) Relator(a)",
-        "Despacho": "Parecer do Relator, Dep. Duda Ramos (MDB-RR), pela aprovação.",
-        "Órgão Última Tramitação (Sigla)": "CE",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2843706",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2480541"
     },
     {
         "Sigla Tipo": "MPV",
@@ -545,7 +534,7 @@
         "Ementa": "Sugere à Controladoria-Geral da União a instauração de procedimento investigativo para apurar eventuais irregularidades na restrição de acesso a documentos públicos sobre convênios, repasses e emendas parlamentares, promovida pelo Governo Federal, com possível afronta à Lei de Acesso à Informação (LAI) e à transparência administrativa.",
         "Situação Tramitação": "Apresentação de Proposição",
         "Despacho": "Apresentação da INC n. 2123/2025 (Indicação ), pelo Comissão de Fiscalização Financeira e Controle, que \"Sugere à Controladoria-Geral da União a instauração de procedimento investigativo para apurar eventuais irregularidades na restrição de acesso a documentos públicos sobre convênios, repasses e emendas parlamentares, promovida pelo Governo Federal, com possível afronta à Lei de Acesso à Informação (LAI) e à transparência administrativa\".",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Órgão Última Tramitação (Sigla)": "PLEN",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2984415",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2552011"
     }
