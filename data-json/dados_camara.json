@@ -77,6 +77,17 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2405709"
     },
     {
+        "Sigla Tipo": "REQ",
+        "Número": 566,
+        "Ano": 2023,
+        "Ementa": "Requer auditoria, com auxílio do Tribunal de Contas da União, para verificar a regularidade da destinação de emendas parlamentares pelo Deputado André Janones ao Município de Ituiutaba, Minas Gerais.",
+        "Situação Tramitação": "Arquivamento",
+        "Despacho": "Arquivada em razão do encerramento da Sessão Legislativa.",
+        "Órgão Última Tramitação (Sigla)": "CFFC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2378711",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2414880"
+    },
+    {
         "Sigla Tipo": "PL",
         "Número": 4,
         "Ano": 2024,
@@ -86,6 +97,17 @@
         "Órgão Última Tramitação (Sigla)": "CCJC",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2383319",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2416830"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 218,
+        "Ano": 2024,
+        "Ementa": "Solicita informações ao Tribunal de Contas da União sobre a autorização do Governo Lula para que sindicatos utilizem recursos do Fundo de Amparo ao Trabalhador (FAT) e de emendas parlamentares.",
+        "Situação Tramitação": "Arquivamento",
+        "Despacho": "Arquivada em razão do encerramento da Sessão Legislativa.",
+        "Órgão Última Tramitação (Sigla)": "CFFC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2473726",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2457184"
     },
     {
         "Sigla Tipo": "PLP",
@@ -108,6 +130,28 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2848985",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2481873"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 13,
+        "Ano": 2025,
+        "Ementa": "Solicito a convocação do Ministro de Estado da Secretaria de Comunicação Social da Presidência da República,  Sr. Sidônio Cardoso Palmeira, para prestar esclarecimentos sobre possíveis irregularidades na destinação de emendas parlamentares para custear equipamentos e a produção de conteúdos da “TV do Trabalhador”, fundação privada, no âmbito da ação orçamentária “Fortalecimento do Sistema Público de Radiodifusão e Comunicação”.",
+        "Situação Tramitação": "Arquivamento",
+        "Despacho": "Arquivada em razão do encerramento da Sessão Legislativa.",
+        "Órgão Última Tramitação (Sigla)": "CFFC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2870349",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2488305"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 15,
+        "Ano": 2025,
+        "Ementa": "Requer a realização de Auditoria, com auxílio do Tribunal de Contas da União (TCU), com objetivo de apurar possíveis irregularidades na destinação de emendas parlamentares para convênios entre a Empresa Brasil de Comunicação (EBC) e a TV do Trabalhador (TVT).",
+        "Situação Tramitação": "Arquivamento",
+        "Despacho": "Arquivada em razão do encerramento da Sessão Legislativa.",
+        "Órgão Última Tramitação (Sigla)": "CFFC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2870356",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2488310"
     },
     {
         "Sigla Tipo": "INC",
@@ -152,6 +196,17 @@
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2895534",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2502831"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 178,
+        "Ano": 2025,
+        "Ementa": "Requer a realização de Audiência Pública, no âmbito da Comissão de Fiscalização Financeira e Controle, para debater a distorção na distribuição de emendas parlamentares entre os Estados.",
+        "Situação Tramitação": "Arquivamento",
+        "Despacho": "Arquivada em razão do encerramento da Sessão Legislativa.",
+        "Órgão Última Tramitação (Sigla)": "CFFC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2896777",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2503272"
     },
     {
         "Sigla Tipo": "RIC",
@@ -199,12 +254,23 @@
     },
     {
         "Sigla Tipo": "REQ",
+        "Número": 226,
+        "Ano": 2025,
+        "Ementa": "Requer a convocação da Exma. Sra. Ministra de Estado da Gestão e da Inovação em Serviços Públicos, Esther Dweck, para prestar esclarecimentos sobre as possíveis ilegalidades, omissões administrativas ou atos de improbidade relacionados à restrição de acesso público a documentos sobre convênios, obras, repasses e emendas parlamentares pelo Governo Lula.",
+        "Situação Tramitação": "Arquivamento",
+        "Despacho": "Arquivada em razão do encerramento da Sessão Legislativa.",
+        "Órgão Última Tramitação (Sigla)": "CFFC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2917360",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2516032"
+    },
+    {
+        "Sigla Tipo": "REQ",
         "Número": 231,
         "Ano": 2025,
         "Ementa": "Requer o encaminhamento de indicação à Controladoria-Geral da União (CGU) para sugerir a apuração e adoção de providências quanto à restrição de acesso a documentos públicos sobre convênios, repasses, obras e emendas parlamentares, promovida pelo Governo Federal, com possível violação à Lei de Acesso à Informação e prejuízos à transparência e ao controle dos recursos públicos.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação da INC n. 2123/2025 (Indicação ), pelo Comissão de Fiscalização Financeira e Controle, que \"Sugere à Controladoria-Geral da União a instauração de procedimento investigativo para apurar eventuais irregularidades na restrição de acesso a documentos públicos sobre convênios, repasses e emendas parlamentares, promovida pelo Governo Federal, com possível afronta à Lei de Acesso à Informação (LAI) e à transparência administrativa\".",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Situação Tramitação": "Arquivamento",
+        "Despacho": "Arquivada em razão do encerramento da Sessão Legislativa.",
+        "Órgão Última Tramitação (Sigla)": "CFFC",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2917365",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2516037"
     },
@@ -218,6 +284,17 @@
         "Órgão Última Tramitação (Sigla)": "CFFC",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2923692",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2519679"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 241,
+        "Ano": 2025,
+        "Ementa": "Requer o encaminhamento de indicação à Procuradoria-Geral da República (PGR) para sugerir a instauração de procedimento investigativo acerca da decisão do Governo Lula de restringir o acesso a aproximadamente 16 milhões de documentos públicos relativos a convênios, repasses, obras e emendas parlamentares, com possível violação à Lei de Acesso à Informação e à Constituição Federal.",
+        "Situação Tramitação": "Arquivamento",
+        "Despacho": "Arquivada em razão do encerramento da Sessão Legislativa.",
+        "Órgão Última Tramitação (Sigla)": "CFFC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2927469",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2520729"
     },
     {
         "Sigla Tipo": "RIC",
@@ -268,8 +345,8 @@
         "Número": 3517,
         "Ano": 2025,
         "Ementa": "Requer seja solicitada ao Senhor Ministro da Agricultura e Pecuária informações sobre a cobrança de “pedágio” para liberar emendas parlamentares.",
-        "Situação Tramitação": "Abertura de Prazo",
-        "Despacho": "Prazo para Resposta Externas (de 08/08/2025 a 08/09/2025)",
+        "Situação Tramitação": "Providência Interna - Comunicação de resposta ostensiva",
+        "Despacho": "Encaminhamento de resposta por meio do sistema Infoleg",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2934302",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2525007"
@@ -526,5 +603,16 @@
         "Órgão Última Tramitação (Sigla)": "PLEN",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2984415",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2552011"
+    },
+    {
+        "Sigla Tipo": "PLP",
+        "Número": 184,
+        "Ano": 2025,
+        "Ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para dispor sobre transferências de recursos de emendas parlamentares para entes federativos e para entidades privadas sem fins lucrativos, e dá outras providências.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PLP n. 184/2025 (Projeto de Lei Complementar), pelo Deputado Thiago de Joaldo (PP/SE), que \"Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para dispor sobre transferências de recursos de emendas parlamentares para entes federativos e para entidades privadas sem fins lucrativos, e dá outras providências\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2991247",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2556070"
     }
 ]
