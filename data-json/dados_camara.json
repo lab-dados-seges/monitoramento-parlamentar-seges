@@ -59,8 +59,8 @@
         "Número": 2225,
         "Ano": 2023,
         "Ementa": "Altera a Lei nº 13.303, de 30 de junho de 2016 para estender a adesão ao Sistema de Registro de Preços a órgãos da Administração Direta e a Lei nº 14.133, de 1º de abril de 2021.",
-        "Situação Tramitação": "Abertura de Prazo",
-        "Despacho": "Prazo para Emendas ao Projeto (5 sessões a partir de 27/08/2025)",
+        "Situação Tramitação": "Encerramento de Prazo",
+        "Despacho": "Encerrado o prazo de 5 sessões para apresentação de emendas ao projeto (de 26/08/2025 a 04/09/2025). Não foram apresentadas emendas.",
         "Órgão Última Tramitação (Sigla)": "CCJC",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2265026",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2358824"
@@ -130,28 +130,6 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2848985",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2481873"
-    },
-    {
-        "Sigla Tipo": "REQ",
-        "Número": 13,
-        "Ano": 2025,
-        "Ementa": "Solicito a convocação do Ministro de Estado da Secretaria de Comunicação Social da Presidência da República,  Sr. Sidônio Cardoso Palmeira, para prestar esclarecimentos sobre possíveis irregularidades na destinação de emendas parlamentares para custear equipamentos e a produção de conteúdos da “TV do Trabalhador”, fundação privada, no âmbito da ação orçamentária “Fortalecimento do Sistema Público de Radiodifusão e Comunicação”.",
-        "Situação Tramitação": "Arquivamento",
-        "Despacho": "Arquivada em razão do encerramento da Sessão Legislativa.",
-        "Órgão Última Tramitação (Sigla)": "CFFC",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2870349",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2488305"
-    },
-    {
-        "Sigla Tipo": "REQ",
-        "Número": 15,
-        "Ano": 2025,
-        "Ementa": "Requer a realização de Auditoria, com auxílio do Tribunal de Contas da União (TCU), com objetivo de apurar possíveis irregularidades na destinação de emendas parlamentares para convênios entre a Empresa Brasil de Comunicação (EBC) e a TV do Trabalhador (TVT).",
-        "Situação Tramitação": "Arquivamento",
-        "Despacho": "Arquivada em razão do encerramento da Sessão Legislativa.",
-        "Órgão Última Tramitação (Sigla)": "CFFC",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2870356",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2488310"
     },
     {
         "Sigla Tipo": "INC",
@@ -323,8 +301,8 @@
         "Número": 3497,
         "Ano": 2025,
         "Ementa": "Requer informações ao Ministério do Esporte sobre a Portaria MESP nº 45, de 16 de maio de 2025, que dispõe sobre a dedução de percentual de 2% (dois por cento) sobre o valor total das transferências financeiras oriundas de emendas parlamentares para custear serviços administrativos e de fiscalização relacionados à execução dos projetos e atividades do Ministério do Esporte.",
-        "Situação Tramitação": "Abertura de Prazo",
-        "Despacho": "Prazo para Resposta Externas (de 08/08/2025 a 08/09/2025)",
+        "Situação Tramitação": "Providência Interna - Comunicação de resposta ostensiva",
+        "Despacho": "Encaminhamento de resposta por meio do sistema INFOLEG",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2931346",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2523343"
@@ -334,8 +312,8 @@
         "Número": 3508,
         "Ano": 2025,
         "Ementa": "Requer informações ao Ministro de Estado do Esporte, Sr. André Luiz Carvalho Ribeiro, sobre a Portaria MESP nº 45, de 16 de maio de 2025, que autoriza a dedução de até 2% sobre o valor de emendas parlamentares destinadas ao Ministério do Esporte para custeio de atividades administrativas e de fiscalização.",
-        "Situação Tramitação": "Abertura de Prazo",
-        "Despacho": "Prazo para Resposta Externas (de 08/08/2025 a 08/09/2025)",
+        "Situação Tramitação": "Providência Interna - Comunicação de resposta ostensiva",
+        "Despacho": "Encaminhamento de resposta por meio do sistema INFOLEG",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2932960",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2524232"
@@ -356,8 +334,8 @@
         "Número": 3518,
         "Ano": 2025,
         "Ementa": "Requer seja solicitada ao Senhor Ministro do Esporte informações sobre a cobrança de “pedágio” para liberar emendas parlamentares",
-        "Situação Tramitação": "Abertura de Prazo",
-        "Despacho": "Prazo para Resposta Externas (de 08/08/2025 a 08/09/2025)",
+        "Situação Tramitação": "Providência Interna - Comunicação de resposta ostensiva",
+        "Despacho": "Encaminhamento de resposta por meio do sistema INFOLEG",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2934305",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2525008"
@@ -422,8 +400,8 @@
         "Número": 3936,
         "Ano": 2025,
         "Ementa": "Requer do Excelentíssimo Ministro dos Esportes, Senhor André Fufuca, informações sobre a cobrança de taxa administrativa de 2%, sobre o valor das emendas parlamentares destinadas à prestação de serviços e programas da área esportiva.",
-        "Situação Tramitação": "Abertura de Prazo",
-        "Despacho": "Prazo para Resposta Externas (de 08/08/2025 a 08/09/2025)",
+        "Situação Tramitação": "Providência Interna - Comunicação de resposta ostensiva",
+        "Despacho": "Encaminhamento de resposta por meio do sistema INFOLEG",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2945479",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2529572"
@@ -614,5 +592,16 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2991247",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2556070"
+    },
+    {
+        "Sigla Tipo": "PLP",
+        "Número": 188,
+        "Ano": 2025,
+        "Ementa": "Modifica a Lei Complementar nº 210, de 25 de novembro de 2024 para vincular a alocação das emendas parlamentares individuais ao processo decisório do Orçamento Participativo.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PLP n. 188/2025 (Projeto de Lei Complementar), pela Deputada Erika Kokay (PT/DF -Fdr PT-PCdoB-PV), que \"Modifica a Lei Complementar nº 210, de 25 de novembro de 2024 para vincular a alocação das emendas parlamentares individuais ao processo decisório do Orçamento Participativo\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2993152",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2557206"
     }
 ]
