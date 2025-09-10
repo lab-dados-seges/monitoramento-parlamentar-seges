@@ -165,17 +165,6 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2502831"
     },
     {
-        "Sigla Tipo": "REQ",
-        "Número": 178,
-        "Ano": 2025,
-        "Ementa": "Requer a realização de Audiência Pública, no âmbito da Comissão de Fiscalização Financeira e Controle, para debater a distorção na distribuição de emendas parlamentares entre os Estados.",
-        "Situação Tramitação": "Arquivamento",
-        "Despacho": "Arquivada em razão do encerramento da Sessão Legislativa.",
-        "Órgão Última Tramitação (Sigla)": "CFFC",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2896777",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2503272"
-    },
-    {
         "Sigla Tipo": "RIC",
         "Número": 2599,
         "Ano": 2025,
@@ -246,8 +235,8 @@
         "Número": 3491,
         "Ano": 2025,
         "Ementa": "Requer o envio de pedido de informações ao Excelentíssimo Senhor Ministro da Justiça e Segurança Pública, Ricardo Lewandowski, sobre a decisão do Governo Federal de restringir o acesso público a aproximadamente 16 milhões de documentos relativos a convênios, repasses, obras públicas e emendas parlamentares, com possível prejuízo à segurança institucional, à atuação da Polícia Federal e ao combate à corrupção",
-        "Situação Tramitação": "Abertura de Prazo",
-        "Despacho": "Prazo para Resposta Externas (de 08/08/2025 a 08/09/2025)",
+        "Situação Tramitação": "Providência Interna - Comunicação de resposta ostensiva",
+        "Despacho": "Encaminhamento de resposta por meiodo sistema Infoleg",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2929048",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2521213"
@@ -334,8 +323,8 @@
         "Número": 3931,
         "Ano": 2025,
         "Ementa": "Requer do Excelentíssimo Ministro da Casa Civil, Senhor Rui Costa, informações sobre a cobrança de taxa administrativa nos valores das emendas parlamentares, destinadas à prestação de serviços e programas.",
-        "Situação Tramitação": "Abertura de Prazo",
-        "Despacho": "Prazo para Resposta Externas (de 08/08/2025 a 08/09/2025)",
+        "Situação Tramitação": "Providência Interna - Comunicação de resposta ostensiva",
+        "Despacho": "Encaminhamento de resposta por meio do sistema INFOLEG",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2945473",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2529567"
@@ -510,8 +499,8 @@
         "Número": 33,
         "Ano": 2025,
         "Ementa": "Requer alteração no Corpo da Lei, Cap IV, Seção IX, Art 74, Inciso VI, Alínea b para incluir o inciso XII para a criação de programa de aquisição de ração para fauna silvestre e unidades de conservação, financiado por emendas parlamentares, no âmbito do Ministério do Meio Ambiente e Mudança do Clima.",
-        "Situação Tramitação": "Aprovação de Proposição Interna",
-        "Despacho": "Aprovada a sugestão.",
+        "Situação Tramitação": "Arquivamento",
+        "Despacho": "Arquivada.",
         "Órgão Última Tramitação (Sigla)": "CMADS",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2979322",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2549216"
@@ -521,8 +510,8 @@
         "Número": 34,
         "Ano": 2025,
         "Ementa": "Requer alteração no Corpo da Lei, Cap V, Seção III, Art 105, § 7 para assegurar a aplicação integral dos recursos de emendas parlamentares, vedando deduções para custeio administrativo ou de fiscalização.",
-        "Situação Tramitação": "Aprovação de Proposição Interna",
-        "Despacho": "Aprovada a sugestão.",
+        "Situação Tramitação": "Arquivamento",
+        "Despacho": "Arquivada.",
         "Órgão Última Tramitação (Sigla)": "CMADS",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2979323",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2549217"
@@ -570,5 +559,27 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2993152",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2557206"
+    },
+    {
+        "Sigla Tipo": "PDL",
+        "Número": 660,
+        "Ano": 2025,
+        "Ementa": "Susta a aplicação e os efeitos do Decreto nº 12.616, de 8 de setembro de 2025, que “altera o Decreto nº 11.184, de 25 de agosto de 2022, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Superintendência de Seguros Privados – SUSEP”.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PDL n. 660/2025 (Projeto de Decreto Legislativo), pelo Deputado Hugo Leal (PSD/RJ), que \"Susta a aplicação e os efeitos do Decreto nº 12.616, de 8 de setembro de 2025, que “altera o Decreto nº 11.184, de 25 de agosto de 2022, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Superintendência de Seguros Privados – SUSEP”\".",
+        "Órgão Última Tramitação (Sigla)": "PLEN",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2996113",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2559038"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 237,
+        "Ano": 2025,
+        "Ementa": "Requer a convocação da Ministra-Chefe da Secretaria de Relações Institucionais da Presidência da República, Sra. Gleisi Hoffmann, para prestar, pessoalmente, esclarecimentos acerca da morosidade na execução das emendas parlamentares do exercício de 2025,",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do REQ n. 237/2025 (Requerimento de Convocação de Ministro de Estado na Comissão (art. 50, CF)), pelo Deputado Coronel Meira (PL/PE), que \"Requer a convocação da Ministra-Chefe da Secretaria de Relações Institucionais da Presidência da República, Sra. Gleisi Hoffmann, para prestar, pessoalmente, esclarecimentos acerca da morosidade na execução das emendas parlamentares do exercício de 2025, \".",
+        "Órgão Última Tramitação (Sigla)": "CSAUDE",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2996687",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2559393"
     }
 ]
