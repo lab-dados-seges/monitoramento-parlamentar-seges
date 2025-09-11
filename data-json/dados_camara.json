@@ -210,6 +210,28 @@
     },
     {
         "Sigla Tipo": "REQ",
+        "Número": 136,
+        "Ano": 2025,
+        "Ementa": "Requer o envio de pedido de informações ao Excelentíssimo Senhor Ministro da Justiça e Segurança Pública, Ricardo Lewandowski, sobre a decisão do Governo Federal de restringir o acesso público a aproximadamente 16 milhões de documentos relativos a convênios, repasses, obras públicas e emendas parlamentares, com possível prejuízo à segurança institucional, à atuação da Polícia Federal e ao combate à corrupção",
+        "Situação Tramitação": "Arquivamento",
+        "Despacho": "Arquivada, por cumprimento do objeto.",
+        "Órgão Última Tramitação (Sigla)": "CSPCCO",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2912808",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2512659"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 137,
+        "Ano": 2025,
+        "Ementa": "Requer, nos termos constitucionais e regimentais, que sejam prestadas informações pela Exma. Sra. Ministra de Estado da Gestão e da Inovação em Serviços Públicos, Esther Dweck, sobre as possíveis ilegalidades, omissões administrativas ou atos de improbidade relacionados à restrição de acesso público a documentos sobre convênios, obras, repasses e emendas parlamentares pelo Governo Lula.",
+        "Situação Tramitação": "Arquivamento",
+        "Despacho": "Arquivada, por cumprimento da finalidade do Requerimento.",
+        "Órgão Última Tramitação (Sigla)": "CSPCCO",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2913654",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2513429"
+    },
+    {
+        "Sigla Tipo": "REQ",
         "Número": 231,
         "Ano": 2025,
         "Ementa": "Requer o encaminhamento de indicação à Controladoria-Geral da União (CGU) para sugerir a apuração e adoção de providências quanto à restrição de acesso a documentos públicos sobre convênios, repasses, obras e emendas parlamentares, promovida pelo Governo Federal, com possível violação à Lei de Acesso à Informação e prejuízos à transparência e ao controle dos recursos públicos.",
