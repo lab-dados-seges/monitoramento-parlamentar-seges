@@ -389,8 +389,8 @@
         "Número": 4087,
         "Ano": 2025,
         "Ementa": "Requer informações detalhadas ao Sr. Luiz Marinho, Ministro do Trabalho e Emprego, acerca dos convênios firmados entre a pasta e a entidade Unisol – Central de Cooperativas e Empreendimentos Solidários do Brasil, bem como sobre a destinação de emendas parlamentares para execução de projetos com viés ideológico.",
-        "Situação Tramitação": "Abertura de Prazo",
-        "Despacho": "Prazo para Resposta Externas (de 23/08/2025 a 22/09/2025)",
+        "Situação Tramitação": "Providência Interna - Comunicação de resposta ostensiva",
+        "Despacho": "Encaminhamento de resposta por meio do sistema Infoleg",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2949470",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2532130"
@@ -405,28 +405,6 @@
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2949471",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2532131"
-    },
-    {
-        "Sigla Tipo": "REQ",
-        "Número": 2767,
-        "Ano": 2025,
-        "Ementa": "Requer a retirada de tramitação e o arquivamento do RIC. Nº 1645/2025, que requer a Exma. Sra. Ministra de Estado Chefe da Secretaria de Relações Institucionais, para que forneça esclarecimentos completos e detalhados sobre o papel da pasta na negociação, coordenação e execução das emendas parlamentares de comissão nos exercícios de 2023, 2024 e 2025, com destaque para critérios de liberação e acordos políticos celebrados.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do REQ n. 2767/2025 (Requerimento de Retirada de Proposição de Iniciativa Individual), pelo Deputado Marcos Tavares (PDT/RJ), que \"Requer a retirada de tramitação e o arquivamento do RIC. Nº 1645/2025, que requer a Exma. Sra. Ministra de Estado Chefe da Secretaria de Relações Institucionais, para que forneça esclarecimentos completos e detalhados sobre o papel da pasta na negociação, coordenação e execução das emendas parlamentares de comissão nos exercícios de 2023, 2024 e 2025, com destaque para critérios de liberação e acordos políticos celebrados\".",
-        "Órgão Última Tramitação (Sigla)": "MESA",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2956956",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2536308"
-    },
-    {
-        "Sigla Tipo": "PL",
-        "Número": 3416,
-        "Ano": 2025,
-        "Ementa": "Dispõe sobre a contratação de licenças de software pela Administração Pública, estabelecendo procedimentos e critérios para a contratação direta com base na inexigibilidade de licitação, e dá outras providências.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do PL n. 3416/2025 (Projeto de Lei), pelo Deputado Amom Mandel (CIDADANIA/AM -Fdr PSDB-CIDADANIA), que \"Dispõe sobre a contratação de licenças de software pela Administração Pública, estabelecendo procedimentos e critérios para a contratação direta com base na inexigibilidade de licitação, e dá outras providências\".",
-        "Órgão Última Tramitação (Sigla)": "MESA",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2957670",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2536695"
     },
     {
         "Sigla Tipo": "PLP",
@@ -455,8 +433,8 @@
         "Número": 336,
         "Ano": 2025,
         "Ementa": "Requer o envio à CFFC, pelo Tribunal de Contas da União (TCU), de cópias digitais de Acórdãos (acompanhados de respectivos relatórios e votos) exarados recentemente pela\nCorte de Contas em relação à temática: emendas Parlamentares – transparência e eficiência na aplicação de recursos provenientes de emendas individuais e de\nrelator.",
-        "Situação Tramitação": "Aprovação de Proposição Interna",
-        "Despacho": "Aprovado o Requerimento.",
+        "Situação Tramitação": "Notificações",
+        "Despacho": "Aviso nº 862 - GP/TCU, de agosto de 2025, que registra o recebimento do Ofício nº 111/2025/CFFC-P, de 22 de agosto de 2025, por intermédio do qual a Comissão de Fiscalização Financeira e Controle encaminha aoTCU o Requerimento nº 336/2025-CFFC, de autoria do Deputado Federal Deputado DimasGadelha.Informa que o referido expediente, autuado neste Tribunalcomo processo TC-017.291/2025-9, será tratado com a devida urgência e tramitaçãopreferencial, conforme disposto no art. 5º, inciso I, da Resolução-TCU nº 215/2008.",
         "Órgão Última Tramitação (Sigla)": "CFFC",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2971747",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2543184"
@@ -477,9 +455,9 @@
         "Número": 3995,
         "Ano": 2025,
         "Ementa": "Institui o Sistema Nacional de Participação e Eficiência na Gestão Pública (SINAPE), organizado em regime de colaboração entre os entes federativos, com vistas ao fortalecimento da governança pública, da transparência e do controle social.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do PL n. 3995/2025 (Projeto de Lei), pelo Deputado Otto Alencar Filho (PSD/BA), que \"Institui o Sistema Nacional de Participação e Eficiência na Gestão Pública (SINAPE), organizado em regime de colaboração entre os entes federativos, com vistas ao fortalecimento da governança pública, da transparência e do controle social\".",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Situação Tramitação": "Publicação de Proposição",
+        "Despacho": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 13/09/2025.",
+        "Órgão Última Tramitação (Sigla)": "CCP",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2974912",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2545732"
     },
