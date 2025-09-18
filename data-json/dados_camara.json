@@ -81,8 +81,8 @@
         "Número": 231,
         "Ano": 2024,
         "Ementa": "Altera o art. 3º da Lei Complementar nº 210, de 25 de novembro de 2024, para priorizar Municípios afetados por desastres climáticos na indicação de emendas parlamentares de bancada.",
-        "Situação Tramitação": "Parecer do(a) Relator(a)",
-        "Despacho": "Parecer do Relator, Dep. Gabriel Nunes (PSD-BA), pela aprovação.",
+        "Situação Tramitação": "Retirada de Pauta",
+        "Despacho": "Retirado de pauta, de ofício, em razão da ausência do Relator.",
         "Órgão Última Tramitação (Sigla)": "CINDRE",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2843550",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2480459"
@@ -218,6 +218,17 @@
         "Órgão Última Tramitação (Sigla)": "CFFC",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2923692",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2519679"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 241,
+        "Ano": 2025,
+        "Ementa": "Requer o encaminhamento de indicação à Procuradoria-Geral da República (PGR) para sugerir a instauração de procedimento investigativo acerca da decisão do Governo Lula de restringir o acesso a aproximadamente 16 milhões de documentos públicos relativos a convênios, repasses, obras e emendas parlamentares, com possível violação à Lei de Acesso à Informação e à Constituição Federal.",
+        "Situação Tramitação": "Aprovação de Proposição Interna",
+        "Despacho": "Aprovado o Requerimento.",
+        "Órgão Última Tramitação (Sigla)": "CFFC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2927469",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2520729"
     },
     {
         "Sigla Tipo": "RIC",
@@ -532,8 +543,8 @@
         "Número": 237,
         "Ano": 2025,
         "Ementa": "Requer a convocação da Ministra-Chefe da Secretaria de Relações Institucionais da Presidência da República, Sra. Gleisi Hoffmann, para prestar, pessoalmente, esclarecimentos acerca da morosidade na execução das emendas parlamentares do exercício de 2025,",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do REQ n. 237/2025 (Requerimento de Convocação de Ministro de Estado na Comissão (art. 50, CF)), pelo Deputado Coronel Meira (PL/PE), que \"Requer a convocação da Ministra-Chefe da Secretaria de Relações Institucionais da Presidência da República, Sra. Gleisi Hoffmann, para prestar, pessoalmente, esclarecimentos acerca da morosidade na execução das emendas parlamentares do exercício de 2025, \".",
+        "Situação Tramitação": "Retirada de Pauta",
+        "Despacho": "Retirado de pauta, de ofício.",
         "Órgão Última Tramitação (Sigla)": "CSAUDE",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2996687",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2559393"
