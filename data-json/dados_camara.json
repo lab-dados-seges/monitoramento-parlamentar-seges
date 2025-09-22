@@ -375,17 +375,6 @@
     },
     {
         "Sigla Tipo": "PLP",
-        "Número": 156,
-        "Ano": 2025,
-        "Ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024 para dispor sobre os limites das emendas parlamentares aos projetos de lei orçamentária anual.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do PLP n. 156/2025 (Projeto de Lei Complementar), pela Deputada Tabata Amaral (PSB/SP), que \"Altera a Lei Complementar nº 210, de 25 de novembro de 2024 para dispor sobre os limites das emendas parlamentares aos projetos de lei orçamentária anual\".",
-        "Órgão Última Tramitação (Sigla)": "MESA",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2961110",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2538380"
-    },
-    {
-        "Sigla Tipo": "PLP",
         "Número": 159,
         "Ano": 2025,
         "Ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para permitir que emendas parlamentares de bancada destinem recursos a múltiplos entes federativos ou entidades via fundos municipais de assistência social.",
@@ -394,5 +383,27 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2966234",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2539818"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 336,
+        "Ano": 2025,
+        "Ementa": "Requer o envio à CFFC, pelo Tribunal de Contas da União (TCU), de cópias digitais de Acórdãos (acompanhados de respectivos relatórios e votos) exarados recentemente pela\nCorte de Contas em relação à temática: emendas Parlamentares – transparência e eficiência na aplicação de recursos provenientes de emendas individuais e de\nrelator.",
+        "Situação Tramitação": "Notificações",
+        "Despacho": "Aviso nº 862 - GP/TCU, de agosto de 2025, que registra o recebimento do Ofício nº 111/2025/CFFC-P, de 22 de agosto de 2025, por intermédio do qual a Comissão de Fiscalização Financeira e Controle encaminha aoTCU o Requerimento nº 336/2025-CFFC, de autoria do Deputado Federal Deputado DimasGadelha.Informa que o referido expediente, autuado neste Tribunalcomo processo TC-017.291/2025-9, será tratado com a devida urgência e tramitaçãopreferencial, conforme disposto no art. 5º, inciso I, da Resolução-TCU nº 215/2008.",
+        "Órgão Última Tramitação (Sigla)": "CFFC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2971747",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2543184"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 337,
+        "Ano": 2025,
+        "Ementa": "Requer informações ao Ministro de Estado da Fazenda, Fernando Haddad,  por meio do envio a esta CFFC de  cópias digitais de estudos, pareceres, diagnósticos e outros instrumentos congêneres exarados recentemente pelas secretarias de referida pasta ministerial em relação à temática: emendas Parlamentares - transparência e eficiência na aplicação de recursos provenientes de emendas individuais e de relator.",
+        "Situação Tramitação": "Notificações",
+        "Despacho": "Transformado no Requerimento de Informação 5256/2025.",
+        "Órgão Última Tramitação (Sigla)": "CFFC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2971748",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2543185"
     }
 ]
