@@ -405,5 +405,159 @@
         "Órgão Última Tramitação (Sigla)": "CFFC",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2971748",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2543185"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 3995,
+        "Ano": 2025,
+        "Ementa": "Institui o Sistema Nacional de Participação e Eficiência na Gestão Pública (SINAPE), organizado em regime de colaboração entre os entes federativos, com vistas ao fortalecimento da governança pública, da transparência e do controle social.",
+        "Situação Tramitação": "Publicação de Proposição",
+        "Despacho": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 13/09/2025.",
+        "Órgão Última Tramitação (Sigla)": "CCP",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2974912",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2545732"
+    },
+    {
+        "Sigla Tipo": "SLD",
+        "Número": 11,
+        "Ano": 2025,
+        "Ementa": "Texto - Corpo da Lei, Cap IV, Seção X, Subseção II, Art 80 - Destinação de emendas parlamentares ao pagamento do programa Produção SUS, vinculado à CEF.",
+        "Situação Tramitação": "Aprovação de Proposição Interna",
+        "Despacho": "Aprovada.",
+        "Órgão Última Tramitação (Sigla)": "CSAUDE",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2978971",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2548904"
+    },
+    {
+        "Sigla Tipo": "SLD",
+        "Número": 6,
+        "Ano": 2025,
+        "Ementa": "que \"requer a adição de texto para autorizar o Ministério do Meio Ambiente e Mudança do Clima a criar programa de aquisição de ração para fauna silvestre e unidades de conservação, financiado por emendas parlamentares. (Referência: Corpo da Lei, Cap IV, Seção IX, Art 74, Inciso VI, Alínea b).\"",
+        "Situação Tramitação": "Aprovação de Proposição Interna",
+        "Despacho": "Aprovada a [emenda / sugestão].",
+        "Órgão Última Tramitação (Sigla)": "CSPCCO",
+        "Link para Inteiro Teor": null,
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2548999"
+    },
+    {
+        "Sigla Tipo": "SLD",
+        "Número": 7,
+        "Ano": 2025,
+        "Ementa": "que \"requer a adição de texto para assegurar a aplicação integral dos recursos de emendas parlamentares, vedando deduções para custeio administrativo ou de fiscalização. (Referência: Corpo da Lei, Cap V, Seção III, Art 105, § 7).\"",
+        "Situação Tramitação": "Aprovação de Proposição Interna",
+        "Despacho": "Aprovada a [emenda / sugestão].",
+        "Órgão Última Tramitação (Sigla)": "CSPCCO",
+        "Link para Inteiro Teor": null,
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2549000"
+    },
+    {
+        "Sigla Tipo": "SLD",
+        "Número": 33,
+        "Ano": 2025,
+        "Ementa": "Requer alteração no Corpo da Lei, Cap IV, Seção IX, Art 74, Inciso VI, Alínea b para incluir o inciso XII para a criação de programa de aquisição de ração para fauna silvestre e unidades de conservação, financiado por emendas parlamentares, no âmbito do Ministério do Meio Ambiente e Mudança do Clima.",
+        "Situação Tramitação": "Arquivamento",
+        "Despacho": "Arquivada.",
+        "Órgão Última Tramitação (Sigla)": "CMADS",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2979322",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2549216"
+    },
+    {
+        "Sigla Tipo": "SLD",
+        "Número": 34,
+        "Ano": 2025,
+        "Ementa": "Requer alteração no Corpo da Lei, Cap V, Seção III, Art 105, § 7 para assegurar a aplicação integral dos recursos de emendas parlamentares, vedando deduções para custeio administrativo ou de fiscalização.",
+        "Situação Tramitação": "Arquivamento",
+        "Despacho": "Arquivada.",
+        "Órgão Última Tramitação (Sigla)": "CMADS",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2979323",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2549217"
+    },
+    {
+        "Sigla Tipo": "SBT",
+        "Número": 1,
+        "Ano": 0,
+        "Ementa": "Regulamenta o repasse de recursos de emendas parlamentares em natureza de despesa de custeio destinado ao incremento PAB/MAC a hospitais e santas casas filantrópicas, através do Fundo Nacional de Saúde - FNS.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do SBT n. 1 CASP (Substitutivo), pelo Bruno Farias (AVANTE-MG)",
+        "Órgão Última Tramitação (Sigla)": "CASP",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2981979",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2550923"
+    },
+    {
+        "Sigla Tipo": "INC",
+        "Número": 2123,
+        "Ano": 2025,
+        "Ementa": "Sugere à Controladoria-Geral da União a instauração de procedimento investigativo para apurar eventuais irregularidades na restrição de acesso a documentos públicos sobre convênios, repasses e emendas parlamentares, promovida pelo Governo Federal, com possível afronta à Lei de Acesso à Informação (LAI) e à transparência administrativa.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação da INC n. 2123/2025 (Indicação ), pelo Comissão de Fiscalização Financeira e Controle, que \"Sugere à Controladoria-Geral da União a instauração de procedimento investigativo para apurar eventuais irregularidades na restrição de acesso a documentos públicos sobre convênios, repasses e emendas parlamentares, promovida pelo Governo Federal, com possível afronta à Lei de Acesso à Informação (LAI) e à transparência administrativa\".",
+        "Órgão Última Tramitação (Sigla)": "PLEN",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2984415",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2552011"
+    },
+    {
+        "Sigla Tipo": "PLP",
+        "Número": 184,
+        "Ano": 2025,
+        "Ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para dispor sobre transferências de recursos de emendas parlamentares para entes federativos e para entidades privadas sem fins lucrativos, e dá outras providências.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PLP n. 184/2025 (Projeto de Lei Complementar), pelo Deputado Thiago de Joaldo (PP/SE), que \"Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para dispor sobre transferências de recursos de emendas parlamentares para entes federativos e para entidades privadas sem fins lucrativos, e dá outras providências\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2991247",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2556070"
+    },
+    {
+        "Sigla Tipo": "PLP",
+        "Número": 188,
+        "Ano": 2025,
+        "Ementa": "Modifica a Lei Complementar nº 210, de 25 de novembro de 2024 para vincular a alocação das emendas parlamentares individuais ao processo decisório do Orçamento Participativo.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PLP n. 188/2025 (Projeto de Lei Complementar), pela Deputada Erika Kokay (PT/DF -Fdr PT-PCdoB-PV), que \"Modifica a Lei Complementar nº 210, de 25 de novembro de 2024 para vincular a alocação das emendas parlamentares individuais ao processo decisório do Orçamento Participativo\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2993152",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2557206"
+    },
+    {
+        "Sigla Tipo": "PDL",
+        "Número": 660,
+        "Ano": 2025,
+        "Ementa": "Susta a aplicação e os efeitos do Decreto nº 12.616, de 8 de setembro de 2025, que “altera o Decreto nº 11.184, de 25 de agosto de 2022, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Superintendência de Seguros Privados – SUSEP”.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PDL n. 660/2025 (Projeto de Decreto Legislativo), pelo Deputado Hugo Leal (PSD/RJ), que \"Susta a aplicação e os efeitos do Decreto nº 12.616, de 8 de setembro de 2025, que “altera o Decreto nº 11.184, de 25 de agosto de 2022, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Superintendência de Seguros Privados – SUSEP”\".",
+        "Órgão Última Tramitação (Sigla)": "PLEN",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2996113",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2559038"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 237,
+        "Ano": 2025,
+        "Ementa": "Requer a convocação da Ministra-Chefe da Secretaria de Relações Institucionais da Presidência da República, Sra. Gleisi Hoffmann, para prestar, pessoalmente, esclarecimentos acerca da morosidade na execução das emendas parlamentares do exercício de 2025,",
+        "Situação Tramitação": "Retirada de Pauta",
+        "Despacho": "Retirado de pauta, de ofício.",
+        "Órgão Última Tramitação (Sigla)": "CSAUDE",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2996687",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2559393"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 4682,
+        "Ano": 2025,
+        "Ementa": "Altera a Lei 14.133, de 1º de abril de 2021, a Lei de Licitações e Contratos Administrativos, para dispor sobre medidas de proteção aos trabalhadores contratados contratados por prestadoras de serviços contínuos com regime de dedicação exclusiva de mão de obra.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PL n. 4682/2025 (Projeto de Lei), pela Deputada Fernanda Melchionna (PSOL/RS -Fdr PSOL-REDE), que \"Altera a Lei 14.133, de 1º de abril de 2021, a Lei de Licitações e Contratos Administrativos, para dispor sobre medidas de proteção aos trabalhadores contratados contratados por prestadoras de serviços contínuos com regime de dedicação exclusiva de mão de obra\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3003336",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2562601"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 4683,
+        "Ano": 2025,
+        "Ementa": "Altera a Lei nº 14.133/2021, para dispor sobre a manutenção dos empregados vinculados a contratos de prestação de serviços contínuos com regime de dedicação exclusiva de mão de obra, em caso de sucessão contratual.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PL n. 4683/2025 (Projeto de Lei), pela Deputada Fernanda Melchionna (PSOL/RS -Fdr PSOL-REDE), que \"Altera a Lei nº 14.133/2021, para dispor sobre a manutenção dos empregados vinculados a contratos de prestação de serviços contínuos com regime de dedicação exclusiva de mão de obra, em caso de sucessão contratual\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3003337",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2562602"
     }
 ]
