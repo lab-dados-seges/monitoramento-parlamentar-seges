@@ -4,8 +4,8 @@
         "Número": 10479,
         "Ano": 2018,
         "Ementa": "Regulamenta o repasse de recursos de emendas parlamentares em natureza de despesa de custeio destinado ao incremento PAB/MAC a hospitais e santas casas filantrópicas, através do Fundo Nacional de Saúde - FNS.",
-        "Situação Tramitação": "Encerramento de Prazo",
-        "Despacho": "Encerrado o prazo de 5 sessões para apresentação de emendas ao substitutivo (de 21/08/2025 a 04/09/2025). Não foram apresentadas emendas ao substitutivo.",
+        "Situação Tramitação": "Parecer do(a) Relator(a)",
+        "Despacho": "Parecer do Relator, Dep. Bruno Farias (AVANTE-MG), pela aprovação o Projeto de Lei nº 10.479/2018 e dos Projetos de Lei nº 11.227/2018, nº 1.085/2019, nº 1.870/2019, nº 1.611/2021, nº 733/2023 e nº 3.542/2023 (apensados), na forma do Substitutivo.",
         "Órgão Última Tramitação (Sigla)": "CASP",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1671404",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2179960"
@@ -581,5 +581,16 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3008125",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2564789"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 4817,
+        "Ano": 2025,
+        "Ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos), para aprimorar os mecanismos de transparência e controle social na contratação direta de eventos artísticos pela Administração Pública.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PL n. 4817/2025 (Projeto de Lei), pelo Deputado Capitão Alberto Neto (PL/AM), que \"Altera a Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos), para aprimorar os mecanismos de transparência e controle social na contratação direta de eventos artísticos pela Administração Pública\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3009303",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2565356"
     }
 ]
