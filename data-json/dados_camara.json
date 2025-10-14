@@ -276,17 +276,6 @@
     },
     {
         "Sigla Tipo": "RIC",
-        "Número": 3932,
-        "Ano": 2025,
-        "Ementa": "Requer do Excelentíssimo Ministro da Agricultura e Pecuária, Senhor Carlos Fávaro, informações sobre a cobrança de taxa administrativa de 4,5% sobre o valor das emendas parlamentares.",
-        "Situação Tramitação": "Providência Interna - Comunicação de resposta ostensiva",
-        "Despacho": "Encaminhamento de resposta por meio do sistema Infoleg",
-        "Órgão Última Tramitação (Sigla)": "1SECM",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2945474",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2529568"
-    },
-    {
-        "Sigla Tipo": "RIC",
         "Número": 3935,
         "Ano": 2025,
         "Ementa": "Requer do Excelentíssimo Ministro do Desenvolvimento Agrário e Agricultura Familiar, Senhor Luiz Paulo Teixeira, informações sobre a cobrança de taxa administrativa de 4,5% sobre o valor das emendas parlamentares.",
@@ -554,9 +543,9 @@
         "Número": 6339,
         "Ano": 2025,
         "Ementa": "Solicita à Ministra de Estado da Gestão e da Inovação em Serviços Públicos informações sobre a decisão do governo federal de retirar do sistema documentos que detalham convênios, repasses e emendas parlamentares, com base em parecer da Advocacia-Geral da União que, segundo este próprio órgão, não impõe tal medida.",
-        "Situação Tramitação": "Parecer do(a) Relator(a)",
-        "Despacho": "Parecer do Relator, Dep. Altineu Côrtes (PL-RJ), pela aprovação.",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Situação Tramitação": "Publicação de Despacho",
+        "Despacho": "Publicação inicial no DCD do dia 14/10/2025",
+        "Órgão Última Tramitação (Sigla)": "PLEN",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3007109",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2564259"
     },
@@ -565,9 +554,9 @@
         "Número": 6377,
         "Ano": 2025,
         "Ementa": "Requer Informações a Excelentíssima Senhora Ministra de Estado do Meio Ambiente e Mudança do Clima, para que se manifeste sobre a execução das emendas parlamentares individuais impositivas, em especial as referentes aos exercícios de 2023 e 2024.",
-        "Situação Tramitação": "Parecer do(a) Relator(a)",
-        "Despacho": "Parecer do Relator, Dep. Altineu Côrtes (PL-RJ), pela aprovação.",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Situação Tramitação": "Publicação de Despacho",
+        "Despacho": "Publicação inicial no DCD do dia 14/10/2025",
+        "Órgão Última Tramitação (Sigla)": "PLEN",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3008125",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2564789"
     },
@@ -592,5 +581,82 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3016787",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2569419"
+    },
+    {
+        "Sigla Tipo": "PDL",
+        "Número": 814,
+        "Ano": 2025,
+        "Ementa": "Susta os efeitos do Decreto nº 12.604, de 28 de agosto de 2025, que remaneja, em caráter temporário, cargos em comissão e função de confiança para a Casa de Governo no Estado do Rio Grande do Sul e transforma cargos em comissão, altera o Decreto nº 11.329, de 1º de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão, das Funções de Confiança e das Gratificações da Casa Civil da Presidência da República, e altera o Decreto nº 11.400, de 21 de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Gabinete Pessoal do Presidente da República e da Assessoria Especial da Presidência da República.",
+        "Situação Tramitação": "Apresentação de Requerimento",
+        "Despacho": "Apresentação do REQ n. 4230/2025 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Individual), pelos Deputado Zucco (PL/RS) e Deputada Caroline de Toni PL        , que \"Solicita a inclusão de coautoria do PDL Nº 814/2025, que susta os efeitos do Decreto nº 12.604, de 28 de agosto de 2025, que remaneja, em caráter temporário, cargos em comissão e função de confiança para a Casa de Governo no Estado do Rio Grande do Sul e transforma cargos em comissão, altera o Decreto nº 11.329, de 1º de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão, das Funções de Confiança e das Gratificações da Casa Civil da Presidência da República, e altera o Decreto nº 11.400, de 21 de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Gabinete Pessoal do Presidente da República e da Assessoria Especial da Presidência da República.\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3019811",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2570662"
+    },
+    {
+        "Sigla Tipo": "PDL",
+        "Número": 816,
+        "Ano": 2025,
+        "Ementa": "Susta o artigo 8º do Decreto Presidencial nº 12.604, de 28 de agosto de 2025, que remaneja, em caráter temporário, cargos em comissão e função de confiança para a Casa de Governo no Estado do Rio Grande do Sul e transforma cargos em comissão, altera o Decreto nº 11.329, de 1º de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão, das Funções de Con?ança e das Grati?cações da Casa Civil da Presidência da República, e altera o Decreto nº 11.400, de 21 de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Gabinete Pessoal do Presidente da República e da Assessoria Especial da Presidência da República.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PDL n. 816/2025 (Projeto de Decreto Legislativo de Sustação de Atos Normativos do Poder Executivo), pelo Deputado Sóstenes Cavalcante (PL/RJ), que \"Susta o artigo 8º do Decreto Presidencial nº 12.604, de 28 de agosto de 2025, que remaneja, em caráter temporário, cargos em comissão e função de confiança para a Casa de Governo no Estado do Rio Grande do Sul e transforma cargos em comissão, altera o Decreto nº 11.329, de 1º de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão, das Funções de Con?ança e das Grati?cações da Casa Civil da Presidência da República, e altera o Decreto nº 11.400, de 21 de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Gabinete Pessoal do Presidente da República e da Assessoria Especial da Presidência da República\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3019870",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2570714"
+    },
+    {
+        "Sigla Tipo": "PDL",
+        "Número": 817,
+        "Ano": 2025,
+        "Ementa": "Susta os efeitos do Decreto nº 12.604, 28 de agosto de 2025, que remaneja, em caráter temporário, cargos em comissão e função de confiança para a Casa de Governo no Estado do Rio Grande do Sul e transforma cargos em comissão, altera o Decreto nº 11.329, de 1º de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão, das Funções de Confiança e das Gratificações da Casa Civil da Presidência da República, e altera o Decreto nº 11.400, de 21 de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Gabinete Pessoal do Presidente da República e da Assessoria Especial da Presidência da República.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PDL n. 817/2025 (Projeto de Decreto Legislativo), pela Deputada Rosangela Moro (UNIÃO/SP), que \"Susta os efeitos do Decreto nº 12.604, 28 de agosto de 2025, que remaneja, em caráter temporário, cargos em comissão e função de confiança para a Casa de Governo no Estado do Rio Grande do Sul e transforma cargos em comissão, altera o Decreto nº 11.329, de 1º de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão, das Funções de Confiança e das Gratificações da Casa Civil da Presidência da República, e altera o Decreto nº 11.400, de 21 de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Gabinete Pessoal do Presidente da República e da Assessoria Especial da Presidência da República\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3020012",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2570813"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 4230,
+        "Ano": 2025,
+        "Ementa": "Solicita a inclusão de coautoria do PDL Nº 814/2025, que susta os efeitos do Decreto nº 12.604, de 28 de agosto de 2025, que remaneja, em caráter temporário, cargos em comissão e função de confiança para a Casa de Governo no Estado do Rio Grande do Sul e transforma cargos em comissão, altera o Decreto nº 11.329, de 1º de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão, das Funções de Confiança e das Gratificações da Casa Civil da Presidência da República, e altera o Decreto nº 11.400, de 21 de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Gabinete Pessoal do Presidente da República e da Assessoria Especial da Presidência da República.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do REQ n. 4230/2025 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Individual), pelos Deputado Zucco (PL/RS) e Deputada Caroline de Toni PL        , que \"Solicita a inclusão de coautoria do PDL Nº 814/2025, que susta os efeitos do Decreto nº 12.604, de 28 de agosto de 2025, que remaneja, em caráter temporário, cargos em comissão e função de confiança para a Casa de Governo no Estado do Rio Grande do Sul e transforma cargos em comissão, altera o Decreto nº 11.329, de 1º de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão, das Funções de Confiança e das Gratificações da Casa Civil da Presidência da República, e altera o Decreto nº 11.400, de 21 de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Gabinete Pessoal do Presidente da República e da Assessoria Especial da Presidência da República.\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3020158",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2570875"
+    },
+    {
+        "Sigla Tipo": "PDL",
+        "Número": 823,
+        "Ano": 2025,
+        "Ementa": "Susta o artigo 8º do Decreto Presidencial nº 12.604, de 28 de agosto de 2025, que remaneja, em caráter temporário, cargos em comissão e função de confiança para a Casa de Governo no Estado do Rio Grande do Sul e transforma cargos em comissão, altera o Decreto nº 11.329, de 1º de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão, das Funções de Confiança e das Gratificações da Casa Civil da Presidência da República, e altera o Decreto nº 11.400, de 21 de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Gabinete Pessoal do Presidente da República e da Assessoria Especial da Presidência da República",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PDL n. 823/2025 (Projeto de Decreto Legislativo de Sustação de Atos Normativos do Poder Executivo), pelo Deputado Messias Donato (REPUBLIC/ES), que \"Susta o artigo 8º do Decreto Presidencial nº 12.604, de 28 de agosto de 2025, que remaneja, em caráter temporário, cargos em comissão e função de confiança para a Casa de Governo no Estado do Rio Grande do Sul e transforma cargos em comissão, altera o Decreto nº 11.329, de 1º de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão, das Funções de Confiança e das Gratificações da Casa Civil da Presidência da República, e altera o Decreto nº 11.400, de 21 de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Gabinete Pessoal do Presidente da República e da Assessoria Especial da Presidência da República\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3020403",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2570919"
+    },
+    {
+        "Sigla Tipo": "PDL",
+        "Número": 824,
+        "Ano": 2025,
+        "Ementa": "Susta os efeitos do Decreto nº 12.604, de 28 de agosto de 2025, que remaneja cargos em comissão e funções de confiança e altera o Decreto nº 11.329, de 1º de janeiro de 2023, que dispõe sobre a Estrutura da Casa Civil da Presidência da República.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PDL n. 824/2025 (Projeto de Decreto Legislativo de Sustação de Atos Normativos do Poder Executivo), pelo Deputado Cabo Gilberto Silva (PL/PB), que \"Susta os efeitos do Decreto nº 12.604, de 28 de agosto de 2025, que remaneja cargos em comissão e funções de confiança e altera o Decreto nº 11.329, de 1º de janeiro de 2023, que dispõe sobre a Estrutura da Casa Civil da Presidência da República\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3020404",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2570920"
+    },
+    {
+        "Sigla Tipo": "PDL",
+        "Número": 825,
+        "Ano": 2025,
+        "Ementa": "Susta os efeitos do Decreto nº 12.604, 28 de agosto de 2025, que remaneja, em caráter temporário, cargos em comissão e função de confiança para a Casa de Governo no Estado do Rio Grande do Sul e transforma cargos em comissão, altera o Decreto nº 11.329, de 1º de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão, das Funções de Confiança e das Gratificações da Casa Civil da Presidência da República, e altera o Decreto nº 11.400, de 21 de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Gabinete Pessoal do Presidente da República e da Assessoria Especial da Presidência da República",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PDL n. 825/2025 (Projeto de Decreto Legislativo de Sustação de Atos Normativos do Poder Executivo), pelo Deputado Bibo Nunes (PL/RS), que \"Susta os efeitos do Decreto nº 12.604, 28 de agosto de 2025, que remaneja, em caráter temporário, cargos em comissão e função de confiança para a Casa de Governo no Estado do Rio Grande do Sul e transforma cargos em comissão, altera o Decreto nº 11.329, de 1º de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão, das Funções de Confiança e das Gratificações da Casa Civil da Presidência da República, e altera o Decreto nº 11.400, de 21 de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Gabinete Pessoal do Presidente da República e da Assessoria Especial da Presidência da República\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3020405",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2570921"
     }
 ]
