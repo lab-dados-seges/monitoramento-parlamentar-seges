@@ -408,39 +408,6 @@
     },
     {
         "Sigla Tipo": "SLD",
-        "Número": 11,
-        "Ano": 2025,
-        "Ementa": "Texto - Corpo da Lei, Cap IV, Seção X, Subseção II, Art 80 - Destinação de emendas parlamentares ao pagamento do programa Produção SUS, vinculado à CEF.",
-        "Situação Tramitação": "Aprovação de Proposição Interna",
-        "Despacho": "Aprovada.",
-        "Órgão Última Tramitação (Sigla)": "CSAUDE",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2978971",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2548904"
-    },
-    {
-        "Sigla Tipo": "SLD",
-        "Número": 6,
-        "Ano": 2025,
-        "Ementa": "que \"requer a adição de texto para autorizar o Ministério do Meio Ambiente e Mudança do Clima a criar programa de aquisição de ração para fauna silvestre e unidades de conservação, financiado por emendas parlamentares. (Referência: Corpo da Lei, Cap IV, Seção IX, Art 74, Inciso VI, Alínea b).\"",
-        "Situação Tramitação": "Aprovação de Proposição Interna",
-        "Despacho": "Aprovada a [emenda / sugestão].",
-        "Órgão Última Tramitação (Sigla)": "CSPCCO",
-        "Link para Inteiro Teor": null,
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2548999"
-    },
-    {
-        "Sigla Tipo": "SLD",
-        "Número": 7,
-        "Ano": 2025,
-        "Ementa": "que \"requer a adição de texto para assegurar a aplicação integral dos recursos de emendas parlamentares, vedando deduções para custeio administrativo ou de fiscalização. (Referência: Corpo da Lei, Cap V, Seção III, Art 105, § 7).\"",
-        "Situação Tramitação": "Aprovação de Proposição Interna",
-        "Despacho": "Aprovada a [emenda / sugestão].",
-        "Órgão Última Tramitação (Sigla)": "CSPCCO",
-        "Link para Inteiro Teor": null,
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2549000"
-    },
-    {
-        "Sigla Tipo": "SLD",
         "Número": 33,
         "Ano": 2025,
         "Ementa": "Requer alteração no Corpo da Lei, Cap IV, Seção IX, Art 74, Inciso VI, Alínea b para incluir o inciso XII para a criação de programa de aquisição de ração para fauna silvestre e unidades de conservação, financiado por emendas parlamentares, no âmbito do Ministério do Meio Ambiente e Mudança do Clima.",
@@ -460,17 +427,6 @@
         "Órgão Última Tramitação (Sigla)": "CMADS",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2979323",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2549217"
-    },
-    {
-        "Sigla Tipo": "SBT",
-        "Número": 1,
-        "Ano": 0,
-        "Ementa": "Regulamenta o repasse de recursos de emendas parlamentares em natureza de despesa de custeio destinado ao incremento PAB/MAC a hospitais e santas casas filantrópicas, através do Fundo Nacional de Saúde - FNS.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do SBT n. 1 CASP (Substitutivo), pelo Bruno Farias (AVANTE-MG)",
-        "Órgão Última Tramitação (Sigla)": "CASP",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2981979",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2550923"
     },
     {
         "Sigla Tipo": "INC",
