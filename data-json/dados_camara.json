@@ -11,6 +11,17 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2179960"
     },
     {
+        "Sigla Tipo": "PL",
+        "Número": 4,
+        "Ano": 2024,
+        "Ementa": "Cria cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Tribunal Superior Eleitoral e dos Tribunais Regionais Eleitorais.",
+        "Situação Tramitação": "Publicação de Proposição",
+        "Despacho": "Parecer recebido para publicação.",
+        "Órgão Última Tramitação (Sigla)": "CCP",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2383319",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2416830"
+    },
+    {
         "Sigla Tipo": "PLP",
         "Número": 231,
         "Ano": 2024,
@@ -154,35 +165,13 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2539818"
     },
     {
-        "Sigla Tipo": "REQ",
-        "Número": 336,
-        "Ano": 2025,
-        "Ementa": "Requer o envio à CFFC, pelo Tribunal de Contas da União (TCU), de cópias digitais de Acórdãos (acompanhados de respectivos relatórios e votos) exarados recentemente pela\nCorte de Contas em relação à temática: emendas Parlamentares – transparência e eficiência na aplicação de recursos provenientes de emendas individuais e de\nrelator.",
-        "Situação Tramitação": "Notificações",
-        "Despacho": "Aviso nº 862 - GP/TCU, de agosto de 2025, que registra o recebimento do Ofício nº 111/2025/CFFC-P, de 22 de agosto de 2025, por intermédio do qual a Comissão de Fiscalização Financeira e Controle encaminha aoTCU o Requerimento nº 336/2025-CFFC, de autoria do Deputado Federal Deputado DimasGadelha.Informa que o referido expediente, autuado neste Tribunalcomo processo TC-017.291/2025-9, será tratado com a devida urgência e tramitaçãopreferencial, conforme disposto no art. 5º, inciso I, da Resolução-TCU nº 215/2008.",
-        "Órgão Última Tramitação (Sigla)": "CFFC",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2971747",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2543184"
-    },
-    {
-        "Sigla Tipo": "PL",
-        "Número": 3995,
-        "Ano": 2025,
-        "Ementa": "Institui o Sistema Nacional de Participação e Eficiência na Gestão Pública (SINAPE), organizado em regime de colaboração entre os entes federativos, com vistas ao fortalecimento da governança pública, da transparência e do controle social.",
-        "Situação Tramitação": "Publicação de Proposição",
-        "Despacho": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 13/09/2025.",
-        "Órgão Última Tramitação (Sigla)": "CCP",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2974912",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2545732"
-    },
-    {
         "Sigla Tipo": "PDL",
         "Número": 660,
         "Ano": 2025,
         "Ementa": "Susta a aplicação e os efeitos do Decreto nº 12.616, de 8 de setembro de 2025, que “altera o Decreto nº 11.184, de 25 de agosto de 2022, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Superintendência de Seguros Privados – SUSEP”.",
-        "Situação Tramitação": "Recebimento",
-        "Despacho": "Recebimento pelo(a) CFT.",
-        "Órgão Última Tramitação (Sigla)": "CFT",
+        "Situação Tramitação": "Apresentação de Requerimento",
+        "Despacho": "Apresentação do REQ n. 4796/2025 (Requerimento de Urgência (Art. 155 do RICD)), pelos Deputado Hugo Leal (PSD/RJ) e outros, que \"Requer regime de urgência para apreciação do PDL nº 660/2025\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2996113",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2559038"
     },
@@ -390,7 +379,7 @@
         "Ano": 2025,
         "Ementa": "Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público.",
         "Situação Tramitação": "Apresentação de Requerimento",
-        "Despacho": "Apresentação do REQ n. 4745/2025 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Coletiva Obrigatória), pelo Deputado Thiago Flores (REPUBLIC/RO), que \"Requer a retirada de assinatura da Proposta de Emenda à Constituição – PEC nº 38/2025\".",
+        "Despacho": "Apresentação do REQ n. 4854/2025 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Coletiva Obrigatória), pelo Deputado Allan Garcês (PP/MA), que \"Requer a Retirada de Assinatura da Proposta de Emenda à Constituição 38/2025\".",
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3029805",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2576168"
@@ -493,5 +482,16 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3042838",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2583116"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 4827,
+        "Ano": 2025,
+        "Ementa": "Requeiro a Vossa Excelência, nos termos do art. 102, § 1º e art. 104 do Regimento Interno da Câmara dos Deputados, a retirada de minha assinatura da PEC 38/2025 (altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público).",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do REQ n. 4827/2025 (Requerimento), pelo Deputado Delegado Caveira (PL/PA), que \"Requeiro a Vossa Excelência, nos termos do art. 102, § 1º e art. 104 do Regimento Interno da Câmara dos Deputados, a retirada de minha assinatura da PEC 38/2025 (altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público). \".",
+        "Órgão Última Tramitação (Sigla)": "PLEN",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3044439",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2583943"
     }
 ]
