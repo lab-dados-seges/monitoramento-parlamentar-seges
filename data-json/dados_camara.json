@@ -16,7 +16,7 @@
         "Ano": 2024,
         "Ementa": "Cria cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Tribunal Superior Eleitoral e dos Tribunais Regionais Eleitorais.",
         "Situação Tramitação": "Publicação de Proposição",
-        "Despacho": "Parecer recebido para publicação.",
+        "Despacho": "Encaminhada à publicação. Parecer da Comissão de Constituição e Justiça e de Cidadania Publicado em avulso e no DCD de 13/11/2025, Letra C.",
         "Órgão Última Tramitação (Sigla)": "CCP",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2383319",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2416830"
@@ -37,8 +37,8 @@
         "Número": 232,
         "Ano": 2024,
         "Ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para dispor sobre a destinação de recursos de emendas parlamentares individuais e de bancada a políticas públicas do esporte de forma a contemplar projetos educacionais.",
-        "Situação Tramitação": "Designação de Relator(a)",
-        "Despacho": "Designada Relatora, Dep. Laura Carneiro (PSD-RJ)",
+        "Situação Tramitação": "Parecer do(a) Relator(a)",
+        "Despacho": "Parecer da Relatora, Dep. Laura Carneiro (PSD-RJ), pela aprovação deste, com substitutivo.",
         "Órgão Última Tramitação (Sigla)": "CESPO",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2843706",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2480541"
@@ -379,7 +379,7 @@
         "Ano": 2025,
         "Ementa": "Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público.",
         "Situação Tramitação": "Apresentação de Requerimento",
-        "Despacho": "Apresentação do REQ n. 4854/2025 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Coletiva Obrigatória), pelo Deputado Allan Garcês (PP/MA), que \"Requer a Retirada de Assinatura da Proposta de Emenda à Constituição 38/2025\".",
+        "Despacho": "Apresentação do REQ n. 4892/2025 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Coletiva Obrigatória), pela Deputada Coronel Fernanda (PL/MT), que \"Requer a retirada de assinatura da PEC 38/2025, que “Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público”\".",
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3029805",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2576168"
@@ -493,5 +493,38 @@
         "Órgão Última Tramitação (Sigla)": "PLEN",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3044439",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2583943"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 4887,
+        "Ano": 2025,
+        "Ementa": "Requer a retirada de assinatura da Proposta de Emenda à Constituição nº 38, de 2025, que altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do REQ n. 4887/2025 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Coletiva Obrigatória), pelo Deputado Paulinho da Força (SOLIDARI/SP), que \"Requer a retirada de assinatura da Proposta de Emenda à Constituição nº 38, de 2025, que altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3045333",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2584562"
+    },
+    {
+        "Sigla Tipo": "SBT",
+        "Número": 1,
+        "Ano": 0,
+        "Ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para dispor sobre a destinação de recursos de emendas parlamentares individuais e de bancada a políticas públicas do esporte de forma a contemplar projetos educacionais.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do SBT n. 1 CESPO (Substitutivo), pela Laura Carneiro (PSD-RJ)",
+        "Órgão Última Tramitação (Sigla)": "CESPO",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3045681",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2584714"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 4892,
+        "Ano": 2025,
+        "Ementa": "Requer a retirada de assinatura da PEC 38/2025, que “Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público”.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do REQ n. 4892/2025 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Coletiva Obrigatória), pela Deputada Coronel Fernanda (PL/MT), que \"Requer a retirada de assinatura da PEC 38/2025, que “Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público”\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3045715",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2584724"
     }
 ]
