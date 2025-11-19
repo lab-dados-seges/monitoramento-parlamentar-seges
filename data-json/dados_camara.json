@@ -335,7 +335,7 @@
         "Ano": 2025,
         "Ementa": "Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público.",
         "Situação Tramitação": "Apresentação de Requerimento",
-        "Despacho": "Apresentação do REQ n. 4892/2025 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Coletiva Obrigatória), pela Deputada Coronel Fernanda (PL/MT), que \"Requer a retirada de assinatura da PEC 38/2025, que “Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público”\".",
+        "Despacho": "Apresentação do REQ n. 4990/2025 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Coletiva Obrigatória), pelo Deputado Lucio Mosquini (MDB/RO), que \"Requerimento de Retirada de Assinatura em Proposição de Iniciativa Coletiva Obrigatória\".",
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3029805",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2576168"
@@ -482,5 +482,16 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3045715",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2584724"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 4934,
+        "Ano": 2025,
+        "Ementa": "Requer a retirada de assinatura da PEC 38/2025, que “Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público”.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do REQ n. 4934/2025 (Requerimento), pela Deputada Silvye Alves (UNIÃO/GO), que \"Requer a retirada de assinatura da PEC 38/2025, que “Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público”\".",
+        "Órgão Última Tramitação (Sigla)": "PLEN",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3048253",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2585499"
     }
 ]
