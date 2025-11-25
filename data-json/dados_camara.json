@@ -493,5 +493,27 @@
         "Órgão Última Tramitação (Sigla)": "PLEN",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3048253",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2585499"
+    },
+    {
+        "Sigla Tipo": "RIC",
+        "Número": 7748,
+        "Ano": 2025,
+        "Ementa": "Solicita informações ao Sr. Ministro da Controladoria-Geral da União, sobre auditorias, fiscalizações, relatórios de conformidade, análises de risco e apontamentos relativos às emendas parlamentares destinadas ao Estado de Goiás, desde 2023, incluindo eventuais achados de auditoria, correções recomendadas e medidas adotadas.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do RIC n. 7748/2025 (Requerimento de Informação), pelo Deputado Gustavo Gayer (PL/GO), que \"Solicita informações ao Sr. Ministro da Controladoria-Geral da União, sobre auditorias, fiscalizações, relatórios de conformidade, análises de risco e apontamentos relativos às emendas parlamentares destinadas ao Estado de Goiás, desde 2023, incluindo eventuais achados de auditoria, correções recomendadas e medidas adotadas. \".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3050550",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2586903"
+    },
+    {
+        "Sigla Tipo": "RIC",
+        "Número": 7749,
+        "Ano": 2025,
+        "Ementa": "Solicita informações a Sr.ª Ministra do Planejamento e Orçamento, sobre todas as emendas parlamentares — individuais, de bancada, de comissão e de relator — destinadas ao Estado de Goiás.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do RIC n. 7749/2025 (Requerimento de Informação), pelo Deputado Gustavo Gayer (PL/GO), que \"Solicita informações a Sr.ª Ministra do Planejamento e Orçamento, sobre todas as emendas parlamentares — individuais, de bancada, de comissão e de relator — destinadas ao Estado de Goiás\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3050551",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2586904"
     }
 ]
