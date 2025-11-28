@@ -33,6 +33,17 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2480541"
     },
     {
+        "Sigla Tipo": "PL",
+        "Número": 1368,
+        "Ano": 2025,
+        "Ementa": "Dispõe sobre a contratação direta do Transportador Autônomo de Carga (TAC) para prestação de serviços de transporte rodoviário de cargas à Administração Pública direta e indireta da União.",
+        "Situação Tramitação": "Parecer do(a) Relator(a)",
+        "Despacho": "Parecer do Relator, Dep. Zé Trovão (PL-SC), pela aprovação.",
+        "Órgão Última Tramitação (Sigla)": "CVT",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2876151",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2491477"
+    },
+    {
         "Sigla Tipo": "REQ",
         "Número": 178,
         "Ano": 2025,
@@ -378,9 +389,9 @@
         "Número": 5490,
         "Ano": 2025,
         "Ementa": "Dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Conselho Nacional de Justiça.",
-        "Situação Tramitação": "Aprovação de Urgência (154, 155 ou 64 CF)",
-        "Despacho": "Alteração do Regime de Tramitação desta proposição em virtude da Aprovação do REQ 4635/2025.",
-        "Órgão Última Tramitação (Sigla)": "PLEN",
+        "Situação Tramitação": "Apresentação de Requerimento",
+        "Despacho": "Apresentação do REQ n. 5142/2025 (Requerimento de Inclusão de Matéria na Ordem do Dia), pelo Deputado Zé Haroldo Cathedral (PSD/RR), que \"Requer Inclusão na Pauta para apreciação do Projeto de Lei nº 5.490 de 2025, que dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Conselho Nacional de Justiça, e dá outras providências\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3034087",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2578879"
     },
@@ -515,5 +526,16 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3053997",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2589105"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 5142,
+        "Ano": 2025,
+        "Ementa": "Requer Inclusão na Pauta para apreciação do Projeto de Lei nº 5.490 de 2025, que dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Conselho Nacional de Justiça, e dá outras providências.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do REQ n. 5142/2025 (Requerimento de Inclusão de Matéria na Ordem do Dia), pelo Deputado Zé Haroldo Cathedral (PSD/RR), que \"Requer Inclusão na Pauta para apreciação do Projeto de Lei nº 5.490 de 2025, que dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Conselho Nacional de Justiça, e dá outras providências\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3054255",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2589219"
     }
 ]
