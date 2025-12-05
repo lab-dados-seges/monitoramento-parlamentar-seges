@@ -34,5 +34,14 @@
         "Sigla Colegiado": "PLEN",
         "Descrição Informe Legislativo": "Autuado o Projeto de Lei nº 18/2021, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171683"
+    },
+    {
+        "Tipo": "PLP",
+        "Número": "00252",
+        "Ano": "2025",
+        "Ementa": "Dispõe sobre a utilização dos recursos das emendas parlamentares individuais do tipo transferências especiais, previstas no art. 166-A da Constituição Federal, e dá outras providências.",
+        "Sigla Colegiado": "PLEN",
+        "Descrição Informe Legislativo": "Recebido o Requerimento nº 67, de 2025, da Comissão de Constituição, Justiça e Cidadania, solicitando urgência para a matéria.",
+        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171930"
     }
 ]
