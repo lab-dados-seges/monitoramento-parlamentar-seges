@@ -26,9 +26,9 @@
         "Número": 232,
         "Ano": 2024,
         "Ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para dispor sobre a destinação de recursos de emendas parlamentares individuais e de bancada a políticas públicas do esporte de forma a contemplar projetos educacionais.",
-        "Situação Tramitação": "Aprovação do Parecer",
-        "Despacho": "Aprovado o Parecer.",
-        "Órgão Última Tramitação (Sigla)": "CESPO",
+        "Situação Tramitação": "Publicação de Proposição",
+        "Despacho": "Parecer recebido para publicação.",
+        "Órgão Última Tramitação (Sigla)": "CCP",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2843706",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2480541"
     },
@@ -88,17 +88,6 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2527265"
     },
     {
-        "Sigla Tipo": "PL",
-        "Número": 3416,
-        "Ano": 2025,
-        "Ementa": "Dispõe sobre a contratação de licenças de software pela Administração Pública, estabelecendo procedimentos e critérios para a contratação direta com base na inexigibilidade de licitação, e dá outras providências.",
-        "Situação Tramitação": "Publicação de Proposição",
-        "Despacho": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 09/10/2025.",
-        "Órgão Última Tramitação (Sigla)": "CCP",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2957670",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2536695"
-    },
-    {
         "Sigla Tipo": "PLP",
         "Número": 156,
         "Ano": 2025,
@@ -108,17 +97,6 @@
         "Órgão Última Tramitação (Sigla)": "CFT",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2961110",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2538380"
-    },
-    {
-        "Sigla Tipo": "PLP",
-        "Número": 159,
-        "Ano": 2025,
-        "Ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para permitir que emendas parlamentares de bancada destinem recursos a múltiplos entes federativos ou entidades via fundos municipais de assistência social.",
-        "Situação Tramitação": "Recebimento",
-        "Despacho": "Recebimento pelo(a) CPASF.",
-        "Órgão Última Tramitação (Sigla)": "CPASF",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2966234",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2539818"
     },
     {
         "Sigla Tipo": "REQ",
@@ -196,17 +174,6 @@
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3008125",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2564789"
-    },
-    {
-        "Sigla Tipo": "PLP",
-        "Número": 216,
-        "Ano": 2025,
-        "Ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para instituir o Cadastro Nacional de Inidoneidade para Recebimento de Transferências (CNIRT), disciplinar sanções aplicáveis a instituições que derem destinação ilícita ou uso indevido a recursos oriundos de emendas parlamentares e estabelecer regras de reabilitação; e dá outras providências.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do PLP n. 216/2025 (Projeto de Lei Complementar), pelo Deputado Eros Biondini (PL/MG), que \"Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para instituir o Cadastro Nacional de Inidoneidade para Recebimento de Transferências (CNIRT), disciplinar sanções aplicáveis a instituições que derem destinação ilícita ou uso indevido a recursos oriundos de emendas parlamentares e estabelecer regras de reabilitação; e dá outras providências\".",
-        "Órgão Última Tramitação (Sigla)": "MESA",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3016787",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2569419"
     },
     {
         "Sigla Tipo": "PDL",
