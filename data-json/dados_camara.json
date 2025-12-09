@@ -4,8 +4,8 @@
         "Número": 4,
         "Ano": 2024,
         "Ementa": "Cria cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Tribunal Superior Eleitoral e dos Tribunais Regionais Eleitorais.",
-        "Situação Tramitação": "Encerramento de Prazo",
-        "Despacho": "Encerramento automático do Prazo de Recurso 03/12/2025 20:30:00. Não foram apresentados recursos.",
+        "Situação Tramitação": "Envio para a redação Final",
+        "Despacho": "Ofício SGM-P 317/2025 à CCJC encaminhando este projeto para elaboração da Redação Final, nos termos do Artigo 58, §4 e Artigo 24, II, do RICD.",
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2383319",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2416830"
@@ -26,9 +26,9 @@
         "Número": 232,
         "Ano": 2024,
         "Ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para dispor sobre a destinação de recursos de emendas parlamentares individuais e de bancada a políticas públicas do esporte de forma a contemplar projetos educacionais.",
-        "Situação Tramitação": "Publicação de Proposição",
-        "Despacho": "Parecer recebido para publicação.",
-        "Órgão Última Tramitação (Sigla)": "CCP",
+        "Situação Tramitação": "Recebimento",
+        "Despacho": "Recebimento pela CFT.",
+        "Órgão Última Tramitação (Sigla)": "CFT",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2843706",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2480541"
     },
@@ -147,8 +147,8 @@
         "Número": 2389,
         "Ano": 2025,
         "Ementa": "Solicita ao Excelentíssimo Senhor Ministro da Justiça e Segurança Pública a adoção de medidas normativas e orçamentárias para tornar obrigatória a instalação de bloqueadores de sinal de telefonia móvel em todos os estabelecimentos prisionais estaduais, com financiamento por meio do Fundo Nacional de Segurança Pública, e solicita, subsidiariamente, o desembaraço de emendas parlamentares destinadas à aquisição de armamentos e equipamentos de proteção para as forças policiais do Estado do Ceará.",
-        "Situação Tramitação": "Remessa a Ministério",
-        "Despacho": "Indicações encaminhadas à Secretaria de Relações Institucionais da Presidência da República por meio dos ofícios 242 a 253 e 271 a 278",
+        "Situação Tramitação": "Providência Interna - Comunicação de resposta ostensiva",
+        "Despacho": "Encaminhamento de resposta por meio do sistema INFOLEG",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3006044",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2563615"
@@ -339,17 +339,6 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3034037",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2578841"
-    },
-    {
-        "Sigla Tipo": "PL",
-        "Número": 5490,
-        "Ano": 2025,
-        "Ementa": "Dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Conselho Nacional de Justiça.",
-        "Situação Tramitação": "Apresentação de Requerimento",
-        "Despacho": "Apresentação do REQ n. 5142/2025 (Requerimento de Inclusão de Matéria na Ordem do Dia), pelo Deputado Zé Haroldo Cathedral (PSD/RR), que \"Requer Inclusão na Pauta para apreciação do Projeto de Lei nº 5.490 de 2025, que dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Conselho Nacional de Justiça, e dá outras providências\".",
-        "Órgão Última Tramitação (Sigla)": "MESA",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3034087",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2578879"
     },
     {
         "Sigla Tipo": "REQ",
