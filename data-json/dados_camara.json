@@ -4,9 +4,9 @@
         "Número": 4,
         "Ano": 2024,
         "Ementa": "Cria cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Tribunal Superior Eleitoral e dos Tribunais Regionais Eleitorais.",
-        "Situação Tramitação": "Envio para a redação Final",
-        "Despacho": "Ofício SGM-P 317/2025 à CCJC encaminhando este projeto para elaboração da Redação Final, nos termos do Artigo 58, §4 e Artigo 24, II, do RICD.",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Situação Tramitação": "Recebimento - Redação Final",
+        "Despacho": "Apresentação da RDF n. 1 CCJC (Redação Final), pelo Deputado Domingos Neto (PSD/CE).",
+        "Órgão Última Tramitação (Sigla)": "CCJC",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2383319",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2416830"
     },
@@ -20,17 +20,6 @@
         "Órgão Última Tramitação (Sigla)": "CFFC",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2473726",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2457184"
-    },
-    {
-        "Sigla Tipo": "PLP",
-        "Número": 232,
-        "Ano": 2024,
-        "Ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para dispor sobre a destinação de recursos de emendas parlamentares individuais e de bancada a políticas públicas do esporte de forma a contemplar projetos educacionais.",
-        "Situação Tramitação": "Recebimento",
-        "Despacho": "Recebimento pela CFT.",
-        "Órgão Última Tramitação (Sigla)": "CFT",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2843706",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2480541"
     },
     {
         "Sigla Tipo": "PL",
@@ -64,28 +53,6 @@
         "Órgão Última Tramitação (Sigla)": "CESPO",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2931302",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2523318"
-    },
-    {
-        "Sigla Tipo": "PLP",
-        "Número": 130,
-        "Ano": 2025,
-        "Ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para permitir a destinação de emendas parlamentares individuais e de bancada a órgãos do Poder Judiciário.",
-        "Situação Tramitação": "Recebimento",
-        "Despacho": "Recebimento pelo(a) CFT.",
-        "Órgão Última Tramitação (Sigla)": "CFT",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2934504",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2525081"
-    },
-    {
-        "Sigla Tipo": "PLP",
-        "Número": 136,
-        "Ano": 2025,
-        "Ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para vedar a dedução de valores das transferências oriundas de emendas parlamentares para custeio de despesas administrativas pelo Poder Executivo.",
-        "Situação Tramitação": "Recebimento",
-        "Despacho": "Recebimento pelo(a) CFT.",
-        "Órgão Última Tramitação (Sigla)": "CFT",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2939133",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2527265"
     },
     {
         "Sigla Tipo": "PLP",
@@ -254,17 +221,6 @@
     },
     {
         "Sigla Tipo": "PDL",
-        "Número": 826,
-        "Ano": 2025,
-        "Ementa": "Susta os efeitos do Decreto nº 12.604, de 28 de agosto de 2025, que remaneja cargos em comissão e funções de confiança e altera o Decreto nº 11.329, de 1º de janeiro de 2023, que dispõe sobre a Estrutura da Casa Civil da Presidência da República.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do PDL n. 826/2025 (Projeto de Decreto Legislativo de Sustação de Atos Normativos do Poder Executivo), pelo Deputado Roberto Duarte (REPUBLIC/AC), que \"Susta os efeitos do Decreto nº 12.604, de 28 de agosto de 2025, que remaneja cargos em comissão e funções de confiança e altera o Decreto nº 11.329, de 1º de janeiro de 2023, que dispõe sobre a Estrutura da Casa Civil da Presidência da República\".",
-        "Órgão Última Tramitação (Sigla)": "MESA",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3020525",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2570969"
-    },
-    {
-        "Sigla Tipo": "PDL",
         "Número": 829,
         "Ano": 2025,
         "Ementa": "Susta o Decreto nº 12.604, de 28 de agosto de 2025, que “Remaneja, em caráter temporário, cargos em comissão e função de confiança para a Casa de Governo no Estado do Rio Grande do Sul e transforma cargos em comissão, altera o Decreto nº 11.329, de 1º de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão, das Funções de Con?ança e das Grati?cações da Casa Civil da Presidência da República, e altera o Decreto nº 11.400, de 21 de janeiro de 2023, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Gabinete Pessoal do Presidente da República e da Assessoria Especial da Presidência da República”.",
@@ -291,7 +247,7 @@
         "Ano": 2025,
         "Ementa": "Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público.",
         "Situação Tramitação": "Apresentação de Requerimento",
-        "Despacho": "Apresentação do REQ n. 5445/2025 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Coletiva Obrigatória), pelo Deputado Pedro Westphalen (PP/RS), que \" Requer a retirada de assinatura da Proposta de Emenda à Constituição nº 38, de 2025\".",
+        "Despacho": "Apresentação do REQ n. 5542/2025 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Coletiva Obrigatória), pelo Deputado Fausto Jr. (UNIÃO/AM), que \"Requeiro a Vossa Excelência, nos termos regimentais, a retirada da minha assinatura da PEC 38/2025, que “Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformaçãodigital, impulsionar a profissionalização e extinguir privilégios no serviço público”\".",
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3029805",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2576168"
@@ -339,6 +295,17 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3034037",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2578841"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 5490,
+        "Ano": 2025,
+        "Ementa": "Dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Conselho Nacional de Justiça.",
+        "Situação Tramitação": "Apresentação de Requerimento",
+        "Despacho": "Apresentação do REQ n. 5142/2025 (Requerimento de Inclusão de Matéria na Ordem do Dia), pelo Deputado Zé Haroldo Cathedral (PSD/RR), que \"Requer Inclusão na Pauta para apreciação do Projeto de Lei nº 5.490 de 2025, que dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Conselho Nacional de Justiça, e dá outras providências\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3034087",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2578879"
     },
     {
         "Sigla Tipo": "REQ",
@@ -482,5 +449,16 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3054255",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2589219"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 5542,
+        "Ano": 2025,
+        "Ementa": "Requeiro a Vossa Excelência, nos termos regimentais, a retirada da minha assinatura da PEC 38/2025, que “Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação\ndigital, impulsionar a profissionalização e extinguir privilégios no serviço público”.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do REQ n. 5542/2025 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Coletiva Obrigatória), pelo Deputado Fausto Jr. (UNIÃO/AM), que \"Requeiro a Vossa Excelência, nos termos regimentais, a retirada da minha assinatura da PEC 38/2025, que “Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformaçãodigital, impulsionar a profissionalização e extinguir privilégios no serviço público”\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3062836",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2593785"
     }
 ]
