@@ -22,6 +22,28 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2457184"
     },
     {
+        "Sigla Tipo": "PLP",
+        "Número": 232,
+        "Ano": 2024,
+        "Ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para dispor sobre a destinação de recursos de emendas parlamentares individuais e de bancada a políticas públicas do esporte de forma a contemplar projetos educacionais.",
+        "Situação Tramitação": "Recebimento",
+        "Despacho": "Recebimento pela CFT.",
+        "Órgão Última Tramitação (Sigla)": "CFT",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2843706",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2480541"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 660,
+        "Ano": 2025,
+        "Ementa": "Altera a Lei nº 8.429, de 2 de junho de 1992, para tipificar como ato de improbidade administrativa a conduta do agente público que se negar a cadastrar propostas para recebimento de emendas parlamentares destinadas às Santas Casas de Misericórdia, hospitais filantrópicos ou congêneres.",
+        "Situação Tramitação": "Retirada de Pauta",
+        "Despacho": "Retirado de pauta, de ofício, em razão da ausência do Relator dep. Luiz Gastão.",
+        "Órgão Última Tramitação (Sigla)": "CASP",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2860530",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2485302"
+    },
+    {
         "Sigla Tipo": "PL",
         "Número": 1368,
         "Ano": 2025,
@@ -218,6 +240,17 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3020405",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2570921"
+    },
+    {
+        "Sigla Tipo": "PDL",
+        "Número": 826,
+        "Ano": 2025,
+        "Ementa": "Susta os efeitos do Decreto nº 12.604, de 28 de agosto de 2025, que remaneja cargos em comissão e funções de confiança e altera o Decreto nº 11.329, de 1º de janeiro de 2023, que dispõe sobre a Estrutura da Casa Civil da Presidência da República.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PDL n. 826/2025 (Projeto de Decreto Legislativo de Sustação de Atos Normativos do Poder Executivo), pelo Deputado Roberto Duarte (REPUBLIC/AC), que \"Susta os efeitos do Decreto nº 12.604, de 28 de agosto de 2025, que remaneja cargos em comissão e funções de confiança e altera o Decreto nº 11.329, de 1º de janeiro de 2023, que dispõe sobre a Estrutura da Casa Civil da Presidência da República\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3020525",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2570969"
     },
     {
         "Sigla Tipo": "PDL",
