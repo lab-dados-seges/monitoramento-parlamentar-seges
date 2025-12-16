@@ -55,17 +55,6 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2491477"
     },
     {
-        "Sigla Tipo": "REQ",
-        "Número": 178,
-        "Ano": 2025,
-        "Ementa": "Requer a realização de Audiência Pública, no âmbito da Comissão de Fiscalização Financeira e Controle, para debater a distorção na distribuição de emendas parlamentares entre os Estados.",
-        "Situação Tramitação": "Arquivamento",
-        "Despacho": "Arquivada.",
-        "Órgão Última Tramitação (Sigla)": "CFFC",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2896777",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2503272"
-    },
-    {
         "Sigla Tipo": "PDL",
         "Número": 310,
         "Ano": 2025,
@@ -383,5 +372,38 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3050551",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2586904"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 5133,
+        "Ano": 2025,
+        "Ementa": "Requer a retirada de assinatura da PEC 38/2025, que “Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público”.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do REQ n. 5133/2025 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Coletiva Obrigatória), pelo Deputado Pastor Gil (PL/MA), que \"Requer a retirada de assinatura da PEC 38/2025, que “Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público”\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3053997",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2589105"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 5142,
+        "Ano": 2025,
+        "Ementa": "Requer Inclusão na Pauta para apreciação do Projeto de Lei nº 5.490 de 2025, que dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Conselho Nacional de Justiça, e dá outras providências.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do REQ n. 5142/2025 (Requerimento de Inclusão de Matéria na Ordem do Dia), pelo Deputado Zé Haroldo Cathedral (PSD/RR), que \"Requer Inclusão na Pauta para apreciação do Projeto de Lei nº 5.490 de 2025, que dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Conselho Nacional de Justiça, e dá outras providências\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3054255",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2589219"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 5542,
+        "Ano": 2025,
+        "Ementa": "Requeiro a Vossa Excelência, nos termos regimentais, a retirada da minha assinatura da PEC 38/2025, que “Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação\ndigital, impulsionar a profissionalização e extinguir privilégios no serviço público”.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do REQ n. 5542/2025 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Coletiva Obrigatória), pelo Deputado Fausto Jr. (UNIÃO/AM), que \"Requeiro a Vossa Excelência, nos termos regimentais, a retirada da minha assinatura da PEC 38/2025, que “Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformaçãodigital, impulsionar a profissionalização e extinguir privilégios no serviço público”\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3062836",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2593785"
     }
 ]
