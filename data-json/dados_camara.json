@@ -11,6 +11,17 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2416830"
     },
     {
+        "Sigla Tipo": "REQ",
+        "Número": 218,
+        "Ano": 2024,
+        "Ementa": "Solicita informações ao Tribunal de Contas da União sobre a autorização do Governo Lula para que sindicatos utilizem recursos do Fundo de Amparo ao Trabalhador (FAT) e de emendas parlamentares.",
+        "Situação Tramitação": "Notificações",
+        "Despacho": "Aviso nº 24 - GP/TCU, de 29 de janeiro de 2026, que encaminha cópia do Despacho (acompanhada da respectiva Instrução Técnica), exarado pelo Ministro do Tribunal de Contas, Benjamin Zymler, em 23/01/2026, nos autos do TC-028.516/2024-9, referente ao Pedido de Reexame interposto pela Secretaria-Executiva do Ministério do Trabalho e Emprego. O mencionado processo trata de Solicitação do Congresso Nacional, originária do Ofício nº 143/2024/CFFC-P, de 5/12/2024, relativo ao Requerimento nº 218/2024-CFFC, de autoria do Deputado Evair Vieira de Melo.",
+        "Órgão Última Tramitação (Sigla)": "CFFC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2473726",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2457184"
+    },
+    {
         "Sigla Tipo": "PLP",
         "Número": 232,
         "Ano": 2024,
@@ -60,8 +71,8 @@
         "Ano": 2025,
         "Ementa": "Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público.",
         "Situação Tramitação": "Apresentação de Requerimento",
-        "Despacho": "Apresentação do REQ n. 5789/2025 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Coletiva Obrigatória), pelo Deputado Miguel Lombardi (PL/SP), que \"Requer a retirada de assinatura da Proposta de Emenda à Constituição nº 38/2025\".",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Despacho": "Apresentação do REQ n. 191/2026 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Coletiva Obrigatória), pelo Deputado Ismael (PSD/SC), que \"Requer a retirada de assinatura da PEC 38/2025, que “Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público”\".",
+        "Órgão Última Tramitação (Sigla)": "PLEN",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3029805",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2576168"
     },
@@ -108,38 +119,5 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3062836",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2593785"
-    },
-    {
-        "Sigla Tipo": "PL",
-        "Número": 6493,
-        "Ano": 2025,
-        "Ementa": "Dispõe sobre a indenização pecuniária por tempo de serviço aos ocupantes de cargos em comissão na administração pública",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do PL n. 6493/2025 (Projeto de Lei), pelo Deputado Pompeo de Mattos (PDT/RS), que \"Dispõe sobre a indenização pecuniária por tempo de serviço aos ocupantes de cargos em comissão na administração pública\".",
-        "Órgão Última Tramitação (Sigla)": "MESA",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3069962",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2598186"
-    },
-    {
-        "Sigla Tipo": "PL",
-        "Número": 6494,
-        "Ano": 2025,
-        "Ementa": "Dispõe sobre a indenização pecuniária por tempo de serviço aos servidores ocupantes de cargos em comissão da Câmara dos Deputados.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do PL n. 6494/2025 (Projeto de Lei), pelo Deputado Pompeo de Mattos (PDT/RS), que \"Dispõe sobre a indenização pecuniária por tempo de serviço aos servidores ocupantes de cargos em comissão da Câmara dos Deputados. \".",
-        "Órgão Última Tramitação (Sigla)": "MESA",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3069963",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2598187"
-    },
-    {
-        "Sigla Tipo": "RIC",
-        "Número": 8166,
-        "Ano": 2025,
-        "Ementa": "Solicitação de informações à Sra. Ministra de Estado dos Direitos Humanos e da Cidadania, Sra. Macaé Evaristo, acerca da implementação, operação, monitoramento e execução orçamentária da denominada “Plataforma do Respeito” e demais iniciativas correlatas desenvolvidas no âmbito do Ministério dos Direitos Humanos e da Cidadania, incluindo a utilização de emendas parlamentares, a base legal do programa, as classificações orçamentárias aplicadas e os critérios de vigilância digital de cidadãos e autoridades.",
-        "Situação Tramitação": "Parecer do(a) Relator(a)",
-        "Despacho": "Parecer do Relator, Dep. Altineu Côrtes (PL-RJ), pela aprovação.",
-        "Órgão Última Tramitação (Sigla)": "MESA",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3070655",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2598544"
     }
 ]
