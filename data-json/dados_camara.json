@@ -1,6 +1,17 @@
 [
     {
         "Sigla Tipo": "PL",
+        "Número": 10479,
+        "Ano": 2018,
+        "Ementa": "Regulamenta o repasse de recursos de emendas parlamentares em natureza de despesa de custeio destinado ao incremento PAB/MAC a hospitais e santas casas filantrópicas, através do Fundo Nacional de Saúde - FNS.",
+        "Situação Tramitação": "Saída de Relator(a) da Comissão - Com Parecer Apresentado",
+        "Despacho": "O Relator, Dep. Bruno Farias, deixou de ser membro da Comissão",
+        "Órgão Última Tramitação (Sigla)": "CASP",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1671404",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2179960"
+    },
+    {
+        "Sigla Tipo": "PL",
         "Número": 4,
         "Ano": 2024,
         "Ementa": "Cria cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Tribunal Superior Eleitoral e dos Tribunais Regionais Eleitorais.",
@@ -119,5 +130,60 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3062836",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2593785"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 6493,
+        "Ano": 2025,
+        "Ementa": "Dispõe sobre a indenização pecuniária por tempo de serviço aos ocupantes de cargos em comissão na administração pública",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PL n. 6493/2025 (Projeto de Lei), pelo Deputado Pompeo de Mattos (PDT/RS), que \"Dispõe sobre a indenização pecuniária por tempo de serviço aos ocupantes de cargos em comissão na administração pública\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3069962",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2598186"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 6494,
+        "Ano": 2025,
+        "Ementa": "Dispõe sobre a indenização pecuniária por tempo de serviço aos servidores ocupantes de cargos em comissão da Câmara dos Deputados.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PL n. 6494/2025 (Projeto de Lei), pelo Deputado Pompeo de Mattos (PDT/RS), que \"Dispõe sobre a indenização pecuniária por tempo de serviço aos servidores ocupantes de cargos em comissão da Câmara dos Deputados. \".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3069963",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2598187"
+    },
+    {
+        "Sigla Tipo": "RIC",
+        "Número": 8166,
+        "Ano": 2025,
+        "Ementa": "Solicitação de informações à Sra. Ministra de Estado dos Direitos Humanos e da Cidadania, Sra. Macaé Evaristo, acerca da implementação, operação, monitoramento e execução orçamentária da denominada “Plataforma do Respeito” e demais iniciativas correlatas desenvolvidas no âmbito do Ministério dos Direitos Humanos e da Cidadania, incluindo a utilização de emendas parlamentares, a base legal do programa, as classificações orçamentárias aplicadas e os critérios de vigilância digital de cidadãos e autoridades.",
+        "Situação Tramitação": "Parecer do(a) Relator(a)",
+        "Despacho": "Parecer do Relator, Dep. Altineu Côrtes (PL-RJ), pela aprovação.",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3070655",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2598544"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 191,
+        "Ano": 2026,
+        "Ementa": "Requer a retirada de assinatura da PEC 38/2025, que “Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público”.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do REQ n. 191/2026 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Coletiva Obrigatória), pelo Deputado Ismael (PSD/SC), que \"Requer a retirada de assinatura da PEC 38/2025, que “Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público”\".",
+        "Órgão Última Tramitação (Sigla)": "PLEN",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3078476",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600818"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 306,
+        "Ano": 2026,
+        "Ementa": "Institui procedimento simplificado para celebração e execução de Termos de Execução Descentralizada destinados à aplicação de emendas parlamentares em ações e serviços de saúde em territórios indígenas.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PL n. 306/2026 (Projeto de Lei), pelo Deputado Duda Ramos (MDB/RR), que \"Institui procedimento simplificado para celebração e execução de Termos de Execução Descentralizada destinados à aplicação de emendas parlamentares em ações e serviços de saúde em territórios indígenas\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3078788",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2601008"
     }
 ]
