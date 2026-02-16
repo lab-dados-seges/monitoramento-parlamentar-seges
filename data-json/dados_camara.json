@@ -22,17 +22,6 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2358824"
     },
     {
-        "Sigla Tipo": "PL",
-        "Número": 4,
-        "Ano": 2024,
-        "Ementa": "Cria cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Tribunal Superior Eleitoral e dos Tribunais Regionais Eleitorais.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Remessa ao Senado Federal por meio do Of. nº 905/2025/PS-GSE.",
-        "Órgão Última Tramitação (Sigla)": "MESA",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2383319",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2416830"
-    },
-    {
         "Sigla Tipo": "REQ",
         "Número": 218,
         "Ano": 2024,
@@ -108,5 +97,71 @@
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3050551",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2586904"
+    },
+    {
+        "Sigla Tipo": "RIC",
+        "Número": 8166,
+        "Ano": 2025,
+        "Ementa": "Solicitação de informações à Sra. Ministra de Estado dos Direitos Humanos e da Cidadania, Sra. Macaé Evaristo, acerca da implementação, operação, monitoramento e execução orçamentária da denominada “Plataforma do Respeito” e demais iniciativas correlatas desenvolvidas no âmbito do Ministério dos Direitos Humanos e da Cidadania, incluindo a utilização de emendas parlamentares, a base legal do programa, as classificações orçamentárias aplicadas e os critérios de vigilância digital de cidadãos e autoridades.",
+        "Situação Tramitação": "Publicação de Despacho",
+        "Despacho": "Publicação inicial no DCD do dia 14/02/2026",
+        "Órgão Última Tramitação (Sigla)": "PLEN",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3070655",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2598544"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 191,
+        "Ano": 2026,
+        "Ementa": "Requer a retirada de assinatura da PEC 38/2025, que “Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público”.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do REQ n. 191/2026 (Requerimento de Inclusão ou Retirada de Assinatura em Proposição de Iniciativa Coletiva Obrigatória), pelo Deputado Ismael (PSD/SC), que \"Requer a retirada de assinatura da PEC 38/2025, que “Altera normas sobre a Administração Pública brasileira para aperfeiçoar a governança e a gestão pública, promover a transformação digital, impulsionar a profissionalização e extinguir privilégios no serviço público”\".",
+        "Órgão Última Tramitação (Sigla)": "PLEN",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3078476",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2600818"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 306,
+        "Ano": 2026,
+        "Ementa": "Institui procedimento simplificado para celebração e execução de Termos de Execução Descentralizada destinados à aplicação de emendas parlamentares em ações e serviços de saúde em territórios indígenas.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PL n. 306/2026 (Projeto de Lei), pelo Deputado Duda Ramos (MDB/RR), que \"Institui procedimento simplificado para celebração e execução de Termos de Execução Descentralizada destinados à aplicação de emendas parlamentares em ações e serviços de saúde em territórios indígenas\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3078788",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2601008"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 380,
+        "Ano": 2026,
+        "Ementa": "Institui o Programa Nacional de Fomento ao Circo Itinerante e Tradicional, estabelecendo mecanismos simplificados para acesso a recursos públicos, inclusive por meio de emendas parlamentares.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PL n. 380/2026 (Projeto de Lei), pelo Deputado Capitão Augusto (PL/SP), que \"Institui o Programa Nacional de Fomento ao Circo Itinerante e Tradicional, estabelecendo mecanismos simplificados para acesso a recursos públicos, inclusive por meio de emendas parlamentares\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3079505",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2601268"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 509,
+        "Ano": 2026,
+        "Ementa": "Estatuto da Transparência das Emendas Parlamentares",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PL n. 509/2026 (Projeto de Lei), pelo Deputado Duarte Jr. (PSB/MA), que \"Estatuto da Transparência das Emendas Parlamentares\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3082357",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2602687"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 539,
+        "Ano": 2026,
+        "Ementa": "Institui o Índice Oficial de Avaliação de Entregas de Gestão Pública dos ocupantes de cargos do Poder Executivo nas três esferas federativas.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PL n. 539/2026 (Projeto de Lei), pelo Deputado Nikolas Ferreira (PL/MG), que \"Institui o Índice Oficial de Avaliação de Entregas de Gestão Pública dos ocupantes de cargos do Poder Executivo nas três esferas federativas\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3082991",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2602905"
     }
 ]
