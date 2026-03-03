@@ -103,8 +103,8 @@
         "Número": 5490,
         "Ano": 2025,
         "Ementa": "Dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Conselho Nacional de Justiça.",
-        "Situação Tramitação": "Designação de Relator(a)",
-        "Despacho": "Designado Relator, Dep. Rubens Pereira Júnior (PT-MA)",
+        "Situação Tramitação": "Encerramentos",
+        "Despacho": "Matéria não apreciada em face do encerramento da Sessão.",
         "Órgão Última Tramitação (Sigla)": "PLEN",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3034087",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2578879"
@@ -196,5 +196,27 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3082991",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2602905"
+    },
+    {
+        "Sigla Tipo": "PRLP",
+        "Número": 1,
+        "Ano": 0,
+        "Ementa": "Dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Conselho Nacional de Justiça.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PRLP n. 1 PLEN (Parecer Preliminar de Plenário), pelo Deputado Rubens Pereira Júnior (PT/MA -Fdr PT-PCdoB-PV).",
+        "Órgão Última Tramitação (Sigla)": "PLEN",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3090019",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605506"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 844,
+        "Ano": 2026,
+        "Ementa": "Institui o Programa “Cirurgia sem Espera”, para redução de filas de cirurgias eletivas no âmbito do Sistema Único de Saúde – SUS, estabelece diretrizes para a linha de cuidado integral, autoriza financiamento via emendas parlamentares, institui gatilhos automáticos de execução assistencial e dá outras providências.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PL n. 844/2026 (Projeto de Lei), pelo Deputado Rafael Prudente (MDB/DF), que \"Institui o Programa “Cirurgia sem Espera”, para redução de filas de cirurgias eletivas no âmbito do Sistema Único de Saúde – SUS, estabelece diretrizes para a linha de cuidado integral, autoriza financiamento via emendas parlamentares, institui gatilhos automáticos de execução assistencial e dá outras providências\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3090181",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605625"
     }
 ]
