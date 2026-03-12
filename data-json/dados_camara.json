@@ -59,11 +59,22 @@
         "Número": 163,
         "Ano": 2025,
         "Ementa": "Sugere ao Exmo. Ministro da Casa Civil, Senhor Rui Costa, o aprimoramento da gestão pública e o fortalecimento dos programas sociais em nosso país.",
-        "Situação Tramitação": "Recebimento de Resposta",
-        "Despacho": "Recebimento de resposta conforme Ofício nº 102/2026/INDIC_PARLAMENTAR/SEPAR/SRI/PR, de 19 de fevereiro de 2026, da Secretaria de Relações Institucionais da Presidência da República.",
+        "Situação Tramitação": "Providência Interna - Comunicação de resposta ostensiva",
+        "Despacho": "Encaminhamento de resposta por meio do sistema Infoleg",
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2854596",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483816"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 1368,
+        "Ano": 2025,
+        "Ementa": "Dispõe sobre a contratação direta do Transportador Autônomo de Carga (TAC) para prestação de serviços de transporte rodoviário de cargas à Administração Pública direta e indireta da União.",
+        "Situação Tramitação": "Aprovação do Parecer",
+        "Despacho": "Aprovado o Parecer.",
+        "Órgão Última Tramitação (Sigla)": "CVT",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2876151",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2491477"
     },
     {
         "Sigla Tipo": "REQ",
@@ -202,9 +213,9 @@
         "Número": 306,
         "Ano": 2026,
         "Ementa": "Institui procedimento simplificado para celebração e execução de Termos de Execução Descentralizada destinados à aplicação de emendas parlamentares em ações e serviços de saúde em territórios indígenas.",
-        "Situação Tramitação": "Distribuição",
-        "Despacho": "Às Comissões da Amazônia e dos Povos Originários e Tradicionais;Finanças e Tributação (Mérito e Art. 54, RICD) eConstituição e Justiça e de Cidadania (Art. 54, RICD).Proposição Sujeita à Apreciação Conclusiva pelas Comissões - Art. 24 II.Regime de Tramitação: Ordinário (Art. 151, III, RICD).",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Situação Tramitação": "Publicação de Proposição",
+        "Despacho": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 12/03/2026.",
+        "Órgão Última Tramitação (Sigla)": "CCP",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3078788",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2601008"
     },
@@ -213,9 +224,9 @@
         "Número": 380,
         "Ano": 2026,
         "Ementa": "Institui o Programa Nacional de Fomento ao Circo Itinerante e Tradicional, estabelecendo mecanismos simplificados para acesso a recursos públicos, inclusive por meio de emendas parlamentares.",
-        "Situação Tramitação": "Distribuição",
-        "Despacho": "Às Comissões deCultura;Finanças e Tributação (Mérito e Art. 54, RICD) eConstituição e Justiça e de Cidadania (Art. 54, RICD).Proposição Sujeita à Apreciação Conclusiva pelas Comissões - Art. 24 II.Regime de Tramitação: Ordinário (Art. 151, III, RICD).",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Situação Tramitação": "Publicação de Proposição",
+        "Despacho": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 12/03/2026.",
+        "Órgão Última Tramitação (Sigla)": "CCP",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3079505",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2601268"
     },
@@ -273,5 +284,16 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3094675",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607740"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 21,
+        "Ano": 2026,
+        "Ementa": "Solicita informações ao Ministro de Estado da Agricultura e Pecuária sobre a alocação de recursos públicos vinculados ao Seguro Rural e de sua eventual utilização para viabilizar pagamentos de emendas parlamentares destinadas a municípios do Estado de Mato Grosso.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do REQ n. 21/2026 (Requerimento), pelo Deputado Evair Vieira de Melo (PP/ES), que \"Solicita informações ao Ministro de Estado da Agricultura e Pecuária sobre a alocação de recursos públicos vinculados ao Seguro Rural e de sua eventual utilização para viabilizar pagamentos de emendas parlamentares destinadas a municípios do Estado de Mato Grosso\".",
+        "Órgão Última Tramitação (Sigla)": "CAPADR",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3095748",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608272"
     }
 ]
