@@ -19,15 +19,6 @@
     },
     {
         "Tipo": "PRN",
-        "Número": "00001",
-        "Ano": "2025",
-        "Ementa": "Altera disposições da Resolução n° 1, de 2006-CN, para adequar o rito de apresentação e indicação de emendas parlamentares.",
-        "Sigla Colegiado": "Não informado",
-        "Descrição Informe Legislativo": "Remetido Ofício SF nº 45, de 14/03/25, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a Mensagem SF nº 11/25, ao Excelentíssimo Senhor Presidente da República, participando a promulgação da Resolução nº 1, de 2025 - CN. Recebido no destino em 17/03/2025 às 11:56:59.\n\nRemetido Ofício SF nº 46, de 14/03/25, ao Senhor Presidente da Câmara dos Deputados encaminhando autógrafo da Resolução nº 1, de 2025 - CN.",
-        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167530"
-    },
-    {
-        "Tipo": "PRN",
         "Número": "00003",
         "Ano": "2025",
         "Ementa": "Altera disposições da Resolução nº 1, de 2006-CN, para aprimorar o rito de apresentação e de indicação de emendas parlamentares às leis orçamentárias.",
@@ -45,6 +36,15 @@
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172098"
     },
     {
+        "Tipo": "PL",
+        "Número": "04278",
+        "Ano": "2025",
+        "Ementa": "Cria cargos de Desembargador, cargos de provimento efetivo, cargos em comissão e funções comissionadas no Tribunal Regional Federal da 5ª Região; e altera a Lei nº 9.967, de 10 de maio de 2000, para modificar o número de membros desse Tribunal.",
+        "Sigla Colegiado": "CCJ",
+        "Descrição Informe Legislativo": "Matéria aguardando distribuição.",
+        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172126"
+    },
+    {
         "Tipo": "INS",
         "Número": "00124",
         "Ano": "2025",
@@ -58,8 +58,8 @@
         "Número": "05490",
         "Ano": "2025",
         "Ementa": "Dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Conselho Nacional de Justiça.",
-        "Sigla Colegiado": "PLEN",
-        "Descrição Informe Legislativo": "(Sessão Deliberativa Ordinária - semipresencial - de 18 de março de 2026) \nAprovado o Requerimento nº 192, de 2026, de líderes, que solicita urgência para a matéria com votos contrários dos Senadores Eduardo Girão, Cleitinho, Magno Malta e Oriovisto Guimarães. \nEncaminhado à publicação o Parecer nº 36, de 2026-Plen/SF, proferido pelo Senador Fernando Farias, favorável ao projeto. \nEncerrada a discussão da matéria.      \nAprovado o projeto com votos contrários dos Senadores Eduardo Girão, Cleitinho, Magno Malta e Oriovisto Guimarães. \nA matéria vai à sanção. \nSerá feita a devida comunicação à Câmara dos Deputados.",
+        "Sigla Colegiado": "Não informado",
+        "Descrição Informe Legislativo": "Recebido pela Casa Civil, em 20/03/2026 às 13:28:43, Ofício SF nº 131, de 2026, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, pelo qual se encaminhou a Mensagem SF nº 31, de 2026, ao Presidente da República, submetendo à sanção presidencial autógrafo do Projeto. Recebido no destino em 20/03/2026 às 13:28:43.",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172969"
     },
     {
@@ -67,8 +67,8 @@
         "Número": "03879",
         "Ano": "2024",
         "Ementa": "Estabelece o reajuste dos vencimentos básicos dos cargos efetivos, dos cargos em comissão e das funções comissionadas dos servidores do Ministério Público da União e do Conselho Nacional do Ministério Público; define a Polícia Institucional do Ministério Público da União como a unidade administrativa responsável pelas atividades de segurança institucional; e altera a Lei nº 13.316, de 20 de julho de 2016, para modificar a nomenclatura dos Técnicos do Ministério Público da União que exercem as funções de segurança institucional.",
-        "Sigla Colegiado": "PLEN",
-        "Descrição Informe Legislativo": "(Sessão Deliberativa Ordinária - semipresencial - de 18 de março de 2026) \nAprovado o Requerimento nº 189, de 2026, de líderes, que solicita urgência para a matéria, com votos contrários dos Senadores Cleitinho, Eduardo Girão, Magno Malta e Oriovisto Guimarães. \nEncaminhado à publicação o Parecer nº 35, de 2026-Plen/SF, proferido pela Senadora Leila Barros, favorável ao projeto. \nEncerrada a discussão da matéria.      \nAprovado o projeto, com votos contrários dos Senadores Cleitinho, Eduardo Girão e Oriovisto Guimarães. \nA matéria vai à sanção. \nSerá feita a devida comunicação à Câmara dos Deputados.",
+        "Sigla Colegiado": "Não informado",
+        "Descrição Informe Legislativo": "Recebido pela Casa Civil, em 20/03/2026 às 15:36:27, Ofício SF nº 129, de 2026, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, pelo qual se encaminhou a Mensagem SF nº 30, de 2026, ao Presidente da República, submetendo à sanção presidencial autógrafo do Projeto. Recebido no destino em 20/03/2026 às 15:36:27.",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172973"
     }
 ]
