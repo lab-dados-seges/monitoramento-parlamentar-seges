@@ -132,6 +132,28 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2483816"
     },
     {
+        "Sigla Tipo": "REQ",
+        "Número": 13,
+        "Ano": 2025,
+        "Ementa": "Solicito a convocação do Ministro de Estado da Secretaria de Comunicação Social da Presidência da República,  Sr. Sidônio Cardoso Palmeira, para prestar esclarecimentos sobre possíveis irregularidades na destinação de emendas parlamentares para custear equipamentos e a produção de conteúdos da “TV do Trabalhador”, fundação privada, no âmbito da ação orçamentária “Fortalecimento do Sistema Público de Radiodifusão e Comunicação”.",
+        "Situação Tramitação": "Arquivamento",
+        "Despacho": "Arquivada em virtude do encerramento da sessão legislativa de 2025.",
+        "Órgão Última Tramitação (Sigla)": "CFFC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2870349",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2488305"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 15,
+        "Ano": 2025,
+        "Ementa": "Requer a realização de Auditoria, com auxílio do Tribunal de Contas da União (TCU), com objetivo de apurar possíveis irregularidades na destinação de emendas parlamentares para convênios entre a Empresa Brasil de Comunicação (EBC) e a TV do Trabalhador (TVT).",
+        "Situação Tramitação": "Arquivamento",
+        "Despacho": "Arquivada em virtude do encerramento da sessão legislativa de 2025.",
+        "Órgão Última Tramitação (Sigla)": "CFFC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2870356",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2488310"
+    },
+    {
         "Sigla Tipo": "PL",
         "Número": 1368,
         "Ano": 2025,
@@ -163,6 +185,17 @@
         "Órgão Última Tramitação (Sigla)": "CSPCCO",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2913666",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2513437"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 107,
+        "Ano": 2025,
+        "Ementa": "Requer a realização de auditoria operacional, com o auxílio do Tribunal de Contas da União (TCU), com o objetivo de apurar o possível descumprimento das boas práticas regulatórias, a ausência de transparência, a ineficácia e inefetividade na gestão pública, bem como o descumprimento dos prazos legais na avaliação dos processos de registro de defensivos agrícolas pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA)",
+        "Situação Tramitação": "Arquivamento",
+        "Despacho": "Arquivada",
+        "Órgão Última Tramitação (Sigla)": "CAPADR",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2929093",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2521226"
     },
     {
         "Sigla Tipo": "REQ",
@@ -345,8 +378,8 @@
         "Número": 844,
         "Ano": 2026,
         "Ementa": "Institui o Programa “Cirurgia sem Espera”, para redução de filas de cirurgias eletivas no âmbito do Sistema Único de Saúde – SUS, estabelece diretrizes para a linha de cuidado integral, autoriza financiamento via emendas parlamentares, institui gatilhos automáticos de execução assistencial e dá outras providências.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do PL n. 844/2026 (Projeto de Lei), pelo Deputado Rafael Prudente (MDB/DF), que \"Institui o Programa “Cirurgia sem Espera”, para redução de filas de cirurgias eletivas no âmbito do Sistema Único de Saúde – SUS, estabelece diretrizes para a linha de cuidado integral, autoriza financiamento via emendas parlamentares, institui gatilhos automáticos de execução assistencial e dá outras providências\".",
+        "Situação Tramitação": "Distribuição",
+        "Despacho": "Às Comissões deSaúde;Finanças e Tributação (Mérito e Art. 54, RICD) eConstituição e Justiça e de Cidadania (Art. 54, RICD).Proposição Sujeita à Apreciação Conclusiva pelas Comissões - Art. 24 II.Regime de Tramitação: Ordinário (Art. 151, III, RICD).",
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3090181",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605625"
