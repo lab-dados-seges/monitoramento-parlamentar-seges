@@ -100,17 +100,6 @@
     },
     {
         "Sigla Tipo": "PL",
-        "Número": 2225,
-        "Ano": 2023,
-        "Ementa": "Altera a Lei nº 13.303, de 30 de junho de 2016 para estender a adesão ao Sistema de Registro de Preços a órgãos da Administração Direta e a Lei nº 14.133, de 1º de abril de 2021.",
-        "Situação Tramitação": "Saída de Relator(a) da Comissão - Sem Parecer Apresentado",
-        "Despacho": "(Instalação da Comissão) O Relator, Dep. Zé Haroldo Cathedral, não integrava a Comissão na data da instalação (deixou de ser membro em 31/01/2026)",
-        "Órgão Última Tramitação (Sigla)": "CCJC",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2265026",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2358824"
-    },
-    {
-        "Sigla Tipo": "PL",
         "Número": 4,
         "Ano": 2024,
         "Ementa": "Cria cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Tribunal Superior Eleitoral e dos Tribunais Regionais Eleitorais.",
@@ -207,71 +196,5 @@
         "Órgão Última Tramitação (Sigla)": "CFFC",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2917365",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2516037"
-    },
-    {
-        "Sigla Tipo": "REQ",
-        "Número": 107,
-        "Ano": 2025,
-        "Ementa": "Requer a realização de auditoria operacional, com o auxílio do Tribunal de Contas da União (TCU), com o objetivo de apurar o possível descumprimento das boas práticas regulatórias, a ausência de transparência, a ineficácia e inefetividade na gestão pública, bem como o descumprimento dos prazos legais na avaliação dos processos de registro de defensivos agrícolas pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA)",
-        "Situação Tramitação": "Arquivamento",
-        "Despacho": "Arquivada",
-        "Órgão Última Tramitação (Sigla)": "CAPADR",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2929093",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2521226"
-    },
-    {
-        "Sigla Tipo": "REQ",
-        "Número": 337,
-        "Ano": 2025,
-        "Ementa": "Requer informações ao Ministro de Estado da Fazenda, Fernando Haddad,  por meio do envio a esta CFFC de  cópias digitais de estudos, pareceres, diagnósticos e outros instrumentos congêneres exarados recentemente pelas secretarias de referida pasta ministerial em relação à temática: emendas Parlamentares - transparência e eficiência na aplicação de recursos provenientes de emendas individuais e de relator.",
-        "Situação Tramitação": "Arquivamento",
-        "Despacho": "Arquivada por cumprimento do objeto.",
-        "Órgão Última Tramitação (Sigla)": "CFFC",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2971748",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2543185"
-    },
-    {
-        "Sigla Tipo": "SLD",
-        "Número": 11,
-        "Ano": 2025,
-        "Ementa": "Texto - Corpo da Lei, Cap IV, Seção X, Subseção II, Art 80 - Destinação de emendas parlamentares ao pagamento do programa Produção SUS, vinculado à CEF.",
-        "Situação Tramitação": "Arquivamento",
-        "Despacho": "Arquivada.",
-        "Órgão Última Tramitação (Sigla)": "CSAUDE",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2978971",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2548904"
-    },
-    {
-        "Sigla Tipo": "REQ",
-        "Número": 237,
-        "Ano": 2025,
-        "Ementa": "Requer a convocação da Ministra-Chefe da Secretaria de Relações Institucionais da Presidência da República, Sra. Gleisi Hoffmann, para prestar, pessoalmente, esclarecimentos acerca da morosidade na execução das emendas parlamentares do exercício de 2025,",
-        "Situação Tramitação": "Arquivamento",
-        "Despacho": "Arquivado por Ato do Presidente.",
-        "Órgão Última Tramitação (Sigla)": "CSAUDE",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2996687",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2559393"
-    },
-    {
-        "Sigla Tipo": "RIC",
-        "Número": 7142,
-        "Ano": 2025,
-        "Ementa": "Requer informação, ao Ministério das Comunicações, para que disponibilize a essa Câmara dos Deputados a lista de ocupantes de cargos em comissão ou funções de confiança (nos níveis equivalentes a DAS 5 e 6), da Empresa Brasileira de Correios e Telégrafos (ECT) – “Correios”, se é servidor público ou não, seus respectivos currículos (curriculum vitae) e, caso seja, a qual partido político é filiado",
-        "Situação Tramitação": "Providência Interna - Comunicação de resposta ostensiva",
-        "Despacho": "Encaminhamento de resposta por meio do sistema Infoleg",
-        "Órgão Última Tramitação (Sigla)": "1SECM",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3033857",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2578733"
-    },
-    {
-        "Sigla Tipo": "PL",
-        "Número": 5490,
-        "Ano": 2025,
-        "Ementa": "Dispõe sobre a criação de cargos efetivos, cargos em comissão e funções comissionadas no Quadro de Pessoal do Conselho Nacional de Justiça.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do DOC n. 375/2026 (Ofício do Senado Federal), pelo Senado Federal, que \"OFSF 206/2026, que comunica a restituição do Projeto de Lei 5490/2025 sancionado\".",
-        "Órgão Última Tramitação (Sigla)": "MESA",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3034087",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2578879"
     }
 ]
