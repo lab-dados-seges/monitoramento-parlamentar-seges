@@ -27,6 +27,15 @@
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161864"
     },
     {
+        "Tipo": "PLP",
+        "Número": "00018",
+        "Ano": "2021",
+        "Ementa": "Altera a Lei Complementar nº 141, de 13 de janeiro de 2012, para permitir que o serviço de atendimento pré-hospitalar dos corpos de bombeiros militares dos Estados e do Distrito Federal perceba emendas parlamentares destinadas às ações e serviços públicos de saúde.",
+        "Sigla Colegiado": "PLEN",
+        "Descrição Informe Legislativo": "A matéria vai à Comissão de Assuntos Sociais, seguindo posteriormente à Comissão de Assuntos Econômicos.",
+        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171683"
+    },
+    {
         "Tipo": "PL",
         "Número": "00004",
         "Ano": "2024",
@@ -40,8 +49,8 @@
         "Número": "04278",
         "Ano": "2025",
         "Ementa": "Cria cargos de Desembargador, cargos de provimento efetivo, cargos em comissão e funções comissionadas no Tribunal Regional Federal da 5ª Região; e altera a Lei nº 9.967, de 10 de maio de 2000, para modificar o número de membros desse Tribunal.",
-        "Sigla Colegiado": "Não informado",
-        "Descrição Informe Legislativo": "(PR) PRESIDÊNCIA DA REPÚBLICA.\nSANCIONADA. LEI 15393 DE 2026.\nDOU (Diário Oficial da União) - 17/04/2026 - Seção I - págs. 4 e 4.\nSancionada em 16/04/2026.",
+        "Sigla Colegiado": "PLEN",
+        "Descrição Informe Legislativo": "Encaminhado à publicação a Mensagem da Presidência da República Nº 315, de 2026, na origem, que restitui autógrafo do Projeto de Lei nº 4.278, de 2025, sancionado e convertido na Lei nº 15.393, de 16 de abril de 2026.  \nSerá feita a devida comunicação à Câmara dos Deputados.",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/172126"
     },
     {
