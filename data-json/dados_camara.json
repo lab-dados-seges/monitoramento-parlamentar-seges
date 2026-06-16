@@ -89,17 +89,6 @@
     },
     {
         "Sigla Tipo": "PL",
-        "Número": 306,
-        "Ano": 2026,
-        "Ementa": "Institui procedimento simplificado para celebração e execução de Termos de Execução Descentralizada destinados à aplicação de emendas parlamentares em ações e serviços de saúde em territórios indígenas.",
-        "Situação Tramitação": "Encerramento de Prazo",
-        "Despacho": "Encerrado o prazo de 5 sessões para apresentação de emendas ao projeto (de 31/03/2026 a 15/04/2026). Não foram apresentadas emendas.",
-        "Órgão Última Tramitação (Sigla)": "CPOVOS",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3078788",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2601008"
-    },
-    {
-        "Sigla Tipo": "PL",
         "Número": 380,
         "Ano": 2026,
         "Ementa": "Institui o Programa Nacional de Fomento ao Circo Itinerante e Tradicional, estabelecendo mecanismos simplificados para acesso a recursos públicos, inclusive por meio de emendas parlamentares.",
@@ -251,16 +240,5 @@
         "Órgão Última Tramitação (Sigla)": "PLEN",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3137117",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627870"
-    },
-    {
-        "Sigla Tipo": "PRL",
-        "Número": 1,
-        "Ano": 0,
-        "Ementa": "Dispõe sobre a criação de cargos de Juiz do Trabalho, Cargos em Comissão e Funções Comissionadas na jurisdição do Tribunal Regional do Trabalho da 4ª Região e dá outras providência.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do PRL n. 1 CCJC (Parecer do Relator), pelo Deputado Afonso Motta (PDT/RS).",
-        "Órgão Última Tramitação (Sigla)": "CCJC",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3142114",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630051"
     }
 ]
