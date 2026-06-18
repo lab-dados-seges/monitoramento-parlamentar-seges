@@ -1,5 +1,14 @@
 [
     {
+        "Tipo": "PL",
+        "Número": "01045",
+        "Ano": "2020",
+        "Ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal –, para prever a aplicação da causa de aumento de pena de que trata o § 2º do art. 327 ao ocupante de cargo em comissão ou de funções de confiança em todos os órgãos da administração pública direta ou indireta, além de em empresas prestadoras de serviço contratadas ou conveniadas para a execução de atividade típica da Administração Pública.",
+        "Sigla Colegiado": "CTFC",
+        "Descrição Informe Legislativo": "A Secretaria-Geral da Mesa procedeu a reconstituição do presente processado, de forma eletrônica, para fins de regularização, em virtude da não localização do processado físico, considerando, no que couber, o disposto no art. 267 do Regimento Interno.",
+        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/141244"
+    },
+    {
         "Tipo": "PLP",
         "Número": "00159",
         "Ano": "2022",
@@ -7,6 +16,15 @@
         "Sigla Colegiado": "CAS",
         "Descrição Informe Legislativo": "Devolvido pelo Senador Sérgio Petecão, para redistribuição.",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/155487"
+    },
+    {
+        "Tipo": "VET",
+        "Número": "00046",
+        "Ano": "2023",
+        "Ementa": "Veto Parcial aposto ao Projeto de Lei nº 3.954, de 2023, que \"Altera a Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos), para determinar o modo de disputa fechado nas licitações de obras e serviços que especifica, facultar a adesão de Município a ata de registro de preços licitada por outro ente do mesmo nível federativo, dispor sobre a execução e liquidação do objeto remanescente de contrato administrativo rescindido, permitir a prestação de garantia na forma de título de capitalização e promover a gestão e a aplicação eficientes dos recursos oriundos de convênios e contratos de repasse\".",
+        "Sigla Colegiado": "Mesa",
+        "Descrição Informe Legislativo": "Incluído na Ordem do Dia da Sessão Conjunta do Congresso Nacional, convocada para quinta-feira, 18 de junho de 2026, às 10h, no Plenário da Câmara dos Deputados.",
+        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161825"
     },
     {
         "Tipo": "PL",
@@ -22,8 +40,8 @@
         "Número": "00018",
         "Ano": "2021",
         "Ementa": "Altera a Lei Complementar nº 141, de 13 de janeiro de 2012, para permitir que o serviço de atendimento pré-hospitalar dos corpos de bombeiros militares dos Estados e do Distrito Federal perceba emendas parlamentares destinadas às ações e serviços públicos de saúde.",
-        "Sigla Colegiado": "CAS",
-        "Descrição Informe Legislativo": "Matéria constante da Pauta da 36ª Reunião da Comissão de Assuntos Sociais, agendada para o dia 17/06/2026.",
+        "Sigla Colegiado": "CAE",
+        "Descrição Informe Legislativo": "Matéria aguardando distribuição.",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171683"
     },
     {
@@ -79,5 +97,14 @@
         "Sigla Colegiado": "PLEN",
         "Descrição Informe Legislativo": "Autuado o Projeto de Lei Complementar nº 142/2026. O projeto vai à publicação.",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174195"
+    },
+    {
+        "Tipo": "REQ",
+        "Número": "00074",
+        "Ano": "2026",
+        "Ementa": "Requer, nos termos dos arts. 336, II, e 338, IV, do Regimento Interno do Senado Federal, urgência para o PLP 18/2021, que “altera a Lei Complementar nº 141, de 13 de janeiro de 2012, para permitir que o serviço de atendimento pré-hospitalar dos corpos de bombeiros militares dos Estados e do Distrito Federal perceba emendas parlamentares destinadas às ações e serviços públicos de saúde”.",
+        "Sigla Colegiado": "PLEN",
+        "Descrição Informe Legislativo": "Aguardando inclusão em Ordem do Dia do Requerimento nº 74, de 2026, da Comissão de Assuntos Sociais, que solicita urgência para a matéria, nos termos dos arts. 336, II, e 338, IV, do Regimento Interno do Senado Federal. \nVotação, em turno único.",
+        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174684"
     }
 ]
