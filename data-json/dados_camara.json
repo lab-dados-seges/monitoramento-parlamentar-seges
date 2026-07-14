@@ -4,8 +4,8 @@
         "Número": 7923,
         "Ano": 2014,
         "Ementa": "Dispõe sobre a criação de cargos em comissão e de funções de confiança no quadro de pessoal da Defensória Pública da União.",
-        "Situação Tramitação": "Abertura de Prazo",
-        "Despacho": "Prazo para apresentação de recurso, nos termos do § 1º do art. 58 combinado com o § 2º do art. 132 do RICD (5 sessões a partir de 19/06/2026).",
+        "Situação Tramitação": "Encerramento de Prazo",
+        "Despacho": "Encerramento automático do Prazo de Recurso 08/07/2026 19:12:00. Não foram apresentados recursos.",
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1275774",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=622071"
@@ -132,50 +132,6 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615911"
     },
     {
-        "Sigla Tipo": "EMC-A",
-        "Número": 1,
-        "Ano": 0,
-        "Ementa": "Dispõe sobre a criação de cargos de Juiz do Trabalho, Cargos em Comissão e Funções Comissionadas na jurisdição do Tribunal Regional do Trabalho da 4ª Região e dá outras providências.”",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação da EMC-A n. 1 CFT (Emenda Adotada pela Comissão), pelo Comissão de Finanças e Tributação.",
-        "Órgão Última Tramitação (Sigla)": "CFT",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3126733",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623381"
-    },
-    {
-        "Sigla Tipo": "EMC-A",
-        "Número": 2,
-        "Ano": 0,
-        "Ementa": "Dispõe sobre a criação de cargos de Juiz do Trabalho, Cargos em Comissão e Funções Comissionadas na jurisdição do Tribunal Regional do Trabalho da 4ª Região e dá outras providências.”",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação da EMC-A n. 2 CFT (Emenda Adotada pela Comissão), pelo Comissão de Finanças e Tributação.",
-        "Órgão Última Tramitação (Sigla)": "CFT",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3126734",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623382"
-    },
-    {
-        "Sigla Tipo": "EMC-A",
-        "Número": 3,
-        "Ano": 0,
-        "Ementa": "Dispõe sobre a criação de cargos de Juiz do Trabalho, Cargos em Comissão e Funções Comissionadas na jurisdição do Tribunal Regional do Trabalho da 4ª Região e dá outras providências.”",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação da EMC-A n. 3 CFT (Emenda Adotada pela Comissão), pelo Comissão de Finanças e Tributação.",
-        "Órgão Última Tramitação (Sigla)": "CFT",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3126735",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623383"
-    },
-    {
-        "Sigla Tipo": "EMC-A",
-        "Número": 4,
-        "Ano": 0,
-        "Ementa": "Dispõe sobre a criação de cargos de Juiz do Trabalho, Cargos em Comissão e Funções Comissionadas na jurisdição do Tribunal Regional do Trabalho da 4ª Região e dá outras providências.”",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação da EMC-A n. 4 CFT (Emenda Adotada pela Comissão), pelo Comissão de Finanças e Tributação.",
-        "Órgão Última Tramitação (Sigla)": "CFT",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3126736",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623384"
-    },
-    {
         "Sigla Tipo": "EMC",
         "Número": 1,
         "Ano": 2026,
@@ -235,9 +191,9 @@
         "Número": 1099,
         "Ano": 2026,
         "Ementa": "Sugere ao Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, em articulação com o Conselho Nacional de Assistência Social, a adoção de providências para permitir o acesso de entidades de assessoramento e de defesa e garantia de direitos a recursos de emendas parlamentares destinadas à assistência social.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação da INC n. 1099/2026 (Indicação ), pelo Deputado Alex Manente (CIDADANIA/SP -Fdr PSDB-CIDADANIA), que \"Sugere ao Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, em articulação com o Conselho Nacional de Assistência Social, a adoção de providências para permitir o acesso de entidades de assessoramento e de defesa e garantia de direitos a recursos de emendas parlamentares destinadas à assistência social\".",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Situação Tramitação": "Publicação de Proposição",
+        "Despacho": "Encaminhada à publicação. Publicação Inicial no DCD de 11/07/2026.",
+        "Órgão Última Tramitação (Sigla)": "CCP",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3151353",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634671"
     },
@@ -262,5 +218,16 @@
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3158145",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637742"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 3625,
+        "Ano": 2026,
+        "Ementa": "Institui o Programa Nacional de Democratização do Acesso à Energia Solar (PRODSOL); cria a Linha de Crédito Solar com mecanismo de amortização vinculado à própria conta de energia; altera a Lei n.º 14.300, de 6 de janeiro de 2022, para prever a conta-garantia solar e a homologação simplificada de sistemas fotovoltaicos; altera a Lei n.º 8.036, de 11 de maio de 1990, para autorizar o uso do FGTS na instalação de sistemas de geração solar; institui os Condomínios Solares Comunitários; cria ação orçamentária específica apta a receber emendas parlamentares individuais, de bancada e de comissão; e dá outras providências.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do PL n. 3625/2026 (Projeto de Lei), pelo Deputado Roberto Duarte (REPUBLIC/AC), que \"Institui o Programa Nacional de Democratização do Acesso à Energia Solar (PRODSOL); cria a Linha de Crédito Solar com mecanismo de amortização vinculado à própria conta de energia; altera a Lei n.º 14.300, de 6 de janeiro de 2022, para prever a conta-garantia solar e a homologação simplificada de sistemas fotovoltaicos; altera a Lei n.º 8.036, de 11 de maio de 1990, para autorizar o uso do FGTS na instalação de sistemas de geração solar; institui os Condomínios Solares Comunitários; cria ação orçamentária específica apta a receber emendas parlamentares individuais, de bancada e de comissão; e dá outras providências\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3160205",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638660"
     }
 ]
