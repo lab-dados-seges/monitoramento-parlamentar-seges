@@ -9,6 +9,24 @@
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/141244"
     },
     {
+        "Tipo": "PDL",
+        "Número": "00009",
+        "Ano": "2023",
+        "Ementa": "Susta os efeitos do Artigo 47, II, do Decreto 11.328/23 do Governo Federal, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Advocacia Geral da União e remaneja cargos em comissão e funções de confiança.",
+        "Sigla Colegiado": "PLEN",
+        "Descrição Informe Legislativo": "Recebido requerimento do Senador Sergio Moro de adição de assinatura à matéria.",
+        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/155750"
+    },
+    {
+        "Tipo": "PLP",
+        "Número": "00166",
+        "Ano": "2023",
+        "Ementa": "Altera a Lei de Responsabilidade Fiscal (Lei Complementar nº 101, de 4 de maio de 2000), para determinar que 10% (dez por cento) dos recursos das emendas parlamentares individuais sejam destinados a finalização de obras paralisadas em seus respectivos estados.",
+        "Sigla Colegiado": "CCJ",
+        "Descrição Informe Legislativo": "Matéria aguardando distribuição.",
+        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/158937"
+    },
+    {
         "Tipo": "PRS",
         "Número": "00096",
         "Ano": "2023",
@@ -41,7 +59,7 @@
         "Ano": "2021",
         "Ementa": "Altera a Lei Complementar nº 141, de 13 de janeiro de 2012, para permitir que o serviço de atendimento pré-hospitalar dos corpos de bombeiros militares dos Estados e do Distrito Federal perceba emendas parlamentares destinadas às ações e serviços públicos de saúde.",
         "Sigla Colegiado": "PLEN",
-        "Descrição Informe Legislativo": "Incluído em Ordem do Dia da Sessão Deliberativa Ordinária Semipresencial de 15/07/2026.\n(Pendente de deliberação do Requerimento nº 74, de 2026, da Comissão de Assuntos Sociais, que solicita urgência para a matéria, nos termos dos arts. 336, II, e 338, IV, do Regimento Interno do Senado Federal).",
+        "Descrição Informe Legislativo": "Recebidas as Emendas nºs 3 e 4, da Senadora Teresa Leitão.",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171683"
     },
     {
