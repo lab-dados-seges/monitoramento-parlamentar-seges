@@ -70,9 +70,9 @@
         "Número": 306,
         "Ano": 2026,
         "Ementa": "Institui procedimento simplificado para celebração e execução de Termos de Execução Descentralizada destinados à aplicação de emendas parlamentares em ações e serviços de saúde em territórios indígenas.",
-        "Situação Tramitação": "Aprovação do Parecer",
-        "Despacho": "Aprovado o Parecer.",
-        "Órgão Última Tramitação (Sigla)": "CPOVOS",
+        "Situação Tramitação": "Recebimento",
+        "Despacho": "Recebimento pelo(a) CFT.",
+        "Órgão Última Tramitação (Sigla)": "CFT",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3078788",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2601008"
     },
@@ -119,17 +119,6 @@
         "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3137117",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627870"
-    },
-    {
-        "Sigla Tipo": "PL",
-        "Número": 3154,
-        "Ano": 2026,
-        "Ementa": "Estabelece a obrigatoriedade de rastreabilidade integral, transparência ativa e vedação à movimentação de recursos públicos em espécie no âmbito das transferências decorrentes de emendas parlamentares e instrumentos congêneres, dispõe sobre mecanismos de controle financeiro digital, altera a Lei nº 4.320, de 17 de março de 1964, e a Lei Complementar nº 101, de 4 de maio de 2000, e dá outras providências.",
-        "Situação Tramitação": "Apresentação de Proposição",
-        "Despacho": "Apresentação do PL n. 3154/2026 (Projeto de Lei), pelo Deputado Marcos Tavares (PDT/RJ), que \"Estabelece a obrigatoriedade de rastreabilidade integral, transparência ativa e vedação à movimentação de recursos públicos em espécie no âmbito das transferências decorrentes de emendas parlamentares e instrumentos congêneres, dispõe sobre mecanismos de controle financeiro digital, altera a Lei nº 4.320, de 17 de março de 1964, e a Lei Complementar nº 101, de 4 de maio de 2000, e dá outras providências\".",
-        "Órgão Última Tramitação (Sigla)": "MESA",
-        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3148033",
-        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632899"
     },
     {
         "Sigla Tipo": "INC",
@@ -279,9 +268,9 @@
         "Número": 2230,
         "Ano": 2026,
         "Ementa": "Solicita informações ao Senhor Ministro do Desenvolvimento Agrário e Agricultura Familiar, acerca dos critérios adotados pela Companhia Nacional de Abastecimento – CONAB na execução de recursos destinados ao Programa de Aquisição de Alimentos (PAA), especialmente quanto à seleção de organizações fornecedoras, à execução de emendas parlamentares e aos procedimentos administrativos relacionados às aquisições interestaduais de alimentos.",
-        "Situação Tramitação": "Recebimento",
-        "Despacho": "Recebimento pela 1VIPR.",
-        "Órgão Última Tramitação (Sigla)": "1VIPR",
+        "Situação Tramitação": "Parecer do(a) Relator(a)",
+        "Despacho": "Parecer do Relator, Dep. Altineu Côrtes (PL-RJ), pela aprovação.",
+        "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165357",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641431"
     },
