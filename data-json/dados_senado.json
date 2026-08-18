@@ -4,9 +4,18 @@
         "Número": "00018",
         "Ano": "2021",
         "Ementa": "Altera a Lei Complementar nº 141, de 13 de janeiro de 2012, para permitir que o serviço de atendimento pré-hospitalar dos corpos de bombeiros militares dos Estados e do Distrito Federal perceba emendas parlamentares destinadas às ações e serviços públicos de saúde.",
-        "Sigla Colegiado": "Não informado",
-        "Descrição Informe Legislativo": "(PR) PRESIDÊNCIA DA REPÚBLICA.\nSANCIONADA. LEI COMPLEMENTAR 234 DE 2026.\nDOU (Diário Oficial da União) - 07/08/2026 - Seção I - págs. 2 e 2.\nSancionada em 06/08/2026.",
+        "Sigla Colegiado": "PLEN",
+        "Descrição Informe Legislativo": "Encaminhada à publicação a Mensagem da Presidência da República nº 679, de 2026, na origem, que restitui o autógrafo do Projeto de Lei Complementar nº 18, de 2021, sancionado e convertido na Lei nº Complementar nº 234, de 6 de agosto de 2026. \nSerá feita a devida comunicação à Câmara dos Deputados.",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171683"
+    },
+    {
+        "Tipo": "VET",
+        "Número": "00017",
+        "Ano": "2026",
+        "Ementa": "Veto parcial aposto ao Projeto de Lei nº 3.879, de 2024, que \"Estabelece o reajuste dos vencimentos básicos dos cargos efetivos, dos cargos em comissão e das funções comissionadas dos servidores do Ministério Público da União e do Conselho Nacional do Ministério Público; define a Polícia Institucional do Ministério Público da União como a unidade administrativa responsável pelas atividades de segurança institucional; e altera a Lei nº 13.316, de 20 de julho de 2016, para modificar a nomenclatura dos Técnicos do Ministério Público da União que exercem as funções de segurança institucional\".",
+        "Sigla Colegiado": "Não informado",
+        "Descrição Informe Legislativo": "A matéria passa a sobrestar, a partir desta data, a pauta das sessões conjuntas do Congresso Nacional e será incluída na Ordem do Dia da sessão imediata nos termos do § 6º do art. 66 da Constituição Federal.",
+        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/173477"
     },
     {
         "Tipo": "REQ",
