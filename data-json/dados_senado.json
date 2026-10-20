@@ -1,5 +1,14 @@
 [
     {
+        "Tipo": "PRN",
+        "Número": "00001",
+        "Ano": "2025",
+        "Ementa": "Altera disposições da Resolução n° 1, de 2006-CN, para adequar o rito de apresentação e indicação de emendas parlamentares.",
+        "Sigla Colegiado": "Não informado",
+        "Descrição Informe Legislativo": "A matéria vai ao arquivo.",
+        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167530"
+    },
+    {
         "Tipo": "PLP",
         "Número": "00018",
         "Ano": "2021",
