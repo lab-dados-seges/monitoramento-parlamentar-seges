@@ -4,11 +4,22 @@
         "Número": 7923,
         "Ano": 2014,
         "Ementa": "Dispõe sobre a criação de cargos em comissão e de funções de confiança no quadro de pessoal da Defensória Pública da União.",
-        "Situação Tramitação": "Aprovação da Redação Final",
-        "Despacho": "Aprovada a Redação Final.",
-        "Órgão Última Tramitação (Sigla)": "CCJC",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Remessa ao Senado Federal por meio do Of. nº  702/2026/PS-GSE",
+        "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1275774",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=622071"
+    },
+    {
+        "Sigla Tipo": "REQ",
+        "Número": 218,
+        "Ano": 2024,
+        "Ementa": "Solicita informações ao Tribunal de Contas da União sobre a autorização do Governo Lula para que sindicatos utilizem recursos do Fundo de Amparo ao Trabalhador (FAT) e de emendas parlamentares.",
+        "Situação Tramitação": "Notificações",
+        "Despacho": "Aviso nº 1005-GP/TCU, de 14 de outubro de 2026, que encaminha, para conhecimento, cópia do Acórdão nº 2.769/2026, de relatoria do Ministro Benjamin Zymler, proferido pelo Plenário do Tribunal de Contas da União na sessão ordinária de 7/10/2026, no âmbito do TC-028.516/2024-9, referente a pedido de reexame interposto pela Secretaria-Executiva do Ministério do Trabalho e Emprego contra o Acórdão nº 2.454/2025-TCU-Plenário, em processo que trata de Solicitação do Congresso Nacional encaminhada pela Comissão de Fiscalização Financeira e Controle da Câmara dos Deputados, por meio do Ofício nº 143/2024/CFFC-P, relativa ao Requerimento nº 218/2024-CFFC, de autoria do Deputado Federal Evair Vieira de Melo.",
+        "Órgão Última Tramitação (Sigla)": "CFFC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2473726",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2457184"
     },
     {
         "Sigla Tipo": "SLD",
