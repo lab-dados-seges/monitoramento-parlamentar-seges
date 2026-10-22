@@ -1,5 +1,14 @@
 [
     {
+        "Tipo": "VET",
+        "Número": "00046",
+        "Ano": "2023",
+        "Ementa": "Veto Parcial aposto ao Projeto de Lei nº 3.954, de 2023, que \"Altera a Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos), para determinar o modo de disputa fechado nas licitações de obras e serviços que especifica, facultar a adesão de Município a ata de registro de preços licitada por outro ente do mesmo nível federativo, dispor sobre a execução e liquidação do objeto remanescente de contrato administrativo rescindido, permitir a prestação de garantia na forma de título de capitalização e promover a gestão e a aplicação eficientes dos recursos oriundos de convênios e contratos de repasse\".",
+        "Sigla Colegiado": "Mesa",
+        "Descrição Informe Legislativo": "Matéria retirada de pauta em virtude do cancelamento da sessão.",
+        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/161825"
+    },
+    {
         "Tipo": "PRN",
         "Número": "00001",
         "Ano": "2025",
@@ -10,29 +19,20 @@
     },
     {
         "Tipo": "PLP",
-        "Número": "00018",
-        "Ano": "2021",
-        "Ementa": "Altera a Lei Complementar nº 141, de 13 de janeiro de 2012, para permitir que o serviço de atendimento pré-hospitalar dos corpos de bombeiros militares dos Estados e do Distrito Federal perceba emendas parlamentares destinadas às ações e serviços públicos de saúde.",
-        "Sigla Colegiado": "Não informado",
-        "Descrição Informe Legislativo": "Remetido Ofício SF nº 1112, de 2026, ao Primeiro-Secretário da Câmara dos Deputados comunicando, para os devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 679, de 2026, na origem, restituindo autógrafos do Projeto de Lei Complementar n°18, de 2021, sancionado e transformado na Lei Complementar nº 234, de 6 de agosto de 2026.\nÀ COARQ.",
-        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171683"
-    },
-    {
-        "Tipo": "PLP",
         "Número": "00252",
         "Ano": "2025",
         "Ementa": "Dispõe sobre a utilização dos recursos das emendas parlamentares individuais do tipo transferências especiais, previstas no art. 166-A da Constituição Federal, e dá outras providências.",
-        "Sigla Colegiado": "CAE",
-        "Descrição Informe Legislativo": "Matéria aguardando distribuição.",
+        "Sigla Colegiado": "Não informado",
+        "Descrição Informe Legislativo": "Não informado",
         "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/171930"
     },
     {
-        "Tipo": "PLP",
-        "Número": "00142",
+        "Tipo": "PL",
+        "Número": "05629",
         "Ano": "2026",
-        "Ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, que dispõe sobre a proposição e a execução de emendas parlamentares na lei orçamentária anual, para destinar percentual de recursos da saúde para a prevenção e o tratamento do câncer.",
+        "Ementa": "Cria cargos em comissão no quadro permanente de pessoal da Defensoria Pública da União.",
         "Sigla Colegiado": "PLEN",
-        "Descrição Informe Legislativo": "Autuado o Projeto de Lei Complementar nº 142/2026. O projeto vai à publicação.",
-        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/174195"
+        "Descrição Informe Legislativo": "Autuado o Projeto de Lei nº 5629/2026, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
+        "Link para Tramitação": "https://www25.senado.leg.br/web/atividade/materias/-/materia/176016"
     }
 ]
