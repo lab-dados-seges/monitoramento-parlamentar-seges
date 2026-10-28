@@ -11,6 +11,17 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=622071"
     },
     {
+        "Sigla Tipo": "PL",
+        "Número": 1213,
+        "Ano": 2015,
+        "Ementa": "Altera as Leis nº 8.666, de 21 de junho de 1993  e nº 8.987, de 13 de fevereiro de 1995, para estabelecer a obrigatoriedade do Projeto Executivo antes do início de obras públicas .",
+        "Situação Tramitação": "Notificação de Apensação",
+        "Despacho": "Apensação da proposição PL 3566/2026 à proposição PL 1696/2024.",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1323272",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=1214920"
+    },
+    {
         "Sigla Tipo": "REQ",
         "Número": 218,
         "Ano": 2024,
@@ -88,6 +99,39 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639853"
     },
     {
+        "Sigla Tipo": "PL",
+        "Número": 4331,
+        "Ano": 2026,
+        "Ementa": "Institui o Sistema Federal de Excelência da Administração Pública – SFEAP, estabelece princípios, diretrizes e instrumentos para a promoção da excelência na gestão pública, da inovação, da cooperação institucional e da melhoria contínua da Administração Pública federal, e dá outras providências.",
+        "Situação Tramitação": "Notificação de Apensação",
+        "Despacho": "Apense-se a este o PL 4351/2026",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164783",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641015"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 4332,
+        "Ano": 2026,
+        "Ementa": "Institui a Política de Melhoria Contínua da Administração Pública Federal, estabelece mecanismos permanentes de aperfeiçoamento da gestão pública e dá outras providências.",
+        "Situação Tramitação": "Despacho de Apensação",
+        "Despacho": "Apense-se ao PL 4331/2026.Proposição Sujeita à Apreciação Conclusiva pelas Comissões - Art. 24 II.Regime de Tramitação: Ordinário (Art. 151, III, RICD).",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164784",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641016"
+    },
+    {
+        "Sigla Tipo": "PL",
+        "Número": 4351,
+        "Ano": 2026,
+        "Ementa": "Institui a Política Nacional de Excelência da Administração Pública Federal, estabelece princípios, diretrizes, objetivos e instrumentos destinados ao aperfeiçoamento permanente da gestão pública no âmbito dos Poderes Executivo, Legislativo e Judiciário da União e dá outras providências.",
+        "Situação Tramitação": "Despacho de Apensação",
+        "Despacho": "Apense-se à(ao) PL 4331/2026.Proposição Sujeita à Apreciação Conclusiva pelas Comissões - Art. 24 II.Regime de Tramitação: Ordinário (Art. 151, III, RICD).",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164803",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641035"
+    },
+    {
         "Sigla Tipo": "RIC",
         "Número": 2230,
         "Ano": 2026,
@@ -103,9 +147,9 @@
         "Número": 2560,
         "Ano": 2026,
         "Ementa": "Requer informações à Ministra de Estado da Cultura, Sra. Margareth Menezes, acerca do Contrato Administrativo nº 1/2024, celebrado com a empresa M/CHECON DESIGN E CENOGRAFIA LTDA., decorrente da Ata de Registro de Preços nº 1/2024 e do Pregão Eletrônico nº 15/2023.",
-        "Situação Tramitação": "Parecer do(a) Relator(a)",
-        "Despacho": "Parecer do Relator, Dep. Altineu Côrtes (PL-RJ), pela aprovação.",
-        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Situação Tramitação": "Publicação de Despacho",
+        "Despacho": "Publicação inicial no DCD do dia 28/10/2026",
+        "Órgão Última Tramitação (Sigla)": "PLEN",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3177574",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645720"
     },
