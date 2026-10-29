@@ -22,6 +22,17 @@
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=1214920"
     },
     {
+        "Sigla Tipo": "PL",
+        "Número": 2937,
+        "Ano": 2022,
+        "Ementa": "Altera a Lei nº 10.609, de 20 de dezembro de 2002, que dispõe sobre a instituição de equipe de transição pelo candidato eleito para o cargo de Presidente da República, cria cargos em comissão, e dá outras providências.",
+        "Situação Tramitação": "Notificacao para Publicação Intermediária",
+        "Despacho": "Designada Relatora da Redação Final, Dep. Sâmia Bomfim (PSOL-SP), para o PL 396/2007, ao qual esta proposição está apensada.",
+        "Órgão Última Tramitação (Sigla)": "CCJC",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2221768",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2341537"
+    },
+    {
         "Sigla Tipo": "REQ",
         "Número": 218,
         "Ano": 2024,
@@ -100,11 +111,22 @@
     },
     {
         "Sigla Tipo": "PL",
+        "Número": 4330,
+        "Ano": 2026,
+        "Ementa": "Institui o Sistema Federal de Transparência Institucional e Comunicação Pública com a Imprensa – SFTCI, estabelece normas para o relacionamento institucional entre a Administração Pública Federal e os veículos de comunicação social, fortalece a transparência ativa da gestão pública e dá outras providências.",
+        "Situação Tramitação": "Distribuição",
+        "Despacho": "Às Comissões deComunicação;Administração e Serviço Público;Finanças e Tributação (Art. 54, RICD) eConstituição e Justiça e de Cidadania (Art. 54, RICD).Proposição Sujeita à Apreciação Conclusiva pelas Comissões - Art. 24 II.Regime de Tramitação: Ordinário (Art. 151, III, RICD).",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164782",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641014"
+    },
+    {
+        "Sigla Tipo": "PL",
         "Número": 4331,
         "Ano": 2026,
         "Ementa": "Institui o Sistema Federal de Excelência da Administração Pública – SFEAP, estabelece princípios, diretrizes e instrumentos para a promoção da excelência na gestão pública, da inovação, da cooperação institucional e da melhoria contínua da Administração Pública federal, e dá outras providências.",
-        "Situação Tramitação": "Notificação de Apensação",
-        "Despacho": "Apense-se a este o PL 4351/2026",
+        "Situação Tramitação": "Distribuição",
+        "Despacho": "Às Comissões deAdministração e Serviço Público eConstituição e Justiça e de Cidadania (Art. 54, RICD).Proposição Sujeita à Apreciação Conclusiva pelas Comissões - Art. 24 II.Regime de Tramitação: Ordinário (Art. 151, III, RICD).",
         "Órgão Última Tramitação (Sigla)": "MESA",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3164783",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641015"
@@ -136,9 +158,9 @@
         "Número": 2230,
         "Ano": 2026,
         "Ementa": "Solicita informações ao Senhor Ministro do Desenvolvimento Agrário e Agricultura Familiar, acerca dos critérios adotados pela Companhia Nacional de Abastecimento – CONAB na execução de recursos destinados ao Programa de Aquisição de Alimentos (PAA), especialmente quanto à seleção de organizações fornecedoras, à execução de emendas parlamentares e aos procedimentos administrativos relacionados às aquisições interestaduais de alimentos.",
-        "Situação Tramitação": "Publicação de Despacho",
-        "Despacho": "Publicação inicial no DCD do dia 27/10/2026",
-        "Órgão Última Tramitação (Sigla)": "PLEN",
+        "Situação Tramitação": "Recebimento",
+        "Despacho": "Recebimento pelo(a) 1SECM.",
+        "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3165357",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641431"
     },
@@ -147,9 +169,9 @@
         "Número": 2560,
         "Ano": 2026,
         "Ementa": "Requer informações à Ministra de Estado da Cultura, Sra. Margareth Menezes, acerca do Contrato Administrativo nº 1/2024, celebrado com a empresa M/CHECON DESIGN E CENOGRAFIA LTDA., decorrente da Ata de Registro de Preços nº 1/2024 e do Pregão Eletrônico nº 15/2023.",
-        "Situação Tramitação": "Publicação de Despacho",
-        "Despacho": "Publicação inicial no DCD do dia 28/10/2026",
-        "Órgão Última Tramitação (Sigla)": "PLEN",
+        "Situação Tramitação": "Recebimento",
+        "Despacho": "Recebimento pelo(a) 1SECM.",
+        "Órgão Última Tramitação (Sigla)": "1SECM",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3177574",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645720"
     },
@@ -185,5 +207,27 @@
         "Órgão Última Tramitação (Sigla)": "PLEN",
         "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3185510",
         "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648668"
+    },
+    {
+        "Sigla Tipo": "RIC",
+        "Número": 2817,
+        "Ano": 2026,
+        "Ementa": "Requer informações ao Ministro de Estado da Gestão e da Inovação em Serviços Públicos sobre as providências adotadas para aperfeiçoar o Sistema de Registro de Preços, os controles relativos à adesão às atas e os mecanismos de prevenção de contratações antieconômicas no âmbito da Administração Pública Federal.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do RIC n. 2817/2026 (Requerimento de Informação), pelo Deputado José Medeiros (PL/MT), que \"Requer informações ao Ministro de Estado da Gestão e da Inovação em Serviços Públicos sobre as providências adotadas para aperfeiçoar o Sistema de Registro de Preços, os controles relativos à adesão às atas e os mecanismos de prevenção de contratações antieconômicas no âmbito da Administração Pública Federal.\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3186778",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649184"
+    },
+    {
+        "Sigla Tipo": "RIC",
+        "Número": 2819,
+        "Ano": 2026,
+        "Ementa": "Requer da Excelentíssima Ministra de Estado da Gestão e da Inovação em Serviços Públicos, informações sobre os cargos em comissão e funções de confiança remanejados ao Ministério do Desenvolvimento, Indústria, Comércio e Serviços pelo Decreto nº 13.139, de 16 de outubro de 2026, para a estruturação da Secretaria-Executiva do Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (CIMCE), bem como sobre seu impacto financeiro.",
+        "Situação Tramitação": "Apresentação de Proposição",
+        "Despacho": "Apresentação do RIC n. 2819/2026 (Requerimento de Informação), pelo Deputado Capitão Alberto Neto (PL/AM), que \"Requer da Excelentíssima Ministra de Estado da Gestão e da Inovação em Serviços Públicos, informações sobre os cargos em comissão e funções de confiança remanejados ao Ministério do Desenvolvimento, Indústria, Comércio e Serviços pelo Decreto nº 13.139, de 16 de outubro de 2026, para a estruturação da Secretaria-Executiva do Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (CIMCE), bem como sobre seu impacto financeiro.\".",
+        "Órgão Última Tramitação (Sigla)": "MESA",
+        "Link para Inteiro Teor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3186783",
+        "Link para Tramitação": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649189"
     }
 ]
